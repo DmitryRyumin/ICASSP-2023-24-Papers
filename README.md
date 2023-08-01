@@ -87,9 +87,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/praveena2j/RecurrentJointAttentionwithLSTMs)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.07958-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
 | 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image | [![GitHub](https://img.shields.io/github/stars/zhangbc12/DAtt-ViT)](https://github.com/zhangbc12/DAtt-ViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094652-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094652) |
 
-### Self-supervised Learning Methods
+### Self-Supervised Learning Methods
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 429 | PointACL: Adversarial Contrastive Learning for Robust Point Clouds Representation under Adversarial Attack | [![GitHub](https://img.shields.io/github/stars/tsbiosky/PointACL)](https://github.com/tsbiosky/PointACL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095313-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095313) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.06971-b31b1b.svg)](https://arxiv.org/abs/2209.06971) |
+| 2579 | Enhancing Representation Learning with Deep Classifiers in Presence of Shortcut # |  |  |
+| 730 | K2NN: Self-Supervised Learning with Hierarchical Nearest Neighbors for Remote Sensing |  |  |
+| 4453 | TriNet: Stabilizing Self-Supervised Learning from Complete or Slow Collapse |  |  |
+| 1629 | On Minimal Variations for Unsupervised Representation Learning |  |  |
+| 740 | Adaptive Data Augmentation for Contrastive Learning |  |  |
 
 ### ASR with Constrained Resource
 
