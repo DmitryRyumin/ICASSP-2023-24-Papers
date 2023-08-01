@@ -54,9 +54,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 647 | Diverse and Vivid Sound Generation from Text Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ligw1998.github.io/audiogeneration.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096643) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
 | 2248 | EPIC-SOUNDS: A Large-Scale Dataset of Actions that Sound | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://epic-kitchens.github.io/epic-sounds/) <br /> [![GitHub](https://img.shields.io/github/stars/epic-kitchens/epic-sounds-annotations)](https://github.com/epic-kitchens/epic-sounds-annotations) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096198) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.00646-b31b1b.svg)](https://arxiv.org/abs/2302.00646) |
-| 784 | I See What You Hear: A Vision-inspired Method to Localize Words |  |  |
-| 6119 | Incorporating Lip Features Into Audio-Visual Multi-Speaker DOA Estimation by Gated Fusion |  |  |
-| 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) |  |  |
+| 784 | I See What You Hear: A Vision-inspired Method to Localize Words | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095413) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13567-b31b1b.svg)](https://arxiv.org/abs/2210.13567) |
+| 6119 | Incorporating Lip Features Into Audio-Visual Multi-Speaker DOA Estimation by Gated Fusion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095549) |
+| 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) | [![GitHub](https://img.shields.io/github/stars/YuanGongND/uavm)](https://github.com/YuanGongND/uavm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00061-b31b1b.svg)](https://arxiv.org/abs/2208.00061) |
 
 ### Drone-vs-Bird Detection Grand Challenge at ICASSP23
 
