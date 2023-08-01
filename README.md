@@ -62,31 +62,30 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 647 | Diverse and Vivid Sound Generation from Text Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ligw1998.github.io/audiogeneration.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096643) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
-| 647 | Recursive Joint Attention for Audio-Visual Fusion in Regression-Based Emotion Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
-| 2248 | EPIC-SOUNDS: A Large-Scale Dataset of Actions that Sound | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://epic-kitchens.github.io/epic-sounds/) <br /> [![GitHub](https://img.shields.io/github/stars/epic-kitchens/epic-sounds-annotations)](https://github.com/epic-kitchens/epic-sounds-annotations) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096198) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.00646-b31b1b.svg)](https://arxiv.org/abs/2302.00646) |
-| 784 | I See What You Hear: A Vision-inspired Method to Localize Words | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095413) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13567-b31b1b.svg)](https://arxiv.org/abs/2210.13567) |
-| 6119 | Incorporating Lip Features Into Audio-Visual Multi-Speaker DOA Estimation by Gated Fusion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095549) |
-| 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) | [![GitHub](https://img.shields.io/github/stars/YuanGongND/uavm)](https://github.com/YuanGongND/uavm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00061-b31b1b.svg)](https://arxiv.org/abs/2208.00061) |
+| 647 | Diverse and Vivid Sound Generation from Text Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ligw1998.github.io/audiogeneration.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096643-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096643) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00628-b31b1b.svg)](https://arxiv.org/abs/2303.00628) |
+| 2248 | EPIC-SOUNDS: A Large-Scale Dataset of Actions that Sound | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://epic-kitchens.github.io/epic-sounds/) <br /> [![GitHub](https://img.shields.io/github/stars/epic-kitchens/epic-sounds-annotations)](https://github.com/epic-kitchens/epic-sounds-annotations) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096198-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096198) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.00646-b31b1b.svg)](https://arxiv.org/abs/2302.00646) |
+| 784 | I See What You Hear: A Vision-inspired Method to Localize Words | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095413-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095413) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13567-b31b1b.svg)](https://arxiv.org/abs/2210.13567) |
+| 6119 | Incorporating Lip Features Into Audio-Visual Multi-Speaker DOA Estimation by Gated Fusion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095549-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095549) |
+| 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) | [![GitHub](https://img.shields.io/github/stars/YuanGongND/uavm)](https://github.com/YuanGongND/uavm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9964072-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00061-b31b1b.svg)](https://arxiv.org/abs/2208.00061) |
 
 ### Drone-vs-Bird Detection Grand Challenge at ICASSP23
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 6834 | High-Speed Drone Detection based on Yolo-v8 | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095516) |
-| 6863 | S-Feature Pyramid Network and Attention Model for Drone Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096226) |
-| 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095146) |
+| 6834 | High-Speed Drone Detection based on Yolo-v8 | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095516-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095516) |
+| 6863 | S-Feature Pyramid Network and Attention Model for Drone Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096226-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096226) |
+| 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095146-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095146) |
 
 ### Human Identification and Face Recognition
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 530 | EMCLR: Expectation Maximization Contrastive Learning Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094790) |
-| 711 | Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095823) |
-| 812 | Top-K Visual Tokens Transformer: Selecting Tokens for Visible-infrared Person Re-Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097170) |
-| 2531 | Frequency-aware Attentional Feature Fusion for Deepfake Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094654) |
-| 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/praveena2j/RecurrentJointAttentionwithLSTMs)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.07958-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
-| 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image | [![GitHub](https://img.shields.io/github/stars/zhangbc12/DAtt-ViT)](https://github.com/zhangbc12/DAtt-ViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094652) |
+| 530 | EMCLR: Expectation Maximization Contrastive Learning Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094790-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094790) |
+| 711 | Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095823-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095823) |
+| 812 | Top-K Visual Tokens Transformer: Selecting Tokens for Visible-infrared Person Re-Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097170-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097170) |
+| 2531 | Frequency-aware Attentional Feature Fusion for Deepfake Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094654) |
+| 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/praveena2j/RecurrentJointAttentionwithLSTMs)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.07958-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
+| 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image | [![GitHub](https://img.shields.io/github/stars/zhangbc12/DAtt-ViT)](https://github.com/zhangbc12/DAtt-ViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094652-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094652) |
 
 ### Self-supervised Learning Methods
 
@@ -408,7 +407,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1158 | Prefix Tuning for Automated Audio Captioning | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://prefixaac.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/MinkyuKim26/Prefix_AAC_ICASSP2023)](https://github.com/MinkyuKim26/Prefix_AAC_ICASSP2023) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096877) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.17489-b31b1b.svg)](https://arxiv.org/abs/2303.17489) |
+| 1158 | Prefix Tuning for Automated Audio Captioning | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://prefixaac.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/MinkyuKim26/Prefix_AAC_ICASSP2023)](https://github.com/MinkyuKim26/Prefix_AAC_ICASSP2023) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096877-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096877) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.17489-b31b1b.svg)](https://arxiv.org/abs/2303.17489) |
 
 ### Tracking
 
