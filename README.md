@@ -95,7 +95,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2579 | Enhancing Representation Learning with Deep Classifiers in Presence of Shortcut | [![GitHub](https://img.shields.io/github/stars/aahmadian-liu/rep-learning-shortcut)](https://github.com/aahmadian-liu/rep-learning-shortcut) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096346-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096346) |
 | 730 | K<sup>2</sup>NN: Self-Supervised Learning with Hierarchical Nearest Neighbors for Remote Sensing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096425-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096425) |
 | 4453 | TriNet: Stabilizing Self-Supervised Learning from Complete or Slow Collapse | [![GitHub](https://img.shields.io/github/stars/tencent-ailab/TriNet)](https://github.com/tencent-ailab/TriNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094725-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094725) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.00656-b31b1b.svg)](https://arxiv.org/abs/2301.00656) |
-| 1629 | On Minimal Variations for Unsupervised Representation Learning |  |  |
+| 1629 | On Minimal Variations for Unsupervised Representation Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095184-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095184) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03782-b31b1b.svg)](https://arxiv.org/abs/2211.03782) |
 | 740 | Adaptive Data Augmentation for Contrastive Learning |  |  |
 
 ### ASR with Constrained Resource
