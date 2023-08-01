@@ -73,7 +73,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 6834 | High-Speed Drone Detection based on Yolo-v8 | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095516) |
-| 6863 | S-Feature Pyramid Network and Attention Model for Drone Detection |  |  |
+| 6863 | S-Feature Pyramid Network and Attention Model for Drone Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096226) |
 | 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker |  |  |
 
 ### Human Identification and Face Recognition
