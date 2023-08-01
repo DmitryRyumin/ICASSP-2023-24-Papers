@@ -83,8 +83,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 530 | EMCLR: Expectation Maximization Contrastive Learning Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094790) |
 | 711 | Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095823) |
 | 812 | Top-K Visual Tokens Transformer: Selecting Tokens for Visible-infrared Person Re-Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097170) |
-| 2531 | Frequency-aware Attentional Feature Fusion for Deepfake Detection |  |  |
-| 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition |  |  |
+| 2531 | Frequency-aware Attentional Feature Fusion for Deepfake Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094654) |
+| 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/praveena2j/RecurrentJointAttentionwithLSTMs)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.07958-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
 | 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image |  |  |
 
 ### Self-supervised Learning Methods
