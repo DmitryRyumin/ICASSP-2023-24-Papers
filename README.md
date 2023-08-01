@@ -92,7 +92,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 429 | PointACL: Adversarial Contrastive Learning for Robust Point Clouds Representation under Adversarial Attack | [![GitHub](https://img.shields.io/github/stars/tsbiosky/PointACL)](https://github.com/tsbiosky/PointACL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095313-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095313) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.06971-b31b1b.svg)](https://arxiv.org/abs/2209.06971) |
-| 2579 | Enhancing Representation Learning with Deep Classifiers in Presence of Shortcut # |  |  |
+| 2579 | Enhancing Representation Learning with Deep Classifiers in Presence of Shortcut | [![GitHub](https://img.shields.io/github/stars/aahmadian-liu/rep-learning-shortcut)](https://github.com/aahmadian-liu/rep-learning-shortcut) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096346-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096346) |
 | 730 | K2NN: Self-Supervised Learning with Hierarchical Nearest Neighbors for Remote Sensing |  |  |
 | 4453 | TriNet: Stabilizing Self-Supervised Learning from Complete or Slow Collapse |  |  |
 | 1629 | On Minimal Variations for Unsupervised Representation Learning |  |  |
