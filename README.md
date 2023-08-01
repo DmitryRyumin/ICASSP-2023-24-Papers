@@ -35,9 +35,8 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />
+  Other collections of the best AI conferences
 </a>
-
-[*Other collections of the best AI conferences*](https://github.com/DmitryRyumin/NewEraAI-Papers).
 
 > ***NOTE*:** Conference table will be up to date all the time.
 
