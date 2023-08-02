@@ -120,7 +120,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2417 | Hierarchical Softmax for End-to-End Low-Resource Multilingual Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095133) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03855-b31b1b.svg)](https://arxiv.org/abs/2204.03855) |
-| 4510 | Improving Massively Multilingual ASR With Auxiliary CTC Objectives |  |  |
+| 4510 | Improving Massively Multilingual ASR With Auxiliary CTC Objectives | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/espnet/espnet/tree/master/egs2/fleurs/asr1) <br /> [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095326-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095326) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.12829-b31b1b.svg)](https://arxiv.org/abs/2302.12829) |
 | 4777 | Massively Multilingual Shallow Fusion with Large Language Models |  |  |
 | 5465 | UML: A Universal Monolingual Output Layer for Multilingual ASR |  |  |
 | 5744 | Investigation Into Phone-based Subword Units for Multilingual End-to-End Speech Recognition |  |  |
