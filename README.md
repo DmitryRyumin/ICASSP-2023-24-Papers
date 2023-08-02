@@ -458,9 +458,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Tracking
 
-| **#** | **Title** | **Repo** | **Paper** |
-|-------|-----------|:--------:|:---------:|
-| 2238 | Robust Subspace Tracking With Contamination via Alpha-Divergence|  [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-21385335-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931)  |
+> Will soon be added
 
 ### Radar-Assisted Perception (RAP)
 
@@ -543,10 +541,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 ### Adversarial Machine Learning
-
-> Will soon be added
-
-### Self-Supervised Learning Methods
 
 > Will soon be added
 
@@ -680,7 +674,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Tracking, Data Fusion, and Sensor Networks
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2238 | Robust Subspace Tracking with Contamination via $\alpha$-Divergence | [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371609095_ROBUST_SUBSPACE_TRACKING_WITH_CONTAMINATION_MITIGATION_VIA_a-DIVERGENCE) |
 
 ### Speaker Recognition: Neural Network Architecture
 
