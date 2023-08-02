@@ -676,7 +676,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2238 | Robust Subspace Tracking with Contamination via $\alpha$-Divergence | [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371609095_ROBUST_SUBSPACE_TRACKING_WITH_CONTAMINATION_MITIGATION_VIA_a-DIVERGENCE) |
+| 2238 | Robust Subspace Tracking with Contamination via &alpha;-Divergence | [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371609095_ROBUST_SUBSPACE_TRACKING_WITH_CONTAMINATION_MITIGATION_VIA_a-DIVERGENCE) |
 
 ### Speaker Recognition: Neural Network Architecture
 
