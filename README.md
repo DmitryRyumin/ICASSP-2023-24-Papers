@@ -124,7 +124,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4777 | Massively Multilingual Shallow Fusion with Large Language Models |  |  |
 | 5465 | UML: A Universal Monolingual Output Layer for Multilingual ASR |  |  |
 | 5744 | Investigation Into Phone-based Subword Units for Multilingual End-to-End Speech Recognition |  |  |
-| 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities |  |  |
+| 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094667) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.05756-b31b1b.svg)](https://arxiv.org/abs/2211.05756) |
 
 ### Adaptive Signal Processing
 
