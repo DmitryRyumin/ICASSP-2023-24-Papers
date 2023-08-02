@@ -117,7 +117,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: Multilingual Speech Recognition
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2417 | Hierarchical Softmax for End-to-End Low-Resource Multilingual Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095133) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03855-b31b1b.svg)](https://arxiv.org/abs/2204.03855) |
+| 4510 | Improving Massively Multilingual ASR With Auxiliary CTC Objectives |  |  |
+| 4777 | Massively Multilingual Shallow Fusion with Large Language Models |  |  |
+| 5465 | UML: A Universal Monolingual Output Layer for Multilingual ASR |  |  |
+| 5744 | Investigation Into Phone-based Subword Units for Multilingual End-to-End Speech Recognition |  |  |
+| 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities |  |  |
 
 ### Adaptive Signal Processing
 
