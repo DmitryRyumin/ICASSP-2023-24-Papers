@@ -106,7 +106,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR with Constrained Resource
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 690 | De'HuBERT: Disentangling Noise in a Self-Supervised Model for Robust Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096603-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096603) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14597-b31b1b.svg)](https://arxiv.org/abs/2302.14597) |
+| 1948 | Masked Token Similarity Transfer for Compressing Transformer-based ASR Models |  |  |
+| 2888 | Unsupervised Fine-Tuning Data Selection for ASR using Self-Supervised Speech Models |  |  |
+| 3250 | CB-Conformer: Contextual Biasing Conformer for Biased Word Recognition |  |  |
+| 3712 | Context-aware Fine-Tuning of Self-Supervised Speech Models |  |  |
+| 6449 | Data2Vec-AQC: Search for the Right Teaching Assistant in the Teacher-Student Training Setup |  |  |
 
 ### ASR: Multilingual Speech Recognition
 
