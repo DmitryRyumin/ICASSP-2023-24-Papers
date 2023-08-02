@@ -112,8 +112,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1948 | Masked Token Similarity Transfer for Compressing Transformer-based ASR Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096531-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096531) |
 | 2888 | Unsupervised Fine-Tuning Data Selection for ASR using Self-Supervised Speech Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095264-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095264) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.01661-b31b1b.svg)](https://arxiv.org/abs/2212.01661) |
 | 3250 | CB-Conformer: Contextual Biasing Conformer for Biased Word Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095469-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095469) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.09607-b31b1b.svg)](https://arxiv.org/abs/2304.09607) |
-| 3712 | Context-aware Fine-Tuning of Self-Supervised Speech Models |  |  |
-| 6449 | Data2Vec-AQC: Search for the Right Teaching Assistant in the Teacher-Student Training Setup |  |  |
+| 3712 | Context-aware Fine-Tuning of Self-Supervised Speech Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094687-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094687) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.08542-b31b1b.svg)](https://arxiv.org/abs/2212.08542) |
+| 6449 | Data2vec-Aqc: Search for the Right Teaching Assistant in the Teacher-Student Training Setup | [![GitHub](https://img.shields.io/github/stars/Speech-Lab-IITM/data2vec-aqc)](https://github.com/Speech-Lab-IITM/data2vec-aqc) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094726-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094726) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01246-b31b1b.svg)](https://arxiv.org/abs/2211.01246) |
 
 ### ASR: Multilingual Speech Recognition
 
