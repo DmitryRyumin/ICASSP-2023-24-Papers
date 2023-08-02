@@ -334,7 +334,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Diffusion-based Generative Models for Audio and Speech
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 5245 | Cold Diffusion for Speech Enhancement | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02527) |
+| 5709 | Analysing Diffusion-based Generative Approaches versus Discriminative Approaches for Speech Restoration| [![GitHub](https://img.shields.io/github/stars/sp-uhh/sgmse)](https://github.com/sp-uhh/sgmse) <br/> [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.inf.uni-hamburg.de/en/inst/ab/sp/publications/sgmse-multitask.html) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02397) |
+| 2264 | Unsupervised vocal dereverberation with diffusion-based generative models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://koichi-saito-sony.github.io/unsupervised-vocal-dereverb/) |[![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.04124) |
+| 5637 | Solving audio inverse problems with a diffusion model | [![GitHub](https://img.shields.io/github/stars/eloimoliner/CQTdiff)](https://github.com/eloimoliner/CQTdiff) | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.15228) |
+| 5778 | DiffPhase: Generative Diffusion-based STFT Phase Retrieval | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.04332) |
+| 3196 | Optimal Transport in Diffusion Modeling for Conversion Tasks in Audio Domain | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095516-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10094854) |
+
 
 ### Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge
 
