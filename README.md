@@ -788,7 +788,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement - Diffusion and Other Generative Models
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2594 | Cross-domain Diffusion based Speech Enhancement for Very Noisy Speech | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://whmrtm.github.io/CDDSE_demo.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096985/) |
+| 3643 | SRTNet: Time Domain Speech Enhancement Via Stochastic Refinement | [![GitHub](https://img.shields.io/github/stars/zhibinQiu/SRTNet)](https://github.com/zhibinQiu/SRTNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095850/) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.16805) |
+| 4671 | DIFFUSION-BASED GENERATIVE SPEECH SOURCE SEPARATION | [![GitHub](https://img.shields.io/github/stars/fakufaku/diffusion-separation)](https://github.com/fakufaku/diffusion-separation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095310/) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.17327) |
+| 4716 | SEPDIFF: SPEECH SEPARATION BASED ON DENOISING DIFFUSION MODEL | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095979/) |
+| 5798 | Fast and Efficient Speech Enhancement with Variational Autoencoders | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095237/) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02728) |
+| 6105 | Metric-oriented Speech Enhancement using Diffusion Probabilistic Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095046/) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2302.11989) |
+
 
 ### ICASSP2023 General Meeting Understanding and Generation (MUG) Challenge
 
