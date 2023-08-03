@@ -152,11 +152,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 5872 | ClassA Entropy for the Analysis of Structural Complexity of Physiological Signals |  |  |
-| 1034 | Unobtrusive Respiratory Monitoring System for Intensive Care |  |  |
-| 4381 | Improved WiFi-based Respiration Tracking via Contrast Enhancement |  |  |
-| 4851 | Joint Angle and Respiration Estimation for Passive and Device-Free Respiration Monitoring |  |  |
-| 3418 | Implementing Continuous HRTF Measurement in Near-Field |  |  |
+| 5872 | ClassA Entropy for the Analysis of Structural Complexity of Physiological Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096270-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096270) |
+| 1034 | Unobtrusive Respiratory Monitoring System for Intensive Care | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095831-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095831) |
+| 4381 | Improved WiFi-based Respiration Tracking via Contrast Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094823-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094823) |
+| 4851 | Joint Angle and Respiration Estimation for Passive and Device-Free Respiration Monitoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095834-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095834) |
+| 3418 | Implementing Continuous HRTF Measurement in Near-Field | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096536-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096536) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08080-b31b1b.svg)](https://arxiv.org/abs/2302.08080) |
 | 5094 | SeliNet: A Lightweight Model for Single Channel Speech Separation |  |  |
 | 5196 | Adaptive Time-Scale Modification for Improving Speech Intelligibility based on Phoneme Clustering for Streaming Services |  |  |
 | 3109 | Cutting through the Noise: an Empirical Comparison of Psychoacoustic and Envelope-based Features for Machinery Fault Detection |  |  |
