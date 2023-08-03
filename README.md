@@ -210,9 +210,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1170 | PRRD: Pixel-Region Relation Distillation for Efficient Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094967-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094967) |
 | 2521 | Spatial Correlation Fusion Network for Few-Shot Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094973-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094973) |
 | 3306 | Exploring Vision Transformer Layer Choosing for Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096645) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.01279-b31b1b.svg)](https://arxiv.org/abs/2305.01279) |
-| 3941 | joint training of hierarchical gans and semantic segmentation for expression translation |  |  |
-| 6357 | progressive refinement learning based on feature cross perception for residential areas semantic segmentation |  |  |
-| 1599 | Lightweight Portrait Segmentation via Edge-optimized Attention |  |  |
+| 3941 | Joint Training of Hierarchical GANs and Semantic Segmentation for Expression Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097243-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097243) |
+| 6357 | Progressive Refinement Learning based on Feature Cross Perception for Residential Areas Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095499-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095499) |
+| 1599 | Lightweight Portrait Segmentation via Edge-optimized Attention | [![GitHub](https://img.shields.io/github/stars/XinyueZhangqdu/ESPS)](https://github.com/XinyueZhangqdu/ESPS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096654) |
 | 3857 | A Dynamic Cross-scale Transformer with Dual-compound Representation for 3D Medical Image Segmentation |  |  |
 | 3793 | LABANet: Lead-Assisting Backbone Attention Network for oral multi-pathology segmentation |  |  |
 
