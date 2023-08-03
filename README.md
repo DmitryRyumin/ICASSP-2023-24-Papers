@@ -157,13 +157,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4381 | Improved WiFi-based Respiration Tracking via Contrast Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094823-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094823) |
 | 4851 | Joint Angle and Respiration Estimation for Passive and Device-Free Respiration Monitoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095834-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095834) |
 | 3418 | Implementing Continuous HRTF Measurement in Near-Field | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096536-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096536) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08080-b31b1b.svg)](https://arxiv.org/abs/2302.08080) |
-| 5094 | SeliNet: A Lightweight Model for Single Channel Speech Separation |  |  |
-| 5196 | Adaptive Time-Scale Modification for Improving Speech Intelligibility based on Phoneme Clustering for Streaming Services |  |  |
-| 3109 | Cutting through the Noise: an Empirical Comparison of Psychoacoustic and Envelope-based Features for Machinery Fault Detection |  |  |
-| 4835 | Cochlear Decomposition: A Novel Bio-Inspired Multiscale Analysis Framework |  |  |
-| 2458 | Design and Performance of the Low-Power Noise Reduction Algorithm of the Med-El Sonnet 2 Cochlear Implant Audio Processor |  |  |
-| 6491 | Modulo EEG Signal Recovery using Transformers |  |  |
-| 454 | Knowledge-Graph Augmented Music Representation for Genre Classification |  |  |
+| 5094 | SeliNet: A Lightweight Model for Single Channel Speech Separation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097121-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097121) |
+| 5196 | Adaptive Time-Scale Modification for Improving Speech Intelligibility based on Phoneme Clustering for Streaming Services | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095455-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095455) |
+| 3109 | Cutting through the Noise: An Empirical Comparison of Psychoacoustic and Envelope-based Features for Machinery Fault Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095756-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095756) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01704-b31b1b.svg)](https://arxiv.org/abs/2211.01704) |
+| 4835 | Cochlear Decomposition: A Novel Bio-Inspired Multiscale Analysis Framework | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097164-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097164) |
+| 2458 | Design and Performance of the Low-Power Noise Reduction Algorithm of the Med-EL Sonnet 2<sup>TM</sup> Cochlear Implant Audio Processor | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095047-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095047) |
+| 6491 | Modulo EEG Signal Recovery using Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095357) |
+| 454 | Knowledge-Graph Augmented Music Representation for Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097131-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097131) |
 
 ### Super Resolution
 
