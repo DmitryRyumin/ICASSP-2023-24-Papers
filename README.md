@@ -201,7 +201,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Semantic Segmentation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 190 | LoG-CAN: Local-Global Class-aware Network for Semantic Segmentation of Remote Sensing Images | [![GitHub](https://img.shields.io/github/stars/xwmaxwma/rssegmentation)](https://github.com/xwmaxwma/rssegmentation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095835-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095835) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07747-b31b1b.svg)](https://arxiv.org/abs/2303.07747) |
+| 406 | WUDA: Unsupervised Domain Adaptation Based on Weak Source Domain Labels |  |  |
+| 555 | Class-Aware Contextual Information for Semantic Segmentation |  |  |
+| 1132 | semi-supervised semantic segmentation with structured output space adaption |  |  |
+| 1170 | prrd: pixel-region relation distillation for efficient semantic segmentation |  |  |
+| 2521 | spatial correlation fusion network for few-shot segmentation |  |  |
+| 3306 | Exploring vision transformer layer choosing for semantic segmentation |  |  |
+| 3941 | joint training of hierarchical gans and semantic segmentation for expression translation |  |  |
+| 6357 | progressive refinement learning based on feature cross perception for residential areas semantic segmentation |  |  |
+| 1599 | Lightweight Portrait Segmentation via Edge-optimized Attention |  |  |
+| 3857 | A Dynamic Cross-scale Transformer with Dual-compound Representation for 3D Medical Image Segmentation |  |  |
+| 3793 | LABANet: Lead-Assisting Backbone Attention Network for oral multi-pathology segmentation |  |  |
 
 ### Object Segmentation
 
