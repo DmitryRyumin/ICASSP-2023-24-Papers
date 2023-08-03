@@ -190,11 +190,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5479 | Aprogressive Image Dehazing Framework with Inter and Intra Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094653-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094653) |
 | 5267 | Graph-based Point Cloud Color Denoising with 3-Dimensional Patch-based Similarity | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095488-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095488) |
 | 2310 | CAENet: using Collaborative Attention Transformer and Add-Boost Strategy for Single Image Deraining | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095649-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095649) |
-| 1791 | SFEMGN: Image Denoising with Shallow Feature Enhancement Network and Multi-Scale ConvGRU |  |  |
-| 1554 | Affinity Learning with Blind-Spot Self-Supervision for Image Denoising |  |  |
-| 1473 | SAR Image Despeckling with Residual-in-Residual Dense Generative Adversarial Network |  |  |
-| 1211 | Uncer2Natural: Uncertainty-aware Unsupervised Image Denoising |  |  |
-| 553 | HPFTN: Hierarchical Progressive Fusion Transformer Network for Video Denoising |  |  |
+| 1791 | SFEMGN: Image Denoising with Shallow Feature Enhancement Network and Multi-Scale ConvGRU | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095471-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095471) |
+| 1554 | Affinity Learning with Blind-Spot Self-Supervision for Image Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095804-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095804) |
+| 1473 | SAR Image Despeckling with Residual-in-Residual Dense Generative Adversarial Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096355-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096355) |
+| 1211 | Uncer2Natural: Uncertainty-aware Unsupervised Image Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096540-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096540) |
+| 553 | HPFTN: Hierarchical Progressive Fusion Transformer Network for Video Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095861-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095861) |
 | 398 | Subspace Modeling enabled High-Sensitivity X-Ray Chemical Imaging |  |  |
 | 274 | MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing |  |  |
 | 117 | Hyperspectral Image Denoising via Nonlocal Rank Residual Modeling |  |  |
