@@ -679,6 +679,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2238 | Robust Subspace Tracking with Contamination via &alpha;-Divergence | [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371609095_ROBUST_SUBSPACE_TRACKING_WITH_CONTAMINATION_MITIGATION_VIA_a-DIVERGENCE) |
+| 6240 |  Nonnegative block-term decomposition with the β-divergence: joint data fusion and blind spectral unmixing | [![GitHub](https://img.shields.io/github/stars/cprevost4/bLL1_NBTD)](https://github.com/cprevost4/bLL1_NBTD) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096100-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096100) |
+
 
 ### Speaker Recognition: Neural Network Architecture
 
