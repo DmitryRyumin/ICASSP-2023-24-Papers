@@ -131,7 +131,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1224 | A Compensated Shrinkage Affine Projection Algorithm for Debiased Sparse Adaptive Filtering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096735-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096735) |
-| 1761 | Dynamic Selection of p-Norm in Linear Adaptive Filtering via Online Kernel-based Reinforcement Learning |  |  |
+| 1761 | Dynamic Selection of p-Norm in Linear Adaptive Filtering via Online Kernel-based Reinforcement Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096825-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096825) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.11317-b31b1b.svg)](https://arxiv.org/abs/2210.11317) |
 | 2511 | Neural Network Models with Integrated Training and Adaptation for Nonlinear Acoustic System Identification |  |  |
 | 3895 | Neural Mode Estimation |  |  |
 | 5352 | Adaptive ECCM for Mitigating Smart Jammers |  |  |
