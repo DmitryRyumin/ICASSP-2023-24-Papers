@@ -195,9 +195,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1473 | SAR Image Despeckling with Residual-in-Residual Dense Generative Adversarial Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096355-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096355) |
 | 1211 | Uncer2Natural: Uncertainty-aware Unsupervised Image Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096540-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096540) |
 | 553 | HPFTN: Hierarchical Progressive Fusion Transformer Network for Video Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095861-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095861) |
-| 398 | Subspace Modeling enabled High-Sensitivity X-Ray Chemical Imaging |  |  |
-| 274 | MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing |  |  |
-| 117 | Hyperspectral Image Denoising via Nonlocal Rank Residual Modeling |  |  |
+| 398 | Subspace Modeling enabled High-Sensitivity X-Ray Chemical Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094976-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094976) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2201.00259-b31b1b.svg)](https://arxiv.org/abs/2201.00259) |
+| 274 | MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095605-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095605) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2207.05621-b31b1b.svg)](https://arxiv.org/abs/2207.05621) |
+| 117 | Hyperspectral Image Denoising via Nonlocal Rank Residual Modeling | [![GitHub](https://img.shields.io/github/stars/zhazhiyuan/NRR_HSI_Denoising_Demo)](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096242-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096242) |
 
 ### Semantic Segmentation
 
