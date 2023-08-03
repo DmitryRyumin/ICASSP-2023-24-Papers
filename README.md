@@ -141,12 +141,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 3049 | 6G Integrated Sensing and Communication - Sensing Assisted Environmental Reconstruction and Communication |  |  |
-| 3325 | Neurally Augmented State Space Model for Simultaneous Communication and Tracking with Low Complexity Receivers |  |  |
-| 3456 | Multi-View Millimeter-Wave Imaging Over Wireless Cellular Network |  |  |
-| 3803 | Joint Data Association, NLOS Mitigation, and Clutter Suppression for Networked Device-Free Sensing in 6G Cellular Network |  |  |
-| 4255 | Integrating the Sensing and Radio Communications Channel Modelling from Radar Mutual Interference |  |  |
-| 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface |  |  |
+| 3049 | 6G Integrated Sensing and Communication - Sensing Assisted Environmental Reconstruction and Communication | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096544-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096544) |
+| 3325 | Neurally Augmented State Space Model for Simultaneous Communication and Tracking with Low Complexity Receivers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095824-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095824) |
+| 3456 | Multi-View Millimeter-Wave Imaging Over Wireless Cellular Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097213-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097213) |
+| 3803 | Joint Data Association, NLOS Mitigation, and Clutter Suppression for Networked Device-Free Sensing in 6G Cellular Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096727-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096727) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08080-b31b1b.svg)](https://arxiv.org/abs/2302.08080) |
+| 4255 | Integrating the Sensing and Radio Communications Channel Modelling from Radar Mutual Interference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095846-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095846) |
+| 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097134-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097134) |
 
 ### Applications to Physiological Signals, Audio, and Speech
 
