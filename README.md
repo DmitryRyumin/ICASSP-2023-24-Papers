@@ -128,7 +128,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Adaptive Signal Processing
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 1224 | A Compensated Shrinkage Affine Projection Algorithm for Debiased Sparse Adaptive Filtering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096735-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096735) |
+| 1761 | Dynamic Selection of p-Norm in Linear Adaptive Filtering via Online Kernel-based Reinforcement Learning |  |  |
+| 2511 | Neural Network Models with Integrated Training and Adaptation for Nonlinear Acoustic System Identification |  |  |
+| 3895 | Neural Mode Estimation |  |  |
+| 5352 | Adaptive ECCM for Mitigating Smart Jammers |  |  |
+| 6529 | Differentiable Adaptive Short-Time Fourier Transform with Respect to the Window Length |  |  |
 
 ### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
 
