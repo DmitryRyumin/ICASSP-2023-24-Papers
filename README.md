@@ -167,7 +167,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Super Resolution
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 275 | PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/MIVRC/PFT-PyTorch)](https://github.com/MIVRC/PFT-PyTorch) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096174-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096174) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13807-b31b1b.svg)](https://arxiv.org/abs/2303.13807) |
+| 326 | Raising the Limit of Image Rescaling using Auxiliary Encoding |  |  |
+| 1431 | Kernel Estimation and Deconvolution for Blind Image Super-Resolution |  |  |
+| 1555 | A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution |  |  |
+| 1900 | Long-Short Attention Network for the Spectral Super-Resolution of Multispectral Images |  |  |
+| 2363 | Multi-Level Fusion for Burst Super-Resolution with Deep Permutation-Invariant Conditioning |  |  |
+| 2684 | Frequency Reciprocal Action and Fusion for Single Image Super-Resolution |  |  |
+| 2777 | FCIR: Rethink Aerial Image Super Resolution with Fourier Analysis |  |  |
+| 2962 | A Content-based Multi-Scale Network for Single Image Super-Resolution |  |  |
+| 3053 | Learning to Explain: a Gradient-based Attribution Method for Interpreting Super-Resolution Networks |  |  |
+| 3140 | CNN Filter for RPR-based SR in VVC with Wavelet Decomposition |  |  |
+| 3555 | Local to Global Prior Learning for Blind Unsupervised Image Super Resolution |  |  |
 
 ### Denoising
 
