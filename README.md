@@ -176,7 +176,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1900 | Long-Short Attention Network for the Spectral Super-Resolution of Multispectral Images | [![GitHub](https://img.shields.io/github/stars/RSMagneto/LSA-Net)](https://github.com/RSMagneto/LSA-Net) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096212-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096212) |
 | 2363 | Multi-Level Fusion for Burst Super-Resolution with Deep Permutation-Invariant Conditioning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096252-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096252) |
 | 2684 | Frequency Reciprocal Action and Fusion for Single Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096598-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096598) |
-| 2777 | FCIR: Rethink Aerial Image Super Resolution with Fourier Analysis |  |  |
+| 2777 | FCIR: Rethink Aerial Image Super Resolution with Fourier Analysis | [![GitHub](https://img.shields.io/github/stars/zpc456/FCIR)](https://github.com/zpc456/FCIR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097240-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097240) |
 | 2962 | A Content-based Multi-Scale Network for Single Image Super-Resolution |  |  |
 | 3053 | Learning to Explain: a Gradient-based Attribution Method for Interpreting Super-Resolution Networks |  |  |
 | 3140 | CNN Filter for RPR-based SR in VVC with Wavelet Decomposition |  |  |
