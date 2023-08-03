@@ -168,7 +168,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Matrix/Tensor Factorization and Completion
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2388 |  PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) |
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
 
