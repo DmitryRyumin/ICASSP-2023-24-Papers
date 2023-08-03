@@ -139,11 +139,31 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 3049 | 6G Integrated Sensing and Communication - Sensing Assisted Environmental Reconstruction and Communication |  |  |
+| 3325 | Neurally Augmented State Space Model for Simultaneous Communication and Tracking with Low Complexity Receivers |  |  |
+| 3456 | Multi-View Millimeter-Wave Imaging Over Wireless Cellular Network |  |  |
+| 3803 | Joint Data Association, NLOS Mitigation, and Clutter Suppression for Networked Device-Free Sensing in 6G Cellular Network |  |  |
+| 4255 | Integrating the Sensing and Radio Communications Channel Modelling from Radar Mutual Interference |  |  |
+| 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface |  |  |
 
 ### Applications to Physiological Signals, Audio, and Speech
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 5872 | ClassA Entropy for the Analysis of Structural Complexity of Physiological Signals |  |  |
+| 1034 | Unobtrusive Respiratory Monitoring System for Intensive Care |  |  |
+| 4381 | Improved WiFi-based Respiration Tracking via Contrast Enhancement |  |  |
+| 4851 | Joint Angle and Respiration Estimation for Passive and Device-Free Respiration Monitoring |  |  |
+| 3418 | Implementing Continuous HRTF Measurement in Near-Field |  |  |
+| 5094 | SeliNet: A Lightweight Model for Single Channel Speech Separation |  |  |
+| 5196 | Adaptive Time-Scale Modification for Improving Speech Intelligibility based on Phoneme Clustering for Streaming Services |  |  |
+| 3109 | Cutting through the Noise: an Empirical Comparison of Psychoacoustic and Envelope-based Features for Machinery Fault Detection |  |  |
+| 4835 | Cochlear Decomposition: A Novel Bio-Inspired Multiscale Analysis Framework |  |  |
+| 2458 | Design and Performance of the Low-Power Noise Reduction Algorithm of the Med-El Sonnet 2 Cochlear Implant Audio Processor |  |  |
+| 6491 | Modulo EEG Signal Recovery using Transformers |  |  |
+| 454 | Knowledge-Graph Augmented Music Representation for Genre Classification |  |  |
 
 ### Super Resolution
 
