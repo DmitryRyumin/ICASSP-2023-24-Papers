@@ -206,10 +206,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 190 | LoG-CAN: Local-Global Class-aware Network for Semantic Segmentation of Remote Sensing Images | [![GitHub](https://img.shields.io/github/stars/xwmaxwma/rssegmentation)](https://github.com/xwmaxwma/rssegmentation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095835-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095835) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07747-b31b1b.svg)](https://arxiv.org/abs/2303.07747) |
 | 406 | WUDA: Unsupervised Domain Adaptation based on Weak Source Domain Labels | [![GitHub](https://img.shields.io/github/stars/bupt-ai-cz/WUDA)](https://github.com/bupt-ai-cz/WUDA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094958-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094958) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.02088-b31b1b.svg)](https://arxiv.org/abs/2210.02088) |
 | 555 | Class-aware Contextual Information for Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094805-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094805) |
-| 1132 | semi-supervised semantic segmentation with structured output space adaption |  |  |
-| 1170 | prrd: pixel-region relation distillation for efficient semantic segmentation |  |  |
-| 2521 | spatial correlation fusion network for few-shot segmentation |  |  |
-| 3306 | Exploring vision transformer layer choosing for semantic segmentation |  |  |
+| 1132 | Semi-Supervised Semantic Segmentation with Structured Output Space Adaption | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095628-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095628) |
+| 1170 | PRRD: Pixel-Region Relation Distillation for Efficient Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094967-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094967) |
+| 2521 | Spatial Correlation Fusion Network for Few-Shot Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094973-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094973) |
+| 3306 | Exploring Vision Transformer Layer Choosing for Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096645) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.01279-b31b1b.svg)](https://arxiv.org/abs/2305.01279) |
 | 3941 | joint training of hierarchical gans and semantic segmentation for expression translation |  |  |
 | 6357 | progressive refinement learning based on feature cross perception for residential areas semantic segmentation |  |  |
 | 1599 | Lightweight Portrait Segmentation via Edge-optimized Attention |  |  |
