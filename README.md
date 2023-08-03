@@ -132,10 +132,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 1224 | A Compensated Shrinkage Affine Projection Algorithm for Debiased Sparse Adaptive Filtering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096735-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096735) |
 | 1761 | Dynamic Selection of p-Norm in Linear Adaptive Filtering via Online Kernel-based Reinforcement Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096825-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096825) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.11317-b31b1b.svg)](https://arxiv.org/abs/2210.11317) |
-| 2511 | Neural Network Models with Integrated Training and Adaptation for Nonlinear Acoustic System Identification |  |  |
-| 3895 | Neural Mode Estimation |  |  |
-| 5352 | Adaptive ECCM for Mitigating Smart Jammers |  |  |
-| 6529 | Differentiable Adaptive Short-Time Fourier Transform with Respect to the Window Length |  |  |
+| 2511 | Neural Network Models with Integrated Training and Adaptation for Nonlinear Acoustic System Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095123-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095123) |
+| 3895 | Neural Mode Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094930-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094930) |
+| 5352 | Adaptive ECCM for Mitigating Smart Jammers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095625) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.02002-b31b1b.svg)](https://arxiv.org/abs/2212.02002) |
+| 6529 | Differentiable Adaptive Short-Time Fourier Transform with Respect to the Window Length | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095245-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095245) |
 
 ### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
 
