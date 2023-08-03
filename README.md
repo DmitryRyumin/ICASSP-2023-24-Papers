@@ -213,8 +213,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3941 | Joint Training of Hierarchical GANs and Semantic Segmentation for Expression Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097243-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097243) |
 | 6357 | Progressive Refinement Learning based on Feature Cross Perception for Residential Areas Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095499-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095499) |
 | 1599 | Lightweight Portrait Segmentation via Edge-optimized Attention | [![GitHub](https://img.shields.io/github/stars/XinyueZhangqdu/ESPS)](https://github.com/XinyueZhangqdu/ESPS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096654) |
-| 3857 | A Dynamic Cross-scale Transformer with Dual-compound Representation for 3D Medical Image Segmentation |  |  |
-| 3793 | LABANet: Lead-Assisting Backbone Attention Network for oral multi-pathology segmentation |  |  |
+| 3857 | A Dynamic Cross-Scale Transformer with Dual-Compound Representation for 3D Medical Image Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095987-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095987) |
+| 3793 | LABANet: Lead-Assisting Backbone Attention Network for Oral Multi-Pathology Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094785-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094785) |
 
 ### Object Segmentation
 
