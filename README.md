@@ -170,8 +170,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 275 | PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/MIVRC/PFT-PyTorch)](https://github.com/MIVRC/PFT-PyTorch) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096174-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096174) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13807-b31b1b.svg)](https://arxiv.org/abs/2303.13807) |
-| 326 | Raising the Limit of Image Rescaling using Auxiliary Encoding |  |  |
-| 1431 | Kernel Estimation and Deconvolution for Blind Image Super-Resolution |  |  |
+| 326 | Raising the Limit of Image Rescaling using Auxiliary Encoding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094627-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094627) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06747-b31b1b.svg)](https://arxiv.org/abs/2303.06747) |
+| 1431 | Kernel Estimation and Deconvolution for Blind Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094753-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094753) |
 | 1555 | A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution |  |  |
 | 1900 | Long-Short Attention Network for the Spectral Super-Resolution of Multispectral Images |  |  |
 | 2363 | Multi-Level Fusion for Burst Super-Resolution with Deep Permutation-Invariant Conditioning |  |  |
