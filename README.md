@@ -204,7 +204,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 190 | LoG-CAN: Local-Global Class-aware Network for Semantic Segmentation of Remote Sensing Images | [![GitHub](https://img.shields.io/github/stars/xwmaxwma/rssegmentation)](https://github.com/xwmaxwma/rssegmentation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095835-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095835) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07747-b31b1b.svg)](https://arxiv.org/abs/2303.07747) |
-| 406 | WUDA: Unsupervised Domain Adaptation Based on Weak Source Domain Labels |  |  |
+| 406 | WUDA: Unsupervised Domain Adaptation based on Weak Source Domain Labels | [![GitHub](https://img.shields.io/github/stars/bupt-ai-cz/WUDA)](https://github.com/bupt-ai-cz/WUDA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094958-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094958) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.02088-b31b1b.svg)](https://arxiv.org/abs/2210.02088) |
 | 555 | Class-Aware Contextual Information for Semantic Segmentation |  |  |
 | 1132 | semi-supervised semantic segmentation with structured output space adaption |  |  |
 | 1170 | prrd: pixel-region relation distillation for efficient semantic segmentation |  |  |
