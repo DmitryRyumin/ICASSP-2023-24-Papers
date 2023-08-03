@@ -684,6 +684,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2321 | Wireless Location Tracking via Complex-Domain Super MDS with Time Series Self-Localization Information | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097271-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097271) |
 | 2463 | Angle-of-Arrival Target Tracking using a Mobile UAV in External Signal-Denied Environment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095446-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095446) |
 | 2821 | A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096408-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096408) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15243-b31b1b.svg)](https://arxiv.org/abs/2210.15243) |
+| 2937 |  A Computationally Efficient Algorithm for Distributed Adaptive Signal Fusion based on Fractional Programs  | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096219-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096219) |
+| 3217 |  Data Driven Joint Sensor Fusion and Regression based on Geometric Mean Squared Error  | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095018-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095018) |
+| 4043 |  Sensor Selection for Angle of Arrival Estimation Based on the Two-Target Cramér-Rao Bound   |  [![GitHub](https://img.shields.io/github/stars/CostasAK/icassp2023)](https://github.com/CostasAK/icassp2023)   | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094942-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094942) |
+| 4149 |  Clustered Greedy Algorithm For Large-Scale Sensor Selection |   :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097137-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097137)
 
 ### Speaker Recognition: Neural Network Architecture
 
