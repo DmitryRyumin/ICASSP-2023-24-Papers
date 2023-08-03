@@ -170,7 +170,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2388 |  PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) |
+| 2388 | PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13054-b31b1b.svg)](https://arxiv.org/abs/2210.13054) |
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
 
@@ -678,13 +678,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
+| 268 | Deep Fusion of Multi-Object Densities using Transformer | [![GitHub](https://img.shields.io/github/stars/Lechili/DeepFusion)](https://github.com/Lechili/DeepFusion) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096214-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096214) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.08857-b31b1b.svg)](https://arxiv.org/abs/2209.08857) |
+| 6240 | Nonnegative block-term decomposition with the β-divergence: joint data fusion and blind spectral unmixing | [![GitHub](https://img.shields.io/github/stars/cprevost4/bLL1_NBTD)](https://github.com/cprevost4/bLL1_NBTD) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096100-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096100) |
 | 2238 | Robust Subspace Tracking with Contamination via &alpha;-Divergence | [![GitHub](https://img.shields.io/github/stars/thanhtbt/aFAPI)](https://github.com/thanhtbt/aFAPI) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094931) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371609095_ROBUST_SUBSPACE_TRACKING_WITH_CONTAMINATION_MITIGATION_VIA_a-DIVERGENCE) |
-| 6240 |  Nonnegative block-term decomposition with the β-divergence: joint data fusion and blind spectral unmixing | [![GitHub](https://img.shields.io/github/stars/cprevost4/bLL1_NBTD)](https://github.com/cprevost4/bLL1_NBTD) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096100-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096100) |
-| 268 |   Deep fusion of multi-object densities using transformer  | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096214-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096214) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.08857-b31b1b.svg)](https://arxiv.org/abs/2209.08857) |
-| 2321 |   Wireless location tracking via complex-domain Super MDS with time series self-localization information  | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097271-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097271) |
-| 2463 |   Angle-of-arrival Target Tracking Using a Mobile UAV In External Signal-denied Environment   | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095446-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095446) |
-| 2821 |   A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems   | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096408-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096408)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15243-b31b1b.svg)](https://arxiv.org/abs/2210.15243) |
-
+| 2321 | Wireless location tracking via complex-domain Super MDS with time series self-localization information  | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097271-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097271) |
+| 2463 | Angle-of-arrival Target Tracking Using a Mobile UAV In External Signal-denied Environment   | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095446-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095446) |
+| 2821 | A Distributed Adaptive Algorithm for Non-Smooth Spatial Filtering Problems   | :heavy_minus_sign:  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096408-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096408)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15243-b31b1b.svg)](https://arxiv.org/abs/2210.15243) |
 
 ### Speaker Recognition: Neural Network Architecture
 
