@@ -209,7 +209,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 555 | Class-aware Contextual Information for Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094805-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094805) |
 | 1132 | Semi-Supervised Semantic Segmentation with Structured Output Space Adaption | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095628-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095628) |
 | 1170 | PRRD: Pixel-Region Relation Distillation for Efficient Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094967-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094967) |
-| 1384 | Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/HUANGLIZI/C2FVL) <br /> [![GitHub](https://img.shields.io/github/stars/HUANGLIZI/C2FVL)](https://github.com/HUANGLIZI/C2FVL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094958-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096683) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00279-b31b1b.svg)](https://arxiv.org/abs/2303.00279) |
 | 2521 | Spatial Correlation Fusion Network for Few-Shot Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094973-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094973) |
 | 3306 | Exploring Vision Transformer Layer Choosing for Semantic Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096645) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.01279-b31b1b.svg)](https://arxiv.org/abs/2305.01279) |
 | 3941 | Joint Training of Hierarchical GANs and Semantic Segmentation for Expression Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097243-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097243) |
@@ -970,7 +969,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1565 | String-based Molecule Generation via Multi-decoder VAE | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095212-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095212) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.10718-b31b1b.svg)](https://arxiv.org/abs/2208.10718) |
+| 1565 | String-based Molecule Generation via Multi-Decoder VAE | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095212-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095212) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.10718-b31b1b.svg)](https://arxiv.org/abs/2208.10718) |
 | 4161 | Graph Contrastive Learning with Learnable Graph Augmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095511-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095511) |
 | 3180 | Conditioning and Sampling in Variational Diffusion Models for Speech Super-Resolution | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/diffwave-sr) <br /> [![GitHub](https://img.shields.io/github/stars/yoyololicon/diffwave-sr)](https://github.com/yoyololicon/diffwave-sr) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095103-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095103) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15793-b31b1b.svg)](https://arxiv.org/abs/2210.15793) |
 | 5068 | Evaluation of Categorical Generative Models - Bridging the Gap Between Real and Synthetic Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097150-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097150) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16405-b31b1b.svg)](https://arxiv.org/abs/2210.16405) |
@@ -1003,7 +1002,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Deep Learning for Medical Imaging
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 1384 | Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment | [![GitHub](https://img.shields.io/github/stars/HUANGLIZI/C2FVL)](https://github.com/HUANGLIZI/C2FVL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096683) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00279-b31b1b.svg)](https://arxiv.org/abs/2303.00279) |
 
 ### Machine/Deep Learning Methodologies for Multimedia
 
