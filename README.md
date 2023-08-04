@@ -223,8 +223,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3473 | Robust Video Object Segmentation with Restricted Attention | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096283-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096283) |
 | 3501 | Stacking-based Attention Temporal Convolutional Network for Action Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097024-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097024) |
 | 2436 | VLKP: Video Instance Segmentation with Visual-Linguistic Knowledge Prompts | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097169-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097169) |
-| 4867 | Automatic Error Detection in Integrated Circuits Image Segmentation: A Data-driven Approach |  |  |
-| 3745 | TransWnet: Integrating Transformers into CNNs via Row and Column Attention for Abdominal Multi-organ Segmentation |  |  |
+| 4867 | Automatic Error Detection in Integrated Circuits Image Segmentation: A Data-Driven Approach | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095703-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095703) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03927-b31b1b.svg)](https://arxiv.org/abs/2211.03927) |
+| 3745 | TransWnet: Integrating Transformers Into CNNs via Row and Column Attention for Abdominal Multi-Organ Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097129-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097129) |
 | 5844 | ACTIVE PERCEPTION SYSTEM FOR ENHANCED VISUAL SIGNAL RECOVERY USING DEEP REINFORCEMENT LEARNING |  |  |
 | 302 | OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation |  |  |
 | 698 | Encoder-Decoder Graph Convolutional Network for Automatic Timed-Up-and-Go and Sit-to-Stand Segmentation |  |  |
