@@ -221,8 +221,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 3473 | Robust Video Object Segmentation with Restricted Attention | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096283-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096283) |
-| 3501 | STACKING-BASED ATTENTION TEMPORAL CONVOLUTIONAL NETWORK FOR ACTION SEGMENTATION |  |  |
-| 2436 | VLKP: VIDEO INSTANCE SEGMENTATION WITH VISUAL-LINGUISTIC KNOWLEDGE |  |  |
+| 3501 | Stacking-based Attention Temporal Convolutional Network for Action Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097024-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097024) |
+| 2436 | VLKP: Video Instance Segmentation with Visual-Linguistic Knowledge Prompts | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097169-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097169) |
 | 4867 | Automatic Error Detection in Integrated Circuits Image Segmentation: A Data-driven Approach |  |  |
 | 3745 | TransWnet: Integrating Transformers into CNNs via Row and Column Attention for Abdominal Multi-organ Segmentation |  |  |
 | 5844 | ACTIVE PERCEPTION SYSTEM FOR ENHANCED VISUAL SIGNAL RECOVERY USING DEEP REINFORCEMENT LEARNING |  |  |
