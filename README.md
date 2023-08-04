@@ -225,12 +225,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2436 | VLKP: Video Instance Segmentation with Visual-Linguistic Knowledge Prompts | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097169-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097169) |
 | 4867 | Automatic Error Detection in Integrated Circuits Image Segmentation: A Data-Driven Approach | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095703-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095703) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03927-b31b1b.svg)](https://arxiv.org/abs/2211.03927) |
 | 3745 | TransWnet: Integrating Transformers Into CNNs via Row and Column Attention for Abdominal Multi-Organ Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097129-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097129) |
-| 5844 | ACTIVE PERCEPTION SYSTEM FOR ENHANCED VISUAL SIGNAL RECOVERY USING DEEP REINFORCEMENT LEARNING |  |  |
-| 302 | OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation |  |  |
-| 698 | Encoder-Decoder Graph Convolutional Network for Automatic Timed-Up-and-Go and Sit-to-Stand Segmentation |  |  |
-| 758 | Meta++ Network for Few-shot Aerospace Crack Segmentation |  |  |
-| 1764 | IAST: Instance Association Relying on Spatio-temporal Features for Video Instance Segmentation |  |  |
-| 2469 | Continual Cell Instance Segmentation of Microscopy Images |  |  |
+| 5844 | Active Perception System for Enhanced Visual Signal Recovery using Deep Reinforcement Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097084-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097084) |
+| 302 | OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096534-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096534) |
+| 698 | Encoder-Decoder Graph Convolutional Network for Automatic Timed-Up-and-Go and Sit-to-Stand Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095810-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095810) |
+| 758 | Meta++ Network for Few-Shot Aerospace Crack Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097127-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097127) |
+| 1764 | IAST: Instance Association Relying on Spatio-Temporal Features for Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/clozureyez/IAST)](https://github.com/clozureyez/IAST) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095641-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095641) |
+| 2469 | Continual Cell Instance Segmentation of Microscopy Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096312-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096312) |
 
 ### Deep Learning for Image and Video Processing
 
