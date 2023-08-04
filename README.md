@@ -181,6 +181,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3053 | Learning to Explain: A Gradient-based Attribution Method for Interpreting Super-Resolution Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095368-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095368) |
 | 3140 | CNN Filter for RPR-based SR in VVC with Wavelet Decomposition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096013-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096013) |
 | 3555 | Local to Global Prior Learning for Blind Unsupervised Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096533-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096533) |
+| 5003 | AERO: Audio Super Resolution in the Spectral Domain| ![GitHub](https://github.com/slp-rl/aero) | [![IEEE Xplore](https://ieeexplore.ieee.org/document/10095382) <br /> [![arXiv](https://arxiv.org/abs/2211.12232) |
 
 ### Denoising
 
