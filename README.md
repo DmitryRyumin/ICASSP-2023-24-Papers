@@ -948,7 +948,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Deep Generative Model
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 1565 | STRING-BASED MOLECULE GENERATION VIA MULTI-DECODER VAE | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095212/) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2208.10718) | 
+| 4161 | Graph Contrastive Learning with Learnable Graph Augmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095511) |
+| 3180 | CONDITIONING AND SAMPLING IN VARIATIONAL DIFFUSION MODELS FOR SPEECH SUPER-RESOLUTION | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://yoyololicon.github.io/diffwave-sr) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095103) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.15793) |
+| 5068 | EVALUATION OF CATEGORICAL GENERATIVE MODELS - BRIDGING THE GAP BETWEEN REAL AND SYNTHETIC DATA | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097150) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.16405) |
+| 6053 | Diffusion Probabilistic Modeling for Fine-Grained Urban Traffic Flow Inference With Relaxed Structural Constraint | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096169) |
+| 4977 | Single-Shot Domain Adaptation via Target-Aware Generative Augmentations | [![GitHub](https://img.shields.io/github/stars/kowshikthopalli/sista)](https://github.com/kowshikthopalli/sista) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096784) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.16692) |
+
 
 ### Multimodal Signal Processing and Analysis
 
