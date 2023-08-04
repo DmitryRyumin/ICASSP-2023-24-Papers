@@ -218,7 +218,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Object Segmentation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 3473 | Robust Video Object Segmentation with Restricted Attention | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096283-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096283) |
+| 3501 | STACKING-BASED ATTENTION TEMPORAL CONVOLUTIONAL NETWORK FOR ACTION SEGMENTATION |  |  |
+| 2436 | VLKP: VIDEO INSTANCE SEGMENTATION WITH VISUAL-LINGUISTIC KNOWLEDGE |  |  |
+| 4867 | Automatic Error Detection in Integrated Circuits Image Segmentation: A Data-driven Approach |  |  |
+| 3745 | TransWnet: Integrating Transformers into CNNs via Row and Column Attention for Abdominal Multi-organ Segmentation |  |  |
+| 5844 | ACTIVE PERCEPTION SYSTEM FOR ENHANCED VISUAL SIGNAL RECOVERY USING DEEP REINFORCEMENT LEARNING |  |  |
+| 302 | OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation |  |  |
+| 698 | Encoder-Decoder Graph Convolutional Network for Automatic Timed-Up-and-Go and Sit-to-Stand Segmentation |  |  |
+| 758 | Meta++ Network for Few-shot Aerospace Crack Segmentation |  |  |
+| 1764 | IAST: Instance Association Relying on Spatio-temporal Features for Video Instance Segmentation |  |  |
+| 2469 | Continual Cell Instance Segmentation of Microscopy Images |  |  |
 
 ### Deep Learning for Image and Video Processing
 
