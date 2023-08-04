@@ -712,7 +712,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Adversarial Machine Learning and Information Theoretic Security
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 987 | Backdoor Defense via Suppressing Model Shortcuts | [![GitHub](https://img.shields.io/github/stars/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts)](https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095382-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10097220) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12232-b31b1b.svg)](https://arxiv.org/abs/2211.05631) |
 
 ### Resource Constrained ASR
 
