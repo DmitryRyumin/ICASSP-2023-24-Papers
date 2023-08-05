@@ -253,7 +253,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 715 | Graph-Graph Context Dependency Attention for Graph Edit Distance |  |  |
+| 715 | Graph-Graph Context Dependency Attention for Graph Edit Distance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094975-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094975) |
 | 3882 | Topology Uncertainty Modeling for Imbalanced Node Classification on Graphs |  |  |
 | 589 | CPD-GAN: Cascaded Pyramid Deformation GAN for Pose Transfer |  |  |
 | 5321 | Space-Time Graph Neural Networks with Stochastic Graph Perturbations |  |  |
