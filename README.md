@@ -277,11 +277,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 841 | Hierarchical Multi-Task Learning for Fabric Component Analysis Based on NIR Spectral Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095216) |
 | 1706 | Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095353-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095353) |
 | 6375 | Data Leakage in Cross-Modal Retrieval Training: A Case Study | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094617-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094617) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.12258-b31b1b.svg)](https://arxiv.org/abs/2302.12258) |
-| 5825 | DIFFICULTY-AWARE DATA AUGMENTOR FOR SCENE TEXT RECOGNITION |  |  |
-| 461 | TinyOOD: Effective Out-of-Distribution Detection for TinyML |  |  |
-| 4211 | A principled approach to model validation in domain generalization |  |  |
-| 4220 | Scale-adaptive tiny object detection enhanced by across-scale and shape-preserved semantic location |  |  |
-| 3735 | Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound |  |  |
+| 5825 | Difficulty-Aware Data Augmentor for Scene Text Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095180-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095180) |
+| 461 | TinyOOD: Effective Out-of-Distribution Detection for TinyML | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094746-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094746) |
+| 4211 | A Principled Approach to Model Validation in Domain Generalization | [![GitHub](https://img.shields.io/github/stars/thuan2412/A-principled-approach-for-model-validation-for-domain-generalization)](https://github.com/thuan2412/A-principled-approach-for-model-validation-for-domain-generalization) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094659-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094659) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00629-b31b1b.svg)](https://arxiv.org/abs/2304.00629) |
+| 4220 | Scale-Adaptive Tiny Object Detection Enhanced by Across-Scale and Shape-Preserved Semantic Location | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096537-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096537) |
+| 3735 | Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095447-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095447) |
 
 ### Matrix/Tensor Factorization and Completion
 
