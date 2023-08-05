@@ -251,7 +251,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Graph based Learning
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 715 | Graph-Graph Context Dependency Attention for Graph Edit Distance |  |  |
+| 3882 | Topology Uncertainty Modeling for Imbalanced Node Classification on Graphs |  |  |
+| 589 | CPD-GAN: Cascaded Pyramid Deformation GAN for Pose Transfer |  |  |
+| 5321 | Space-Time Graph Neural Networks with Stochastic Graph Perturbations |  |  |
+| 6793 | Untrained Graph Neural Networks for Denoising |  |  |
+| 5846 | Learning on Graphs under Label Noise |  |  |
+| 2906 | Select the Best: Enhancing Graph Representation with Adaptive Negative Sample Selection |  |  |
+| 2586 | Learning with Multigraph Convolutional Filters |  |  |
+| 2164 | Self-Supervised Guided Hypergraph Feature Propagation for Semi-Supervised Classification with Missing Node Features |  |  |
+| 3752 | Incorporating Reliability in Graph Information Propagation by Fluid Dynamics Diffusion: a Case of Multimodal Semi-Supervised Deep Learning |  |  |
+| 5159 | GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering |  |  |
+| 3724 | Time-Varying Signals Recovery via Graph Neural Networks |  |  |
 
 ### Learning from Multimodal Data
 
