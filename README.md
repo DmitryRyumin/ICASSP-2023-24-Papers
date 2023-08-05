@@ -240,14 +240,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 814 | Weakly- and Semi-Supervised Object Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096663-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096663) |
 | 2503 | Balanced Mixup Loss for Long-Tailed Visual Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095491-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095491) |
 | 4130 | On Cross-Layer Alignment for Model Fusion of Heterogeneous Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097156-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097156) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2110.15538-b31b1b.svg)](https://arxiv.org/abs/2110.15538) |
-| 2813 | Invariant Adversarial Imitation Learning from Visual Inputs |  |  |
-| 6423 | SpectraNet-SO(3): Learning Satellite Orientation from Optical Spectra by Implicitly Modeling Mutually Exclusive Probability Distributions on the Rotation Manifold |  |  |
-| 3097 | STRUCTURED-ANCHOR PROJECTED CLUSTERING FOR HYPERSPECTRAL IMAGES |  |  |
-| 140 | Learning Sparse Auto-Encoders for Green AI Image Coding |  |  |
-| 643 | Learning to Generate 3D Representations of Building Roofs using Single-View Aerial Imagery |  |  |
-| 4843 | Robust Monocular Localization of Drones by Adapting Domain Maps to Depth Prediction Inaccuracies |  |  |
-| 5940 | Large Dimensional Analysis of LS-SVM Transfer Learning: Application to POLSAR Classification |  |  |
-| 5062 | SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling |  |  |
+| 2813 | Invariant Adversarial Imitation Learning from Visual Inputs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096070-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096070) |
+| 6423 | SPECTRANET-SO(3): Learning Satellite Orientation from Optical Spectra by Implicitly Modeling Mutually Exclusive Probability Distributions on the Rotation Manifold | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095921-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095921) |
+| 3097 | Structured-Anchor Projected Clustering for Hyperspectral Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096622-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096622) |
+| 140 | Learning Sparse Auto-Encoders for Green AI Image Coding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096638-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096638) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.04448-b31b1b.svg)](https://arxiv.org/abs/2209.04448) |
+| 643 | Learning to Generate 3D Representations of Building Roofs using Single-View Aerial Imagery | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095974-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095974) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.11215-b31b1b.svg)](https://arxiv.org/abs/2303.11215) |
+| 4843 | Robust Monocular Localization of Drones by Adapting Domain Maps to Depth Prediction Inaccuracies | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096758-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096758) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15559-b31b1b.svg)](https://arxiv.org/abs/2210.15559) |
+| 5940 | Large Dimensional Analysis of LS-SVM Transfer Learning: Application to PolSAR Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096840-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096840) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.jeanphilippeovarlez.com/publications/ewExternalFiles/main-4.pdf) |
+| 5062 | SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling | [![GitHub](https://img.shields.io/github/stars/LGM70/SMUG)](https://github.com/LGM70/SMUG) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097193-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097193) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12735-b31b1b.svg)](https://arxiv.org/abs/2303.12735) |
 
 ### Graph based Learning
 
