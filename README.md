@@ -271,7 +271,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 3546 | Multimodal Knowledge Distillation for Arbitrary-Oriented Object Detection in Aerial Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097119-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097119) |
-| 1234 | HIERARCHICAL SPATIAL-TEMPORAL TRANSFORMER WITH MOTION TRAJECTORY FOR INDIVIDUAL ACTION AND GROUP ACTIVITY RECOGNITION |  |  |
+| 1234 | Hierarchical Spatial-Temporal Transformer with Motion Trajectory for Individual Action and Group Activity Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097119-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096109) |
 | 693 | Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-Linked Inputs |  |  |
 | 1571 | TOWARDS ROBUST AUDIO-BASED VEHICLE DETECTION VIA IMPORTANCE-AWARE AUDIO-VISUAL LEARNING |  |  |
 | 841 | Hierarchical Multi-Task Learning for Fabric Component Analysis Based on NIR Spectral Signals |  |  |
