@@ -234,7 +234,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Deep Learning for Image and Video Processing
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 5397 | Spammer Detection on Short Video Applications: A New Challenge and Baselines | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096201-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096201) |
+| 814 | Weakly- and Semi-Supervised Object Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096663-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096663) |
+| 2503 | Balanced Mixup Loss for Long-Tailed Visual Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095491-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095491) |
+| 4130 | On Cross-Layer Alignment for Model Fusion of Heterogeneous Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097156-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097156) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2110.15538-b31b1b.svg)](https://arxiv.org/abs/2110.15538) |
+| 2813 | Invariant Adversarial Imitation Learning from Visual Inputs |  |  |
+| 6423 | SpectraNet-SO(3): Learning Satellite Orientation from Optical Spectra by Implicitly Modeling Mutually Exclusive Probability Distributions on the Rotation Manifold |  |  |
+| 3097 | STRUCTURED-ANCHOR PROJECTED CLUSTERING FOR HYPERSPECTRAL IMAGES |  |  |
+| 140 | Learning Sparse Auto-Encoders for Green AI Image Coding |  |  |
+| 643 | Learning to Generate 3D Representations of Building Roofs using Single-View Aerial Imagery |  |  |
+| 4843 | Robust Monocular Localization of Drones by Adapting Domain Maps to Depth Prediction Inaccuracies |  |  |
+| 5940 | Large Dimensional Analysis of LS-SVM Transfer Learning: Application to POLSAR Classification |  |  |
+| 5062 | SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling |  |  |
 
 ### Graph based Learning
 
