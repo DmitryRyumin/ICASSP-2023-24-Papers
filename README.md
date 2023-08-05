@@ -268,7 +268,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Learning from Multimodal Data
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 3546 | Multimodal Knowledge Distillation for Arbitrary-Oriented Object Detection in Aerial Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097119-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097119) |
+| 1234 | HIERARCHICAL SPATIAL-TEMPORAL TRANSFORMER WITH MOTION TRAJECTORY FOR INDIVIDUAL ACTION AND GROUP ACTIVITY RECOGNITION |  |  |
+| 693 | Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-Linked Inputs |  |  |
+| 1571 | TOWARDS ROBUST AUDIO-BASED VEHICLE DETECTION VIA IMPORTANCE-AWARE AUDIO-VISUAL LEARNING |  |  |
+| 841 | Hierarchical Multi-Task Learning for Fabric Component Analysis Based on NIR Spectral Signals |  |  |
+| 1706 | Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions |  |  |
+| 6375 | Data leakage in cross-modal retrieval training: A case study |  |  |
+| 5825 | DIFFICULTY-AWARE DATA AUGMENTOR FOR SCENE TEXT RECOGNITION |  |  |
+| 461 | TinyOOD: Effective Out-of-Distribution Detection for TinyML |  |  |
+| 4211 | A principled approach to model validation in domain generalization |  |  |
+| 4220 | Scale-adaptive tiny object detection enhanced by across-scale and shape-preserved semantic location |  |  |
+| 3735 | Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound |  |  |
 
 ### Matrix/Tensor Factorization and Completion
 
