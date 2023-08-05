@@ -287,7 +287,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
+| 507 | Learn Topological Representation with Flexible Manifold Layer | [![GitHub](https://img.shields.io/github/stars/jzh9830/DeepSVM)](https://github.com/jzh9830/DeepSVM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096215-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096215) |
+| 1438 | Tensorized LSSVMs for Multitask Regression | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094580-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094580) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.02451-b31b1b.svg)](https://arxiv.org/abs/2303.02451) |
+| 3571 | A Bayesian Perspective for Determinant Minimization based Robust Structured Matrix Factorization |  |  |
+| 5045 | Volume-Regularized Nonnegative Tucker Decomposition with Identifiability Guarantees |  |  |
+| 687 | Transductive Matrix Completion with Calibration for Multi-Task Learning |  |  |
+| 1668 | Projected Hierarchical ALS for Generalized Boolean Matrix Factorization |  |  |
+| 2934 | ROBUST BINARY COMPONENT DECOMPOSITIONS |  |  |
+| 3897 | MULTI-RESOLUTION CONVOLUTIONAL DICTIONARY LEARNING FOR RIVERBED DYNAMICS MODELING |  |  |
 | 2388 | PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13054-b31b1b.svg)](https://arxiv.org/abs/2210.13054) |
+| 6088 | Deep Plug-and-Play for Tensor Robust Principal Component Analysis |  |  |
+| 6125 | Geometric Matrix Completion with Collaborative Routing between Capsules |  |  |
+| 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization tools |  |  |
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
 
