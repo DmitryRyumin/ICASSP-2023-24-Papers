@@ -258,13 +258,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 589 | CPD-GAN: Cascaded Pyramid Deformation GAN for Pose Transfer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096856-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096856) |
 | 5321 | Space-Time Graph Neural Networks with Stochastic Graph Perturbations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095690-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095690) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16270-b31b1b.svg)](https://arxiv.org/abs/2210.16270) |
 | 6793 | Untrained Graph Neural Networks for Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9959969-E4A42C.svg)](https://ieeexplore.ieee.org/document/9959969) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2109.11700-b31b1b.svg)](https://arxiv.org/abs/2109.11700) |
-| 5846 | Learning on Graphs under Label Noise |  |  |
-| 2906 | Select the Best: Enhancing Graph Representation with Adaptive Negative Sample Selection |  |  |
-| 2586 | Learning with Multigraph Convolutional Filters |  |  |
-| 2164 | Self-Supervised Guided Hypergraph Feature Propagation for Semi-Supervised Classification with Missing Node Features |  |  |
-| 3752 | Incorporating Reliability in Graph Information Propagation by Fluid Dynamics Diffusion: a Case of Multimodal Semi-Supervised Deep Learning |  |  |
-| 5159 | GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering |  |  |
-| 3724 | Time-Varying Signals Recovery via Graph Neural Networks |  |  |
+| 5846 | Learning on Graphs under Label Noise | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096088-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096088) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.08194-b31b1b.svg)](https://arxiv.org/abs/2306.08194) |
+| 2906 | Select the Best: Enhancing Graph Representation with Adaptive Negative Sample Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095586-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095586) |
+| 2586 | Learning with Multigraph Convolutional Filters | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095028-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095028) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16272-b31b1b.svg)](https://arxiv.org/abs/2210.16272) |
+| 2164 | Self-Supervised Guided Hypergraph Feature Propagation for Semi-Supervised Classification with Missing Node Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094867-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094867) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08250-b31b1b.svg)](https://arxiv.org/abs/2302.08250) |
+| 3752 | Incorporating Reliability in Graph Information Propagation by Fluid Dynamics Diffusion: a Case of Multimodal Semi-Supervised Deep Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095086-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095086) |
+| 5159 | GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering | [![GitHub](https://img.shields.io/github/stars/mn51/graphmad)](https://github.com/mn51/graphmad) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095561-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095561) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15721-b31b1b.svg)](https://arxiv.org/abs/2210.15721) |
+| 3724 | Time-Varying Signals Recovery via Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096168-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096168) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11313-b31b1b.svg)](https://arxiv.org/abs/2302.11313) |
 
 ### Learning from Multimodal Data
 
