@@ -296,9 +296,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2934 | Robust Binary Component Decompositions | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096739-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096739) |
 | 3897 | Multi-Resolution Convolutional Dictionary Learning for Riverbed Dynamics Modeling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096452-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096452) |
 | 2388 | PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13054-b31b1b.svg)](https://arxiv.org/abs/2210.13054) |
-| 6088 | Deep Plug-and-Play for Tensor Robust Principal Component Analysis |  |  |
-| 6125 | Geometric Matrix Completion with Collaborative Routing between Capsules |  |  |
-| 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization tools |  |  |
+| 6088 | Deep Plug-and-Play for Tensor Robust Principal Component Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096713-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096713) |
+| 6125 | Geometric Matrix Completion with Collaborative Routing between Capsules | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095122-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095122) |
+| 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization Tools | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096026-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096026) |
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
 
