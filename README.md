@@ -1288,7 +1288,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 5842 | Audio signal enhancement with learning from positive and unlabelled data | [![GitHub](https://img.shields.io/github/starsnobutaka-ito/pulse)](https://github.com/nobutaka-ito/pulse) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095988-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095988) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15143-b31b1b.svg)](https://arxiv.org/abs/2210.15143) |
+| 5842 | Audio signal enhancement with learning from positive and unlabelled data | [![GitHub](https://img.shields.io/github/stars/nobutaka-ito/pulse)](https://github.com/nobutaka-ito/pulse) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095988-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095988) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15143-b31b1b.svg)](https://arxiv.org/abs/2210.15143) |
 
 
 ### Sound Event Detection and Localization; Bioacoustic Event Detection
