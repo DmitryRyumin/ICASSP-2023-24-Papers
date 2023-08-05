@@ -432,7 +432,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Binaural Audio; Multichannel Source Separation
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 1755 | Spatially Informed Independent Vector Analysis For Source Extraction Based On The Convolutive Transfer Function Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097106/) |
+| 2514 | Fast Online Source Steering Algorithm For Tracking Single Moving Source Using Online Independent Vector Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10094962) <br/> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://taishi.org/files/Nakashima2023ICASSP_poster.pdf) |
+| 4589 | Online Binaural Speech Separation Of Moving Speakers With A Wavesplit Network | :heavy_minus_sign: |[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095695) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.07458) |
+| 5759 | Convolutive NTF For Ambisonic Source Separation Under Reverberant Conditions | :heavy_minus_sign:|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094601/) |
+| 4677 | On The Relevance Of The Differences Between HRTF Measurement Setups For Machine Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096689) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2212.04283) |
+| 6362 | Neural Fourier Shift For Binaural Speech Rendering | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://bit.ly/3Sy6iFa) <br/> [![GitHub](https://img.shields.io/github/stars/jin-woo-lee/nfs-binaural)](https://github.com/jin-woo-lee/nfs-binaural)  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095685) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.00878) |
+| 1620 | Global HRTF Interpolation Via Learned Affine Transformation Of Hyper-Conditioned Features | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://bit.ly/3DdmPu9) <br/> [![GitHub](https://img.shields.io/github/stars/jin-woo-lee/hrtf-interpolation)](https://github.com/jin-woo-lee/hrtf-interpolation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096144) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2204.02637) |
+| 4790 | HRTF Field: Unifying Measured HRTF Magnitude Representation With Neural Fields | [![GitHub](https://img.shields.io/github/stars/yzyouzhang/HRTF_field)](https://github.com/yzyouzhang/HRTF_field) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095801) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.15196) |
+| 5041 | Learning To Personalize Equalization For High-Fidelity Spatial Audio Reproduction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096846) |
+| 6719 | A Data-Driven Approach To Audio Decorrelation (Sps Journal Paper)*|:heavy_minus_sign:| [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964070) |
+| 6777 | Switching Independent Vector Analysis And Its Extension To Blind And Spatially Guided Convolutional Beamforming Algorithms (Sps Journal Paper)*|:heavy_minus_sign:| [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/9723638) |
+
 
 ### Image/Video Caption Generation
 
