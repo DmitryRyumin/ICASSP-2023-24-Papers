@@ -289,12 +289,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 507 | Learn Topological Representation with Flexible Manifold Layer | [![GitHub](https://img.shields.io/github/stars/jzh9830/DeepSVM)](https://github.com/jzh9830/DeepSVM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096215-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096215) |
 | 1438 | Tensorized LSSVMs for Multitask Regression | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094580-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094580) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.02451-b31b1b.svg)](https://arxiv.org/abs/2303.02451) |
-| 3571 | A Bayesian Perspective for Determinant Minimization based Robust Structured Matrix Factorization |  |  |
-| 5045 | Volume-Regularized Nonnegative Tucker Decomposition with Identifiability Guarantees |  |  |
-| 687 | Transductive Matrix Completion with Calibration for Multi-Task Learning |  |  |
-| 1668 | Projected Hierarchical ALS for Generalized Boolean Matrix Factorization |  |  |
-| 2934 | ROBUST BINARY COMPONENT DECOMPOSITIONS |  |  |
-| 3897 | MULTI-RESOLUTION CONVOLUTIONAL DICTIONARY LEARNING FOR RIVERBED DYNAMICS MODELING |  |  |
+| 3571 | A Bayesian Perspective for Determinant Minimization based Robust Structured Matrix Factorization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094991-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094991) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08416-b31b1b.svg)](https://arxiv.org/abs/2302.08416) |
+| 5045 | Volume-Regularized Nonnegative Tucker Decomposition with Identifiability Guarantees | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096076-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096076) |
+| 687 | Transductive Matrix Completion with Calibration for Multi-Task Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096691-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096691) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.09834-b31b1b.svg)](https://arxiv.org/abs/2302.09834) |
+| 1668 | Projected Hierarchical ALS for Generalized Boolean Matrix Factorization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094568-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094568) |
+| 2934 | Robust Binary Component Decompositions | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096739-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096739) |
+| 3897 | Multi-Resolution Convolutional Dictionary Learning for Riverbed Dynamics Modeling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096452-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096452) |
 | 2388 | PARAFAC2-based Coupled Matrix and Tensor Factorizations | [![GitHub](https://img.shields.io/github/stars/AOADMM-DataFusionFramework/Matlab-Code)](https://github.com/AOADMM-DataFusionFramework/Matlab-Code) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094562) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/364690042_PARAFAC2-based_Coupled_Matrix_and_Tensor_Factorizations) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13054-b31b1b.svg)](https://arxiv.org/abs/2210.13054) |
 | 6088 | Deep Plug-and-Play for Tensor Robust Principal Component Analysis |  |  |
 | 6125 | Geometric Matrix Completion with Collaborative Routing between Capsules |  |  |
