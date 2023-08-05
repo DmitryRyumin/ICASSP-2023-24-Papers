@@ -254,10 +254,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 715 | Graph-Graph Context Dependency Attention for Graph Edit Distance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094975-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094975) |
-| 3882 | Topology Uncertainty Modeling for Imbalanced Node Classification on Graphs |  |  |
-| 589 | CPD-GAN: Cascaded Pyramid Deformation GAN for Pose Transfer |  |  |
-| 5321 | Space-Time Graph Neural Networks with Stochastic Graph Perturbations |  |  |
-| 6793 | Untrained Graph Neural Networks for Denoising |  |  |
+| 3882 | Topology Uncertainty Modeling for Imbalanced Node Classification on Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094813-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094813) |
+| 589 | CPD-GAN: Cascaded Pyramid Deformation GAN for Pose Transfer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096856-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096856) |
+| 5321 | Space-Time Graph Neural Networks with Stochastic Graph Perturbations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095690-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095690) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16270-b31b1b.svg)](https://arxiv.org/abs/2210.16270) |
+| 6793 | Untrained Graph Neural Networks for Denoising | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9959969-E4A42C.svg)](https://ieeexplore.ieee.org/document/9959969) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2109.11700-b31b1b.svg)](https://arxiv.org/abs/2109.11700) |
 | 5846 | Learning on Graphs under Label Noise |  |  |
 | 2906 | Select the Best: Enhancing Graph Representation with Adaptive Negative Sample Selection |  |  |
 | 2586 | Learning with Multigraph Convolutional Filters |  |  |
