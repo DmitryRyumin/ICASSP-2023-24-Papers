@@ -272,11 +272,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-------|-----------|:--------:|:---------:|
 | 3546 | Multimodal Knowledge Distillation for Arbitrary-Oriented Object Detection in Aerial Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097119-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097119) |
 | 1234 | Hierarchical Spatial-Temporal Transformer with Motion Trajectory for Individual Action and Group Activity Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097119-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096109) |
-| 693 | Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-Linked Inputs |  |  |
-| 1571 | TOWARDS ROBUST AUDIO-BASED VEHICLE DETECTION VIA IMPORTANCE-AWARE AUDIO-VISUAL LEARNING |  |  |
-| 841 | Hierarchical Multi-Task Learning for Fabric Component Analysis Based on NIR Spectral Signals |  |  |
-| 1706 | Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions |  |  |
-| 6375 | Data leakage in cross-modal retrieval training: A case study |  |  |
+| 693 | Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-Linked Inputs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094866-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094866) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.08342-b31b1b.svg)](https://arxiv.org/abs/2303.08342) |
+| 1571 | Towards Robust Audio-based Vehicle Detection via Importance-Aware Audio-Visual Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096773-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096773) |
+| 841 | Hierarchical Multi-Task Learning for Fabric Component Analysis Based on NIR Spectral Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095216) |
+| 1706 | Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095353-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095353) |
+| 6375 | Data Leakage in Cross-Modal Retrieval Training: A Case Study | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094617-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094617) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.12258-b31b1b.svg)](https://arxiv.org/abs/2302.12258) |
 | 5825 | DIFFICULTY-AWARE DATA AUGMENTOR FOR SCENE TEXT RECOGNITION |  |  |
 | 461 | TinyOOD: Effective Out-of-Distribution Detection for TinyML |  |  |
 | 4211 | A principled approach to model validation in domain generalization |  |  |
