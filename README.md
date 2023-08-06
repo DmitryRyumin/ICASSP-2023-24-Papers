@@ -815,7 +815,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Emotion Recognition: General Topics
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2490 | Multi-Scale Receptive Field Graph Model For Emotion Recognition In Conversations | [![GitHub](https://img.shields.io/github/stars/Janie1996/MSRFG)](https://github.com/Janie1996/MSRFG) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094596) |
+| 3918 | MGAT: Multi-Granularity Attention Based Transformers For Multi-Modal Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095855) |
+| 4523 | Achieving Fair Speech Emotion Recognition Via Perceptual Fairness | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094984) |
+| 5023 | Personalized Task Load Prediction In Speech Communication | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://osf.io/rxbpv/) |[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095754) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.00630) |
+| 5075 | DWFormer: Dynamic Window Transformer For Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/scutcsq/DWFormer)](https://github.com/scutcsq/DWFormer) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094651) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2303.01694) |
+| 5730 | Multi-View Learning For Speech Emotion Recognition With Categorical Emotion, Categorical Sentiment, And Dimensional Scores | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096700) <br/> [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/research/publication/multi-view-learning-for-speech-emotion-recognition/) |
+
 
 ### Intelligent and Semantic Communications for 5G Mobile Networks and Beyond
 
