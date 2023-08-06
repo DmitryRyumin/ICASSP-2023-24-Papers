@@ -428,7 +428,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### AI Security and Privacy in Speech and Audio Processing
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 673 | Privacy-Enhanced Federated Learning Against Attribute Inference Attack for Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095737-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095737) |
+| 2009 | Privacy-Preserving Occupancy Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095340-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095340) |
+| 3761 | Federated Intelligent Terminals Facilitate Stuttering Monitoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097263-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10097263) |
+| 4942 | Beyond Neural-on-Neural Approaches to Speaker Gender Protection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096668-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096668) |
+| 6129 | Distinguishable Speaker Anonymization Based on Formant and Fundamental Frequency Scaling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095120-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095120) |
 
 ### Binaural Audio; Multichannel Source Separation
 
