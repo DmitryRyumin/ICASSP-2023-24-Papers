@@ -378,9 +378,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5674 | Boosting Face Recognition Performance with Synthetic Data and Limited Real Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097133) |
 | 2762 | A Dual-Branch Adaptive Distribution Fusion Framework for Real-World Facial Expression Recognition | [![GitHub](https://img.shields.io/github/stars/taylor-xy0827/Ada-DF)](https://github.com/taylor-xy0827/Ada-DF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097033-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097033) |
 | 4199 | Efficient Practices for Profile-to-Frontal Face Synthesis and Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095683) |
-| 4208 | Learning Causal Representations for Generalizable Face Anti Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095329-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095329) |
-| 2767 | Self-paced Partial Domain-Aware Learning for Face Anti-spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095730-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095730) |
-| 746 |  Context-Aware Face Clustering with Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096022-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096022) |
+| 4208 | Learning Causal Representations for Generalizable Face Anti-Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095329-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095329) |
+| 2767 | Self-Paced Partial Domain-aware Learning for Face Anti-Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095730-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095730) |
+| 746 | Context-aware Face Clustering with Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096022-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096022) |
 
 ### Source Separation, ICA, and Sparsity
 
