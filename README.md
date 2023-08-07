@@ -368,7 +368,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Face Recognition
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 3959 | LOGO-Former: Local-Global Spatio-Temporal Transformer for Dynamic Facial Expression Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095448-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095448) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.03343-b31b1b.svg)](https://arxiv.org/abs/2305.03343) |
+| 4254 | Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild | [![GitHub](https://img.shields.io/github/stars/Gabrella/QOT)](https://github.com/Gabrella/QOT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096851-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096851) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07831-b31b1b.svg)](https://arxiv.org/abs/2303.07831) |
+| 3490 | Privacy Preserving Face Recognition with Lensless Camera | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096627-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096627) |
+| 3649 | MaskDUL: Data Uncertainty Learning in Masked Face Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097008-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097008) |
+| 4814 | Cov Loss: Covariance-Based Loss for Deep Face Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095678-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095678) |
+| 5674 | Boosting Face Recognition Performance with Synthetic Data and Limited Real Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097133) |
+| 2762 | A Dual-branch Adaptive Distribution Fusion Framework for Real-world Facial Expression Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097033-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097033) |
+| 4199 | Efficient Practices for Profile-to-Frontal Face Synthesis and Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095683) |
+| 4208 | Learning Causal Representations for Generalizable Face Anti Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095329-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095329) |
+| 2767 | Self-paced Partial Domain-Aware Learning for Face Anti-spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095730-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095730) |
+| 746 |  Context-Aware Face Clustering with Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096022-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096022) |
 
 ### Source Separation, ICA, and Sparsity
 
