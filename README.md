@@ -328,11 +328,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3258 | Domain Adaptation with External Off-Policy Acoustic Catalogs for Scalable Contextual End-To-End Automated Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094924-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094924) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/domain-adaptation-with-external-off-policy-acoustic-catalogs-for-scalable-contextual-end-to-end-automated-speech-recognition) |
 | 3600 | Comparison of Soft and Hard Target RNN-T Distillation for Large-scale ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096418-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096418) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.05793-b31b1b.svg)](https://arxiv.org/abs/2210.05793) |
 | 3973 | WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-aware Weaving | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097196-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097196) |
-| 4139 | Joint Discriminator and Transfer Based Fast Domain Adaptation for End-to-End Speech Recognition |  |  |
-| 5424 | IMPROVING FAIRNESS AND ROBUSTNESS IN END-TO-END SPEECH RECOGNITION THROUGH UNSUPERVISED CLUSTERING |  |  |
-| 5491 | Improving Fast-slow Encoder based Transducer with Streaming Deliberation |  |  |
-| 5496 | Dynamic Alignment Mask CTC: Improved Mask-CTC with Aligned Cross Entropy |  |  |
-| 5902 | Improving Accented Speech Recognition with Multi-Domain Training |  |  |
+| 4139 | Joint Discriminator and Transfer based Fast Domain Adaptation for End-to-End Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095910-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095910) |
+| 5424 | Improving Fairness and Robustness in End-to-End Speech Recognition Through Unsupervised Clustering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096836-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096836) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.06083-b31b1b.svg)](https://arxiv.org/abs/2306.06083) |
+| 5491 | Improving Fast-slow Encoder based Transducer with Streaming Deliberation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095651-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095651) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.07650-b31b1b.svg)](https://arxiv.org/abs/2212.07650) |
+| 5496 | Dynamic Alignment Mask CTC: Improved Mask-CTC with Aligned Cross Entropy | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095227-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095227) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07687-b31b1b.svg)](https://arxiv.org/abs/2303.07687) |
+| 5902 | Improving Accented Speech Recognition with Multi-Domain Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096268-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096268) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07924-b31b1b.svg)](https://arxiv.org/abs/2303.07924) |
 
 ### ASR: New Models
 
