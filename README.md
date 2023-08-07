@@ -321,10 +321,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 505 | SAN: a robust end-to-end ASR model architecture |  |  |
-| 1604 | Explanations for Automatic Speech Recognition |  |  |
-| 1674 | On-the-fly Text Retrieval for End-to-End ASR Adaptation |  |  |
-| 2397 | Unsupervised model-based speaker adaptation of end-to-end lattice-free MMI model for speech recognition |  |  |
+| 505 | SAN: A Robust End-to-End ASR Model Architecture | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094595-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094595) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15285-b31b1b.svg)](https://arxiv.org/abs/2210.15285) |
+| 1604 | Explanations for Automatic Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094635-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094635) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14062-b31b1b.svg)](https://arxiv.org/abs/2302.14062) |
+| 1674 | On-the-Fly Text Retrieval for End-to-End ASR Adaptation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095857-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095857) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/on-the-fly-text-retrieval-for-end-to-end-asr-adaptation) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.10942-b31b1b.svg)](https://arxiv.org/abs/2303.10942) |
+| 2397 | Unsupervised Model-based Speaker Adaptation of End-To-End Lattice-Free MMI Model for Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095083-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095083) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.09313-b31b1b.svg)](https://arxiv.org/abs/2211.09313) |
 | 3258 | Domain Adaptation with External Off-Policy Acoustic Catalogs for Scalable Contextual End-To-End Automated Speech Recognition |  |  |
 | 3600 | Comparison of Soft and Hard Target RNN-T Distillation for Large-scale ASR |  |  |
 | 3973 | WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving |  |  |
