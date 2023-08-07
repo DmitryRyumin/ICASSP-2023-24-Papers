@@ -302,11 +302,37 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 900 | Multi-blank Transducers for Speech Recognition | [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095553-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095553) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03541-b31b1b.svg)](https://arxiv.org/abs/2211.03541) |
+| 1642 | Diagonal State Space Augmented Transformers for Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096271-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096271) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14120-b31b1b.svg)](https://arxiv.org/abs/2302.14120) |
+| 1661 | TrimTail: Low-Latency Streaming ASR with Simple but Effective Spectrogram-Level Length Penalty | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097012-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097012) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00522-b31b1b.svg)](https://arxiv.org/abs/2211.00522) |
+| 3385 | Towards Accurate and Real-time End-of-speech Estimation |  |  |
+| 3999 | Peak-First CTC: Reducing the Peak Latency of CTC Models by Applying Peak-First Regularization |  |  |
+| 4330 | EVALUATING PARAMETER-EFFICIENT TRANSFER LEARNING APPROACHES ON SURE BENCHMARK FOR SPEECH UNDERSTANDING |  |  |
+| 5058 | Powerful and Extensible WFST Framework for RNN-Transducer Losses |  |  |
+| 5337 | PREDICTING MULTI-CODEBOOK VECTOR QUANTIZATION INDEXES FOR KNOWLEDGE DISTILLATION |  |  |
+| 5434 | IMPROVING NON-AUTOREGRESSIVE SPEECH RECOGNITION WITH AUTOREGRESSIVE PRETRAINING |  |  |
+| 5558 | Conversation-oriented ASR with multi-look-ahead CBS architecture |  |  |
+| 5607 | Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition |  |  |
+| 5824 | FAST AND PARALLEL DECODING FOR TRANSDUCER |  |  |
 
 ### ASR: Domain Adaptation and Robust Training
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 505 | SAN: a robust end-to-end ASR model architecture |  |  |
+| 1604 | Explanations for Automatic Speech Recognition |  |  |
+| 1674 | On-the-fly Text Retrieval for End-to-End ASR Adaptation |  |  |
+| 2397 | Unsupervised model-based speaker adaptation of end-to-end lattice-free MMI model for speech recognition |  |  |
+| 3258 | Domain Adaptation with External Off-Policy Acoustic Catalogs for Scalable Contextual End-To-End Automated Speech Recognition |  |  |
+| 3600 | Comparison of Soft and Hard Target RNN-T Distillation for Large-scale ASR |  |  |
+| 3973 | WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving |  |  |
+| 4139 | Joint Discriminator and Transfer Based Fast Domain Adaptation for End-to-End Speech Recognition |  |  |
+| 5424 | IMPROVING FAIRNESS AND ROBUSTNESS IN END-TO-END SPEECH RECOGNITION THROUGH UNSUPERVISED CLUSTERING |  |  |
+| 5491 | Improving Fast-slow Encoder based Transducer with Streaming Deliberation |  |  |
+| 5496 | Dynamic Alignment Mask CTC: Improved Mask-CTC with Aligned Cross Entropy |  |  |
+| 5902 | Improving Accented Speech Recognition with Multi-Domain Training |  |  |
 
 ### ASR: New Models
 
