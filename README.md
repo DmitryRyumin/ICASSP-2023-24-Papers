@@ -356,8 +356,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1897 | On Word Error Rate Definitions and Their Efficient Computation for Multi-Speaker Speech Recognition Systems | [![GitHub](https://img.shields.io/github/stars/fgnt/meeteval)](https://github.com/fgnt/meeteval) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094784-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094784) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16112-b31b1b.svg)](https://arxiv.org/abs/2211.16112) |
-| 1919 | Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition |  |  |
-| 1929 | MADI: Inter-domain Matching and Intra-domain Discrimination for Cross-domain Speech Recognition |  |  |
+| 1919 | Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/Gradient-Remedy)](https://github.com/YUCHEN005/Gradient-Remedy) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096615-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096615) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11362-b31b1b.svg)](https://arxiv.org/abs/2302.11362) |
+| 1929 | MADI: Inter-Domain Matching and Intra-Domain Discrimination for Cross-Domain Speech Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095177-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095177) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11224-b31b1b.svg)](https://arxiv.org/abs/2302.11224) |
 | 1971 | ROBUST DATA2VEC: NOISE-ROBUST SPEECH REPRESENTATION LEARNING FOR ASR BY COMBINING REGRESSION AND IMPROVED CONTRASTIVE LEARNING |  |  |
 | 2040 | Robust Audio-Visual ASR with Unified Cross-modal Attention |  |  |
 | 3292 | HuBERT-AGG: Aggregated Representation Distillation of Hidden-unit BERT for Robust Speech Recognition |  |  |
