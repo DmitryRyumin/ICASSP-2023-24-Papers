@@ -776,10 +776,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition: Verification, Diarization, Anti-Spoofing
 
-
-| **#** | **Title** | **Repo** | **Paper** |
-|-------|-----------|:--------:|:---------:|
-| 5447 | SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing | [![GitHub](https://img.shields.io/github/stars/sivannavis/samo)](https://github.com/sivannavis/samo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02718-b31b1b.svg)](https://arxiv.org/abs/2211.02718) |
+> Will soon be added
 
 ### Recent Advances in Robust Learning for Modern Computational Imaging
 
@@ -913,7 +910,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition: Anti-Spoofing and Verification
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 5447 | SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing | [![GitHub](https://img.shields.io/github/stars/sivannavis/samo)](https://github.com/sivannavis/samo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02718-b31b1b.svg)](https://arxiv.org/abs/2211.02718) |
 
 ### Bayesian Signal Processing
 
