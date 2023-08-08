@@ -343,13 +343,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1356 | Improving Contextual Biasing with Text Injection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096287-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096287) |
 | 1655 | Structured State Space Decoder for Speech Recognition and Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096135-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096135) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.17098-b31b1b.svg)](https://arxiv.org/abs/2210.17098) |
 | 3365 | JEIT: Joint End-to-End Model and Internal Language Model Training for Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095249-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095249) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08583-b31b1b.svg)](https://arxiv.org/abs/2302.08583) |
-| 3368 | Variable Attention Masking for Configurable Transformer Transducer Speech Recognition |  |  |
-| 3499 | Factorized Blank Thresholding for Improved Runtime Efficiency of Neural Transducers |  |  |
-| 3926 | Fast-U2++: Fast and Accurate End-to-End Speech Recognition in Joint CTC/Attention Frames |  |  |
-| 4365 | Understanding Shared Speech-Text Representations |  |  |
-| 4534 | Front-End Adapter: Adapting Front-End Input of Speech based Self-Supervised Learning for Speech Recognition |  |  |
-| 2237 | Lego-Features: Exporting modular encoder features for streaming and deliberation ASR |  |  |
-| 5384 | Modular Conformer Training for Flexible End-to-End ASR |  |  |
+| 3368 | Variable Attention Masking for Configurable Transformer Transducer Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094588-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094588) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01438-b31b1b.svg)](https://arxiv.org/abs/2211.01438) |
+| 3499 | Factorized Blank Thresholding for Improved Runtime Efficiency of Neural Transducers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095845-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095845) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00896-b31b1b.svg)](https://arxiv.org/abs/2211.00896) |
+| 3926 | Fast-U2++: Fast and Accurate End-to-End Speech Recognition in Joint CTC/Attention Frames | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096154-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096154) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00941-b31b1b.svg)](https://arxiv.org/abs/2211.00941) |
+| 4365 | Understanding Shared Speech-Text Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095508-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095508) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.14514-b31b1b.svg)](https://arxiv.org/abs/2304.14514) |
+| 4534 | Front-End Adapter: Adapting Front-End Input of Speech based Self-Supervised Learning for Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095130-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095130) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.09331-b31b1b.svg)](https://arxiv.org/abs/2302.09331) |
+| 2237 | Lego-Features: Exporting Modular Encoder Features for Streaming and Deliberation ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095464-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095464) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00173-b31b1b.svg)](https://arxiv.org/abs/2304.00173) |
+| 5384 | Modular Conformer Training for Flexible End-to-End ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095966-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095966) |
 
 ### ASR: Noise Robustness
 
