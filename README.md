@@ -336,17 +336,47 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: New Models
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 179 | UCONV-CONFORMER: HIGH REDUCTION OF INPUT SEQUENCE LENGTH FOR END-TO-END SPEECH RECOGNITION |  |  |
+| 876 | A Comparison of Semi-Supervised Learning Techniques for Streaming ASR at Scale |  |  |
+| 1356 | Improving Contextual Biasing with Text Injection |  |  |
+| 1655 | STRUCTURED STATE SPACE DECODER FOR SPEECH RECOGNITION AND SYNTHESIS |  |  |
+| 3365 | JEIT: JOINT END-TO-END MODEL AND INTERNAL LANGUAGE MODEL TRAINING FOR SPEECH RECOGNITION |  |  |
+| 3368 | Variable Attention Masking for Configurable Transformer Transducer Speech Recognition |  |  |
+| 3499 | Factorized Blank Thresholding for Improved Runtime Efficiency of Neural Transducers |  |  |
+| 3926 | Fast-U2++: Fast and Accurate End-to-End Speech Recognition in Joint CTC/Attention Frames |  |  |
+| 4365 | Understanding Shared Speech-Text Representations |  |  |
+| 4534 | Front-End Adapter: Adapting Front-End Input of Speech based Self-Supervised Learning for Speech Recognition |  |  |
+| 2237 | Lego-Features: Exporting modular encoder features for streaming and deliberation ASR |  |  |
+| 5384 | Modular Conformer Training for Flexible End-to-End ASR |  |  |
 
 ### ASR: Noise Robustness
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 1897 | ON WORD ERROR RATE DEFINITIONS AND THEIR EFFICIENT COMPUTATION FOR MULTI-SPEAKER SPEECH RECOGNITION SYSTEMS |  |  |
+| 1919 | Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition |  |  |
+| 1929 | MADI: Inter-domain Matching and Intra-domain Discrimination for Cross-domain Speech Recognition |  |  |
+| 1971 | ROBUST DATA2VEC: NOISE-ROBUST SPEECH REPRESENTATION LEARNING FOR ASR BY COMBINING REGRESSION AND IMPROVED CONTRASTIVE LEARNING |  |  |
+| 2040 | Robust Audio-Visual ASR with Unified Cross-modal Attention |  |  |
+| 3292 | HuBERT-AGG: Aggregated Representation Distillation of Hidden-unit BERT for Robust Speech Recognition |  |  |
+| 4124 | SPEECH AND NOISE DUAL-STREAM SPECTROGRAM REFINE NETWORK WITH SPEECH DISTORTION LOSS FOR ROBUST SPEECH RECOGNITION |  |  |
+| 4680 | RobustDistiller: Compressing Universal Speech Representations for Enhanced Environment Robustness |  |  |
+| 5455 | Cleanformer: A Multichannel Array Configuration-Invariant Neural Enhancement Frontend for ASR in Smart Speakers |  |  |
+| 5504 | On the effectiveness of monoaural target source extraction for distant end-to-end automatic speech recognition |  |  |
+| 6389 | Noise-aware target extension with self-distillation for robust speech recognition |  |  |
 
 ### Audio Signal Restoration and Editing
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 5003 | AERO: Audio Super Resolution in the Spectral Domain | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/aero/) <br /> [![GitHub](https://img.shields.io/github/stars/slp-rl/aero)](https://github.com/slp-rl/aero) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095382-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095382) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12232-b31b1b.svg)](https://arxiv.org/abs/2211.12232) |
+| 1768 | UPGLADE: Unplugged Plug-and-Play audio declipper based on consensus equilibrium of DNN and sparse optimization |  |  |
+| 2121 | Improving performance of real-time full-band blind packet-loss concealment with predictive network |  |  |
+| 4388 | Faster Than Fast: Accelerating The Griffin-Lim Algorithm |  |  |
+| 3726 | Improving phase-vocoder-based time stretching by time-directional spectrogram squeezing |  |  |
+| 6288 | Extreme Audio Time Stretching using Neural Synthesis |  |  |
 
 ### Epilepsy Detection Grand Challenge
 
