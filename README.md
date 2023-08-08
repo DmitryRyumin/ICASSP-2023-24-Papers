@@ -372,11 +372,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 5003 | AERO: Audio Super Resolution in the Spectral Domain | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/aero/) <br /> [![GitHub](https://img.shields.io/github/stars/slp-rl/aero)](https://github.com/slp-rl/aero) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095382-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095382) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12232-b31b1b.svg)](https://arxiv.org/abs/2211.12232) |
-| 1768 | UPGLADE: Unplugged Plug-and-Play audio declipper based on consensus equilibrium of DNN and sparse optimization |  |  |
-| 2121 | Improving performance of real-time full-band blind packet-loss concealment with predictive network |  |  |
-| 4388 | Faster Than Fast: Accelerating The Griffin-Lim Algorithm |  |  |
-| 3726 | Improving phase-vocoder-based time stretching by time-directional spectrogram squeezing |  |  |
-| 6288 | Extreme Audio Time Stretching using Neural Synthesis |  |  |
+| 1768 | UPGLADE: Unplugged Plug-and-Play Audio Declipper based on Consensus Equilibrium of DNN and Sparse Optimization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095928-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095928) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://contents.acoust.ias.sci.waseda.ac.jp/publications/IEEE/2023/icassp-tanaka-2023June.pdf) |
+| 2121 | Improving Performance of Real-Time Full-Band Blind Packet-Loss Concealment with Predictive Network | [![GitHub](https://img.shields.io/github/stars/Crystalsound/FRN)](https://github.com/Crystalsound/FRN) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097132-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097132) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.04071-b31b1b.svg)](https://arxiv.org/abs/2211.04071) |
+| 4388 | Faster than Fast: Accelerating the Griffin-Lim Algorithm | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097224-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097224) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.12905-b31b1b.svg)](https://arxiv.org/abs/2304.12905) |
+| 3726 | Improving Phase-Vocoder-based Time Stretching by Time-Directional Spectrogram Squeezing | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://natsukiakaishi.github.io/timestretch/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095348-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095348) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://contents.acoust.ias.sci.waseda.ac.jp/publications/IEEE/2023/icassp-akaishi-2023June.pdf) |
+| 6288 | Extreme Audio Time Stretching using Neural Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094738-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094738) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16992-b31b1b.svg)](https://arxiv.org/abs/2211.16992) |
 
 ### Epilepsy Detection Grand Challenge
 
