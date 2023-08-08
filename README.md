@@ -1254,13 +1254,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 6443 | LMBAO: A Landmark Map For Bundle Adjustment Odometry In Lidar Slam | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097064) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2209.08810) |
-| 1069 | Residual Squeeze-And-Excitation U-Shaped Network For Minutia Extraction In Contactless Fingerprint Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095461/) |
-| 1603 | TSPTQ-ViT: Two-Scaled Post-Training Quantization For Vision Transformer| :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096817) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2305.12901) | 
-| 3925 | Low-Complexity Low-Rank Approximation SVD For Massive Matrix In Tensor Train Format | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096140) |
-| 2043 | Dailytalk: Spoken Dialogue Dataset For Conversational Text-To-Speech | [![GitHub](https://img.shields.io/github/stars/keonlee9420/DailyTalk)](https://github.com/keonlee9420/DailyTalk) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095751) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2207.01063) | 
-| 3040 | Cooperative Five Degrees Of Freedom Motion Estimation For A Swarm Of Autonomous Vehicles | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096821) |
-
+| 6443 | LMBAO: A Landmark Map for Bundle Adjustment Odometry in Lidar Slam | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097064-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097064) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.08810-b31b1b.svg)](https://arxiv.org/abs/2209.08810) |
+| 1069 | Residual Squeeze-and-Excitation U-Shaped Network for Minutia Extraction in Contactless Fingerprint Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095461-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095461) |
+| 1603 | TSPTQ-ViT: Two-Scaled Post-Training Quantization for Vision Transformer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096817-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096817) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.12901-b31b1b.svg)](https://arxiv.org/abs/2305.12901) |
+| 3925 | Low-Complexity Low-Rank Approximation SVD for Massive Matrix in Tensor Train Format | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096140-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096140) |
+| 2043 | DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech | [![GitHub](https://img.shields.io/github/stars/keonlee9420/DailyTalk)](https://github.com/keonlee9420/DailyTalk) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095751-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095751) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2207.01063-b31b1b.svg)](https://arxiv.org/abs/2207.01063) |
+| 3040 | Cooperative Five Degrees of Freedom Motion Estimation for a Swarm of Autonomous Vehicles | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096821-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096821) |
 
 ### Person Identification and Relapse Detection from Continuous Recordings of Biosignals
 
