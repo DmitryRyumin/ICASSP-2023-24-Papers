@@ -338,7 +338,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 179 | UCONV-CONFORMER: HIGH REDUCTION OF INPUT SEQUENCE LENGTH FOR END-TO-END SPEECH RECOGNITION |  |  |
+| 179 | UCONV-Conformer: High Reduction of Input Sequence Length for End-to-End Speech Recognition | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-161B22.svg)](https://github.com/andrusenkoau/espnet/blob/master_uconv/espnet2/asr/encoder/uconv_conformer_encoder.py) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095430-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095430) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.07657-b31b1b.svg)](https://arxiv.org/abs/2208.07657) |
 | 876 | A Comparison of Semi-Supervised Learning Techniques for Streaming ASR at Scale |  |  |
 | 1356 | Improving Contextual Biasing with Text Injection |  |  |
 | 1655 | STRUCTURED STATE SPACE DECODER FOR SPEECH RECOGNITION AND SYNTHESIS |  |  |
