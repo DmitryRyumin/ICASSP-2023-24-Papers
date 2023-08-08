@@ -339,10 +339,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 179 | UCONV-Conformer: High Reduction of Input Sequence Length for End-to-End Speech Recognition | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-161B22.svg)](https://github.com/andrusenkoau/espnet/blob/master_uconv/espnet2/asr/encoder/uconv_conformer_encoder.py) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095430-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095430) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.07657-b31b1b.svg)](https://arxiv.org/abs/2208.07657) |
-| 876 | A Comparison of Semi-Supervised Learning Techniques for Streaming ASR at Scale |  |  |
-| 1356 | Improving Contextual Biasing with Text Injection |  |  |
-| 1655 | STRUCTURED STATE SPACE DECODER FOR SPEECH RECOGNITION AND SYNTHESIS |  |  |
-| 3365 | JEIT: JOINT END-TO-END MODEL AND INTERNAL LANGUAGE MODEL TRAINING FOR SPEECH RECOGNITION |  |  |
+| 876 | A Comparison of Semi-Supervised Learning Techniques for Streaming ASR at Scale | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095838-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095838) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.11053-b31b1b.svg)](https://arxiv.org/abs/2304.11053) |
+| 1356 | Improving Contextual Biasing with Text Injection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096287-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096287) |
+| 1655 | Structured State Space Decoder for Speech Recognition and Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096135-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096135) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.17098-b31b1b.svg)](https://arxiv.org/abs/2210.17098) |
+| 3365 | JEIT: Joint End-to-End Model and Internal Language Model Training for Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095249-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095249) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08583-b31b1b.svg)](https://arxiv.org/abs/2302.08583) |
 | 3368 | Variable Attention Masking for Configurable Transformer Transducer Speech Recognition |  |  |
 | 3499 | Factorized Blank Thresholding for Improved Runtime Efficiency of Neural Transducers |  |  |
 | 3926 | Fast-U2++: Fast and Accurate End-to-End Speech Recognition in Joint CTC/Attention Frames |  |  |
