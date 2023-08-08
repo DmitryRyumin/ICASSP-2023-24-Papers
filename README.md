@@ -364,8 +364,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4124 | Speech and Noise Dual-Stream Spectrogram Refine Network with Speech Distortion Loss for Robust Speech Recognition | [![GitHub](https://img.shields.io/github/stars/manmushanhe/DSRNet-data)](https://github.com/manmushanhe/DSRNet-data) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095872-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095872) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17860-b31b1b.svg)](https://arxiv.org/abs/2305.17860) |
 | 4680 | RobustDistiller: Compressing Universal Speech Representations for Enhanced Environment Robustness | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095480-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095480) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.09437-b31b1b.svg)](https://arxiv.org/abs/2302.09437) |
 | 5455 | Cleanformer: A Multichannel Array Configuration-Invariant Neural Enhancement Frontend for ASR in Smart Speakers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095118-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095118) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.11933-b31b1b.svg)](https://arxiv.org/abs/2204.11933) |
-| 5504 | On the effectiveness of monoaural target source extraction for distant end-to-end automatic speech recognition |  |  |
-| 6389 | Noise-aware target extension with self-distillation for robust speech recognition |  |  |
+| 5504 | On the Effectiveness of Monoaural Target Source Extraction for Distant End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095742-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095742) |
+| 6389 | Noise-aware Target Extension with Self-Distillation for Robust Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094732-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094732) |
 
 ### Audio Signal Restoration and Editing
 
