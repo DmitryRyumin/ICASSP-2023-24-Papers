@@ -355,7 +355,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 1897 | ON WORD ERROR RATE DEFINITIONS AND THEIR EFFICIENT COMPUTATION FOR MULTI-SPEAKER SPEECH RECOGNITION SYSTEMS |  |  |
+| 1897 | On Word Error Rate Definitions and Their Efficient Computation for Multi-Speaker Speech Recognition Systems | [![GitHub](https://img.shields.io/github/stars/fgnt/meeteval)](https://github.com/fgnt/meeteval) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094784-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094784) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16112-b31b1b.svg)](https://arxiv.org/abs/2211.16112) |
 | 1919 | Gradient Remedy for Multi-Task Learning in End-to-End Noise-Robust Speech Recognition |  |  |
 | 1929 | MADI: Inter-domain Matching and Intra-domain Discrimination for Cross-domain Speech Recognition |  |  |
 | 1971 | ROBUST DATA2VEC: NOISE-ROBUST SPEECH REPRESENTATION LEARNING FOR ASR BY COMBINING REGRESSION AND IMPROVED CONTRASTIVE LEARNING |  |  |
