@@ -390,12 +390,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 3492 | Search For Efficient Deep Visual-Inertial Odometry Through Neural Architecture Search | [![GitHub](https://img.shields.io/github/stars/unchenyu/NASVIO)](https://github.com/unchenyu/NASVIO) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095166) |
-| 4072 | Receptive Field Reliant Zero-Cost Proxies For Neural Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096753) |
-| 4346 | ZO-DARTS: Differentiable Architecture Search With Zeroth-Order Approximation | :heavy_minus_sign:| [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096612) |
-| 2675 | Performing Neural Architecture Search Without Gradients | [![GitHub](https://img.shields.io/github/stars/Rufaim/ETENAS)](https://github.com/Rufaim/ETENAS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094582) |
-| 796 | Neural Architecture Of Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096248) |
-| 1461 | BHE-DARTS: Bilevel Optimization Based On Hypergradient Estimation For Differentiable Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095940) |
+| 3492 | Search for Efficient Deep Visual-Inertial Odometry Through Neural Architecture Search | [![GitHub](https://img.shields.io/github/stars/unchenyu/NASVIO)](https://github.com/unchenyu/NASVIO) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095166-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095166) |
+| 4072 | Receptive Field Reliant Zero-Cost Proxies for Neural Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096753-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096753) |
+| 4346 | ZO-DARTS: Differentiable Architecture Search with Zeroth-Order Approximation | :heavy_minus_sign:| [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096612-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096612) |
+| 2675 | Performing Neural Architecture Search without Gradients | [![GitHub](https://img.shields.io/github/stars/Rufaim/ETENAS)](https://github.com/Rufaim/ETENAS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094582-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094582) |
+| 796 | Neural Architecture of Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096248-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096248) |
+| 1461 | BHE-DARTS: Bilevel Optimization based on Hypergradient Estimation for Differentiable Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095940) |
 
 ### Expressive and Controllable TTS
 
