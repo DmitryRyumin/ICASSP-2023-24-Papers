@@ -380,11 +380,23 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Epilepsy Detection Grand Challenge
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 7015 | Lightweight Machine Learning for Seizure Detection on Wearable Devices | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096280-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096280) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://lucris.lub.lu.se/ws/portalfiles/portal/141522442/2023051653.pdf) |
+| 7021 | Pretrained Transformers for Seizure Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095660-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095660) |
+| 7022 | Towards Interpretable Seizure Detection using Wearables | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097091-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097091) |
+| 7033 | Optimization of the Deep Neural Networks for Seizure Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094645) |
 
 ### Deep Learning Theory
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2465 | MSFormer: Multi-Scale Transformer with Neighborhood Consensus for Feature Matching | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095240-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095240) |
+| 3498 | Decoupled Visual Causality for Robust Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095202-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095202) |
+| 2500 | Semantics-Disentangled Contrastive Embedding for Generalized Zero-Shot Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095665-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095665) |
+| 4730 | Dynamic Scalable Self-Attention Ensemble for Task-Free Continual Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094791-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094791) |
+| 2125 | Ultimate Negative Sampling for Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096173-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096173) |
+| 3936 | An Application of Quantum Mechanics to Attention Methods in Computer Vision | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095362-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095362) |
 
 ### Neural Architecture Search
 
