@@ -136,7 +136,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2417 | Hierarchical Softmax for End-to-End Low-Resource Multilingual Speech Recognition | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/Derek-Gong/hsoftmax) <br /> [![GitHub](https://img.shields.io/github/stars/Derek-Gong/hsoftmax)](https://github.com/Derek-Gong/hsoftmax) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095133) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03855-b31b1b.svg)](https://arxiv.org/abs/2204.03855) |
+| 2417 | Hierarchical Softmax for End-to-End Low-Resource Multilingual Speech Recognition | [![GitHub](https://img.shields.io/github/stars/Derek-Gong/hsoftmax)](https://github.com/Derek-Gong/hsoftmax) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095133) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03855-b31b1b.svg)](https://arxiv.org/abs/2204.03855) |
 | 4510 | Improving Massively Multilingual ASR With Auxiliary CTC Objectives | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/espnet/espnet/tree/master/egs2/fleurs/asr1) <br /> [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095326-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095326) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.12829-b31b1b.svg)](https://arxiv.org/abs/2302.12829) |
 | 4777 | Massively Multilingual Shallow Fusion with Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094796-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094796) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08917-b31b1b.svg)](https://arxiv.org/abs/2302.08917) |
 | 5465 | UML: A Universal Monolingual Output Layer for Multilingual ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096228-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096228) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11186-b31b1b.svg)](https://arxiv.org/abs/2302.11186) |
@@ -181,7 +181,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2458 | Design and Performance of the Low-Power Noise Reduction Algorithm of the Med-EL Sonnet 2<sup>TM</sup> Cochlear Implant Audio Processor | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095047-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095047) |
 | 6491 | Modulo EEG Signal Recovery using Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095357) |
 | 454 | Knowledge-Graph Augmented Music Representation for Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097131-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097131) |
-| 3175 | Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/Unified-Enhance-Separation)](https://github.com/YUCHEN005/Unified-Enhance-Separation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096050-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10096050) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11131-b31b1b.svg)](https://arxiv.org/abs/2302.11131) |
 
 ### Super Resolution
 
@@ -1013,13 +1012,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 457 | A Generalized Subspace Distribution Adaptation Framework For Cross-Corpus Speech Emotion Recognition| :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097258) |
-| 3755 | Fast Yet Effective Speech Emotion Recognition With Self-Distillation | [![GitHub](https://img.shields.io/github/stars/leibniz-future-lab/SelfDistill-SER)](https://github.com/leibniz-future-lab/SelfDistill-SER)|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094895) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.14636) |
-| 3954 | Domain Adaptation Without Catastrophic Forgetting On A Small-Scale Partially-Labeled Corpus For Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096578) |
-| 4547 | Phonetic Anchor-Based Transfer Learning To Facilitate Unsupervised Cross-Lingual Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095250) |
-| 4559 | Zero-Shot Speech Emotion Recognition Using Generative Learning With Reconstructed Prototypes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094888) |
-| 4858 | Unsupervised Domain Adaptation For Preference Learning Based Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094301) |
-
+| 457 | A Generalized Subspace Distribution Adaptation Framework for Cross-Corpus Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097258-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097258) |
+| 3755 | Fast Yet Effective Speech Emotion Recognition with Self-Distillation | [![GitHub](https://img.shields.io/github/stars/leibniz-future-lab/SelfDistill-SER)](https://github.com/leibniz-future-lab/SelfDistill-SER) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094895-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094895) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.14636-b31b1b.svg)](https://arxiv.org/abs/2210.14636) |
+| 3954 | Domain Adaptation without Catastrophic Forgetting on a Small-Scale Partially-Labeled Corpus for Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096578-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096578) |
+| 4547 | Phonetic Anchor-based Transfer Learning to Facilitate Unsupervised Cross-Lingual Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095250-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095250) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Upadhyay_2023.pdf) |
+| 4559 | Zero-Shot Speech Emotion Recognition using Generative Learning with Reconstructed Prototypes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094888-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094888) |
+| 4858 | Unsupervised Domain Adaptation for Preference Learning based Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094301-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094301) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Naini_2023.pdf) |
 
 ### Multi-Antenna Communications and Sensing
 
@@ -1234,7 +1232,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement - Separation and Target Speech Extraction
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 3175 | Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/Unified-Enhance-Separation)](https://github.com/YUCHEN005/Unified-Enhance-Separation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096050-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10096050) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11131-b31b1b.svg)](https://arxiv.org/abs/2302.11131) |
 
 ### Speech Enhancement - Single Channel
 
