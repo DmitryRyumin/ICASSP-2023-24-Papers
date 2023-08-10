@@ -1010,7 +1010,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Emotion Recognition: Transfer Learning
 
-> Will soon be added
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 457 | A Generalized Subspace Distribution Adaptation Framework For Cross-Corpus Speech Emotion Recognition| :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097258) |
+| 3755 | Fast Yet Effective Speech Emotion Recognition With Self-Distillation | [![GitHub](https://img.shields.io/github/stars/leibniz-future-lab/SelfDistill-SER)](https://github.com/leibniz-future-lab/SelfDistill-SER)|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094895) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.14636) |
+| 3954 | Domain Adaptation Without Catastrophic Forgetting On A Small-Scale Partially-Labeled Corpus For Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096578) |
+| 4547 | Phonetic Anchor-Based Transfer Learning To Facilitate Unsupervised Cross-Lingual Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095250) |
+| 4559 | Zero-Shot Speech Emotion Recognition Using Generative Learning With Reconstructed Prototypes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094888) |
+| 4858 | Unsupervised Domain Adaptation For Preference Learning Based Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094301) |
+
 
 ### Multi-Antenna Communications and Sensing
 
