@@ -181,6 +181,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2458 | Design and Performance of the Low-Power Noise Reduction Algorithm of the Med-EL Sonnet 2<sup>TM</sup> Cochlear Implant Audio Processor | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095047-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095047) |
 | 6491 | Modulo EEG Signal Recovery using Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095357) |
 | 454 | Knowledge-Graph Augmented Music Representation for Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097131-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097131) |
+| 3175 | Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/Unified-Enhance-Separation)](https://github.com/YUCHEN005/Unified-Enhance-Separation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096050-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10096050) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11131-b31b1b.svg)](https://arxiv.org/abs/2302.11131) |
 
 ### Super Resolution
 
