@@ -81,7 +81,287 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Papers
 
+<details close>
+<summary>List of sections<a id="sections"></a></summary>
+
+- [Audio for Multimedia and Multimodal Processing](#audio-for-multimedia-and-multimodal-processing)
+- [Drone-vs-Bird Detection Grand Challenge at ICASSP23](#drone-vs-bird-detection-grand-challenge-at-icassp23)
+- [Human Identification and Face Recognition](#human-identification-and-face-recognition)
+- [Self-Supervised Learning Methods](#self-supervised-learning-methods)
+- [ASR with Constrained Resource](#asr-with-constrained-resource)
+- [ASR: Multilingual Speech Recognition](#asr-multilingual-speech-recognition)
+- [Adaptive Signal Processing](#adaptive-signal-processing)
+- [6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective](#6g-integrated-sensing-and-communication-isac-from-theory-to-practice---a-signal-processing-perspective)
+- [Applications to Physiological Signals, Audio, and Speech](#applications-to-physiological-signals-audio-and-speech)
+- [Super Resolution](#super-resolution)
+- [Denoising](#denoising)
+- [Semantic Segmentation](#semantic-segmentation)
+- [Object Segmentation](#object-segmentation)
+- [Deep Learning for Image and Video Processing](#deep-learning-for-image-and-video-processing)
+- [Graph based Learning](#graph-based-learning)
+- [Learning from Multimodal Data](#learning-from-multimodal-data)
+- [Matrix/Tensor Factorization and Completion](#matrixtensor-factorization-and-completion)
+- [ASR - Improve Latency, Efficiency, and Accuracy](#asr---improve-latency-efficiency-and-accuracy)
+- [ASR: Domain Adaptation and Robust Training](#asr-domain-adaptation-and-robust-training)
+- [ASR: New Models](#asr-new-models)
+- [ASR: Noise Robustness](#asr-noise-robustness)
+- [Audio Signal Restoration and Editing](#audio-signal-restoration-and-editing)
+- [Epilepsy Detection Grand Challenge](#epilepsy-detection-grand-challenge)
+- [Deep Learning Theory](#deep-learning-theory)
+- [Neural Architecture Search](#neural-architecture-search)
+- [Expressive and Controllable TTS](#expressive-and-controllable-tts)
+- [Keyword Spotting](#keyword-spotting)
+- [Detection and Classification](#detection-and-classification)
+- [Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring](#advances-in-signal-processing-and-machine-learning-for-non-intrusive-load-monitoring)
+- [Machine Learning Applications](#machine-learning-applications)
+- [Classification](#classification)
+- [Human Posture Estimation](#human-posture-estimation)
+- [Human Reconstruction](#human-reconstruction)
+- [Face Recognition](#face-recognition)
+- [Source Separation, ICA, and Sparsity](#source-separation-ica-and-sparsity)
+- [Neural Sound Synthesis and Representation](#neural-sound-synthesis-and-representation)
+- [Deep Learning for Audio and Music Applications](#deep-learning-for-audio-and-music-applications)
+- [Machine Learning for Image and Video Processing](#machine-learning-for-image-and-video-processing)
+- [ASR: Text Adaptation](#asr-text-adaptation)
+- [ASR: Training Methods](#asr-training-methods)
+- [ASR: VAD and Other Topics](#asr-vad-and-other-topics)
+- [Automatic Audio Captioning and Retrieval](#automatic-audio-captioning-and-retrieval)
+- [Auditory EEG Decoding Challenge](#auditory-eeg-decoding-challenge)
+- [Image Restoration](#image-restoration)
+- [Interpretable and Explainable Machine Learning](#interpretable-and-explainable-machine-learning)
+- [Language Modeling](#language-modeling)
+- [Language Modeling and Spoken Language Understanding](#language-modeling-and-spoken-language-understanding)
+- [Estimation Theory and Methods](#estimation-theory-and-methods)
+- [AI Security and Privacy in Speech and Audio Processing](#ai-security-and-privacy-in-speech-and-audio-processing)
+- [Binaural Audio; Multichannel Source Separation](#binaural-audio-multichannel-source-separation)
+- [Image/Video Caption Generation](#imagevideo-caption-generation)
+- [Flow Estimation](#flow-estimation)
+- [Image/Video Retrieval](#imagevideo-retrieval)
+- [Transfer Learning](#transfer-learning)
+- [Learning Theory and Algorithms](#learning-theory-and-algorithms)
+- [Distributed and Federated Learning](#distributed-and-federated-learning)
+- [Machine Learning for Telecommunications](#machine-learning-for-telecommunications)
+- [Dialog and Multimodal Processing of Language](#dialog-and-multimodal-processing-of-language)
+- [Discourse and Dialog](#discourse-and-dialog)
+- [Emerging Topics in Speech Synthesis](#emerging-topics-in-speech-synthesis)
+- [Audio and Text Segmentation, Tagging and Parsing](#audio-and-text-segmentation-tagging-and-parsing)
+- [Diffusion-based Generative Models for Audio and Speech](#diffusion-based-generative-models-for-audio-and-speech)
+- [Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge](#multilingual-alzheimers-dementia-recognition-through-spontaneous-speech-a-signal-processing-grand-challenge)
+- [Model Pruning and Compression](#model-pruning-and-compression)
+- [Image Recognition and Detection](#image-recognition-and-detection)
+- [Machine Learning Methods for Language](#machine-learning-methods-for-language)
+- [Machine Translation and Dialog System](#machine-translation-and-dialog-system)
+- [Radar Waveform Design: Recent Advances and New Emerging Applications](#radar-waveform-design-recent-advances-and-new-emerging-applications)
+- [Conversational Healthcare Interfaces](#conversational-healthcare-interfaces)
+- [Computer Vision Applications](#computer-vision-applications)
+- [Domain-Specific Detection](#domain-specific-detection)
+- [Temporal Video Analysis and Detection](#temporal-video-analysis-and-detection)
+- [Object Detection](#object-detection)
+- [Deep Learning for Speech and Audio Processing](#deep-learning-for-speech-and-audio-processing)
+- [Deep Learning for Speech and Language Processing](#deep-learning-for-speech-and-language-processing)
+- [Language Modeling and Representation Learning](#language-modeling-and-representation-learning)
+- [Lightweight TTS and TTS Analysis](#lightweight-tts-and-tts-analysis)
+- [Machine Translation for Spoken and Written Language](#machine-translation-for-spoken-and-written-language)
+- [Music Audio Synthesis and Modeling](#music-audio-synthesis-and-modeling)
+- [Spoken Language Understanding Grand Challenge](#spoken-language-understanding-grand-challenge)
+- [Image Segmentation](#image-segmentation)
+- [Multi-Speaker ASR](#multi-speaker-asr)
+- [Multimodal Processing of Language and Language Systems](#multimodal-processing-of-language-and-language-systems)
+- [Tracking](#tracking)
+- [Radar-Assisted Perception (RAP)](#radar-assisted-perception-rap)
+- [Data Driven and Machine Learning based Room Acoustic Modeling](#data-driven-and-machine-learning-based-room-acoustic-modeling)
+- [Sensing Applications](#sensing-applications)
+- [Computational Imaging](#computational-imaging)
+- [Anomaly Detection](#anomaly-detection)
+- [Deep Neural Network](#deep-neural-network)
+- [Deep Learning](#deep-learning)
+- [Deep and Sequential Learning](#deep-and-sequential-learning)
+- [Machine Learning for Time Series Analysis](#machine-learning-for-time-series-analysis)
+- [Multilingual Speech Recognition and Identification](#multilingual-speech-recognition-and-identification)
+- [Quantum Computing for Machine Learning and Signal Processing](#quantum-computing-for-machine-learning-and-signal-processing)
+- [Sound Event Detection](#sound-event-detection)
+- [Brain Connectivity](#brain-connectivity)
+- [Speech Signal Improvement Signal Processing Grand Challenge 2023](#speech-signal-improvement-signal-processing-grand-challenge-2023)
+- [Anonymization and Data Privacy](#anonymization-and-data-privacy)
+- [Natural Language Processing](#natural-language-processing)
+- [Pronunciation and Fluency Assessment](#pronunciation-and-fluency-assessment)
+- [Edge Learning for Emerging Wireless Technologies](#edge-learning-for-emerging-wireless-technologies)
+- [Acoustic Sensor Array Processing and Sound Source Localization](#acoustic-sensor-array-processing-and-sound-source-localization)
+- [Representation Learning](#representation-learning)
+- [Adversarial Machine Learning](#adversarial-machine-learning)
+- [Target Detection and Classification](#target-detection-and-classification)
+- [Spatial Processing for Audio and Speech](#spatial-processing-for-audio-and-speech)
+- [Brain Computer Interfaces](#brain-computer-interfaces)
+- [Acoustic Echo Cancellation Signal Processing Grand Challenge 2023](#acoustic-echo-cancellation-signal-processing-grand-challenge-2023)
+- [DoA Estimation](#doa-estimation)
+- [Speaker Recognition: Scoring, Fairness, Privacy](#speaker-recognition-scoring-fairness-privacy)
+- [Speaker Recognition: Verification, Diarization, Anti-Spoofing](#speaker-recognition-verification-diarization-anti-spoofing)
+- [Recent Advances in Robust Learning for Modern Computational Imaging](#recent-advances-in-robust-learning-for-modern-computational-imaging)
+- [Signal Processing and Machine Learning for Networked Autonomous Agents](#signal-processing-and-machine-learning-for-networked-autonomous-agents)
+- [Active Noise Control, echo Reduction and Feedback Reduction](#active-noise-control-echo-reduction-and-feedback-reduction)
+- [Anomaly Detection and Representation Learning for Audio Classification](#anomaly-detection-and-representation-learning-for-audio-classification)
+- [Data Processing](#data-processing)
+- [Perceptual Assessment](#perceptual-assessment)
+- [Machine Learning for Recommendation, Search and other Applications](#machine-learning-for-recommendation-search-and-other-applications)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Pattern Recognition and Classification](#pattern-recognition-and-classification)
+- [Sparsity, Compressed Sensing, and Tensor Decomposition](#sparsity-compressed-sensing-and-tensor-decomposition)
+- [Adversarial Machine Learning and Information Theoretic Security](#adversarial-machine-learning-and-information-theoretic-security)
+- [Resource Constrained ASR](#resource-constrained-asr)
+- [Singing Voice Synthesis/Conversion and Pretrained TTS](#singing-voice-synthesisconversion-and-pretrained-tts)
+- [Medical Image Reconstruction](#medical-image-reconstruction)
+- [L3DAS23: Learning 3D Audio Sources for Audio-Visual Extended Reality](#l3das23-learning-3d-audio-sources-for-audio-visual-extended-reality)
+- [Multimedia Forensics](#multimedia-forensics)
+- [MIMO Radars and Waveform Design](#mimo-radars-and-waveform-design)
+- [Speech Dysarthria](#speech-dysarthria)
+- [Speech Emotion Recognition: General Topics](#speech-emotion-recognition-general-topics)
+- [Intelligent and Semantic Communications for 5G Mobile Networks and Beyond](#intelligent-and-semantic-communications-for-5g-mobile-networks-and-beyond)
+- [Audio and Speech Quality Measurements](#audio-and-speech-quality-measurements)
+- [Acoustic Modeling; Auditory Modeling for Hearing Instruments](#acoustic-modeling-auditory-modeling-for-hearing-instruments)
+- [Anonymization, Data Privacy, and Biometrics](#anonymization-data-privacy-and-biometrics)
+- [Object Recognition](#object-recognition)
+- [Identification Detection](#identification-detection)
+- [Tracking, Data Fusion, and Sensor Networks](#tracking-data-fusion-and-sensor-networks)
+- [Speaker Recognition: Neural Network Architecture](#speaker-recognition-neural-network-architecture)
+- [Speech Analysis](#speech-analysis)
+- [Speaker Recognition: Anti-Spoofing and Verification](#speaker-recognition-anti-spoofing-and-verification)
+- [Bayesian Signal Processing](#bayesian-signal-processing)
+- [Speaker Recognition: Verification and Diarization](#speaker-recognition-verification-and-diarization)
+- [Learning on Graphs for Biology and Medicine](#learning-on-graphs-for-biology-and-medicine)
+- [Learning from Neuroimaging Data](#learning-from-neuroimaging-data)
+- [Lightweight, Multi-Speaker, Multi-Lingual Indic Text-to-Speech](#lightweight-multi-speaker-multi-lingual-indic-text-to-speech)
+- [Quality Assessment and Anomaly Detection](#quality-assessment-and-anomaly-detection)
+- [Human-Centric Multimedia and Human-Machine Interaction](#human-centric-multimedia-and-human-machine-interaction)
+- [Speech Emotion Recognition: Transfer Learning](#speech-emotion-recognition-transfer-learning)
+- [Multi-Antenna Communications and Sensing](#multi-antenna-communications-and-sensing)
+- [Quantum Machine Learning Algorithms and Applications on NISQ Devices](#quantum-machine-learning-algorithms-and-applications-on-nisq-devices)
+- [Neural Speech and Audio Coding: Emerging Challenges and Opportunities](#neural-speech-and-audio-coding-emerging-challenges-and-opportunities)
+- [Medical and Environmental Acoustics; Audio Security](#medical-and-environmental-acoustics-audio-security)
+- [Classification of Acoustic Scenes and Events](#classification-of-acoustic-scenes-and-events)
+- [Learning from EEG Data](#learning-from-eeg-data)
+- [Physiological Signal Processing](#physiological-signal-processing)
+- [Speech Production, Perception,and Psychoacoustics](#speech-production-perceptionand-psychoacoustics)
+- [Watermarking, Data Hiding and Human Factors in Security](#watermarking-data-hiding-and-human-factors-in-security)
+- [3D Point Cloud/Stereo Video](#3d-point-cloudstereo-video)
+- [Face Processing](#face-processing)
+- [MIMO Radars and MIMO Communications](#mimo-radars-and-mimo-communications)
+- [Speaker Recognition: Diarization](#speaker-recognition-diarization)
+- [Estimation, Detection, and Classification](#estimation-detection-and-classification)
+- [Model Lightweight and Video Compression](#model-lightweight-and-video-compression)
+- [Subspace and Manifold Learning](#subspace-and-manifold-learning)
+- [Speech Enhancement - Diffusion and Other Generative Models](#speech-enhancement---diffusion-and-other-generative-models)
+- [ICASSP2023 General Meeting Understanding and Generation (MUG) Challenge](#icassp2023-general-meeting-understanding-and-generation-mug-challenge)
+- [Signal Processing for Smart City Applications and the Internet of Things](#signal-processing-for-smart-city-applications-and-the-internet-of-things)
+- [Symbol-Level Precoding: Recent Advance and New Applications in 6G and Beyond](#symbol-level-precoding-recent-advance-and-new-applications-in-6g-and-beyond)
+- [Graphical Inference and Modeling in Dynamical Systems](#graphical-inference-and-modeling-in-dynamical-systems)
+- [Deep Learning-based Source Separation](#deep-learning-based-source-separation)
+- [Medical Image Segmentation](#medical-image-segmentation)
+- [Bioinformatics](#bioinformatics)
+- [Cybersecurity, Hardware and Network Security](#cybersecurity-hardware-and-network-security)
+- [Multi-Antenna Communications and Intelligent Reflecting Surfaces](#multi-antenna-communications-and-intelligent-reflecting-surfaces)
+- [Multimedia Compression and Quality](#multimedia-compression-and-quality)
+- [Multimedia Analysis, Synthesis, and Learning](#multimedia-analysis-synthesis-and-learning)
+- [DoA Estimation and Beamforming](#doa-estimation-and-beamforming)
+- [Speech Emotion Recognition: Multimodality](#speech-emotion-recognition-multimodality)
+- [Speech Emotion Recognition: Neural Architectures](#speech-emotion-recognition-neural-architectures)
+- [Optimization Methods for Signal Processing](#optimization-methods-for-signal-processing)
+- [5th DNS Challenge at IEEE ICASSP 2023](#5th-dns-challenge-at-ieee-icassp-2023)
+- [Signal Processing and Learning over Dynamic Graphs](#signal-processing-and-learning-over-dynamic-graphs)
+- [Human Action Recognition](#human-action-recognition)
+- [Deep Generative Model](#deep-generative-model)
+- [Multimodal Signal Processing and Analysis](#multimodal-signal-processing-and-analysis)
+- [Speech Enhancement - Self-Supervised Learning](#speech-enhancement---self-supervised-learning)
+- [Distributed and Reliable Signal Processing and Communications](#distributed-and-reliable-signal-processing-and-communications)
+- [Resource-Efficient Real-time Neural Speech Separation](#resource-efficient-real-time-neural-speech-separation)
+- [Multichannel Speech Enhancement, Dereverberation, and System Identification](#multichannel-speech-enhancement-dereverberation-and-system-identification)
+- [Multilabel Acoustic Event Classification](#multilabel-acoustic-event-classification)
+- [Deep Learning for Medical Imaging](#deep-learning-for-medical-imaging)
+- [Machine/Deep Learning Methodologies for Multimedia](#machinedeep-learning-methodologies-for-multimedia)
+- [Human-Centric Multimedia](#human-centric-multimedia)
+- [Source Localization and Separation](#source-localization-and-separation)
+- [Speech Enhancement /Audio-Visual, Multi-Channel, and Other](#speech-enhancement-audio-visual-multi-channel-and-other)
+- [Speech Enhancement - Separation and Target Speech Extraction](#speech-enhancement---separation-and-target-speech-extraction)
+- [Speech Enhancement - Single Channel](#speech-enhancement---single-channel)
+- [Machine Learning Applications to Communications](#machine-learning-applications-to-communications)
+- [Aspects in Image Generation/Analysis](#aspects-in-image-generationanalysis)
+- [Multi-Antenna and Multi-Carrier Communications](#multi-antenna-and-multi-carrier-communications)
+- [Signal Filtering, Restoration, Enhancement, and Reconstruction](#signal-filtering-restoration-enhancement-and-reconstruction)
+- [ICASSP SP Clarity Challenge: Speech Enhancement for Hearing Aids](#icassp-sp-clarity-challenge-speech-enhancement-for-hearing-aids)
+- [Image and Video Enhancement](#image-and-video-enhancement)
+- [Speech Recognition-training/adaptation](#speech-recognition-trainingadaptation)
+- [Decentralized Wireless Systems and Energy Harvesting](#decentralized-wireless-systems-and-energy-harvesting)
+- [Robust Learning and Inference](#robust-learning-and-inference)
+- [Music Classification and Transcription](#music-classification-and-transcription)
+- [Music Information Retrieval](#music-information-retrieval)
+- [Deep Learning for Medical Image Segmentation](#deep-learning-for-medical-image-segmentation)
+- [Detection and Classification in Medical Imaging](#detection-and-classification-in-medical-imaging)
+- [Image Coding/Compression](#image-codingcompression)
+- [Audio-Visual Signal Processing and Analysis](#audio-visual-signal-processing-and-analysis)
+- [Various Aspects in Speech and Language Processing](#various-aspects-in-speech-and-language-processing)
+- [Speech Recognition: Modeling and Context](#speech-recognition-modeling-and-context)
+- [Speech Recognition: Self-Supervised Models](#speech-recognition-self-supervised-models)
+- [Channel State Estimation](#channel-state-estimation)
+- [Signal Processing over Graphs and Networks](#signal-processing-over-graphs-and-networks)
+- [Signal Processing over Networks](#signal-processing-over-networks)
+- [Applications to Vision, Speech, and Robotics](#applications-to-vision-speech-and-robotics)
+- [Person Identification and Relapse Detection from Continuous Recordings of Biosignals](#person-identification-and-relapse-detection-from-continuous-recordings-of-biosignals)
+- [Vision and Language Model](#vision-and-language-model)
+- [TTS: AM and Vocoder](#tts-am-and-vocoder)
+- [Signal Processing Education](#signal-processing-education)
+- [Signal Processing and Systems for Remote Biometrics](#signal-processing-and-systems-for-remote-biometrics)
+- [Signal Processing for RIS-Enabled Smart Wireless Environments](#signal-processing-for-ris-enabled-smart-wireless-environments)
+- [Multimodal Learning](#multimodal-learning)
+- [Video Coding/Compression](#video-codingcompression)
+- [Object Tracking](#object-tracking)
+- [Image Generation](#image-generation)
+- [Spoken Language Understanding](#spoken-language-understanding)
+- [Optimization and Machine Learning for Communications](#optimization-and-machine-learning-for-communications)
+- [Sparse/Low-Dimensional Signal Processing](#sparselow-dimensional-signal-processing)
+- [Signal Processing Theory and Methods](#signal-processing-theory-and-methods)
+- [Radar/Array Signal Processing. Networks and Communications](#radararray-signal-processing-networks-and-communications)
+- [Applications to Communications](#applications-to-communications)
+- [The First Pathloss Radio Map Prediction Challenge](#the-first-pathloss-radio-map-prediction-challenge)
+- [Human Video Generation and Editing](#human-video-generation-and-editing)
+- [Point Cloud Processing](#point-cloud-processing)
+- [Multimedia Databases and Information Retrieval](#multimedia-databases-and-information-retrieval)
+- [Voice and Style Conversion](#voice-and-style-conversion)
+- [Synergy between Human and Machine Approaches to Sound/Scene Recognition and Processing](#synergy-between-human-and-machine-approaches-to-soundscene-recognition-and-processing)
+- [Topological and Simplicial Data Processing](#topological-and-simplicial-data-processing)
+- [Unsupervised Deep Learning of Image Priors for Inverse Problems](#unsupervised-deep-learning-of-image-priors-for-inverse-problems)
+- [Self-Supervised Learning and Data-Efficiency for Speech and Audio](#self-supervised-learning-and-data-efficiency-for-speech-and-audio)
+- [Sound Event Detection and Localization; Bioacoustic Event Detection](#sound-event-detection-and-localization-bioacoustic-event-detection)
+- [Aspects in Machine Learning](#aspects-in-machine-learning)
+- [Aspects in Image/Video Processing and Analysis](#aspects-in-imagevideo-processing-and-analysis)
+- [Learning Algorithms and Applications](#learning-algorithms-and-applications)
+- [Optimization Methods in Machine Learning](#optimization-methods-in-machine-learning)
+- [Applications of Machine Learning](#applications-of-machine-learning)
+- [Sensing, Computing, and Semantic Communications](#sensing-computing-and-semantic-communications)
+- [Sparsity and Low-Rank Models](#sparsity-and-low-rank-models)
+- [Signal Processing over Graphs](#signal-processing-over-graphs)
+- [Target Source Extraction](#target-source-extraction)
+- [Music Generation and Arrangement](#music-generation-and-arrangement)
+- [Multimodal Information based Speech Processing (MISP) 2022 Challenge](#multimodal-information-based-speech-processing-misp-2022-challenge)
+- [Image Retrieval and Classification](#image-retrieval-and-classification)
+- [Variational Inference and Approximate Bayesian Techniques](#variational-inference-and-approximate-bayesian-techniques)
+- [Spatial Audio Recording and Reproduction](#spatial-audio-recording-and-reproduction)
+- [Speech Modeling and Audio Coding](#speech-modeling-and-audio-coding)
+- [Audio Processing and Analysis](#audio-processing-and-analysis)
+- [Image/Video Enhancement](#imagevideo-enhancement)
+- [Zero or Few-Shot Learning](#zero-or-few-shot-learning)
+- [Acoustic and Microphone Array Processing](#acoustic-and-microphone-array-processing)
+- [Speech and Language Disorders](#speech-and-language-disorders)
+- [Various Aspects in Speech and Speaker Recognition](#various-aspects-in-speech-and-speaker-recognition)
+- [Sampling Theory, Compressed and Non-uniform Sampling](#sampling-theory-compressed-and-non-uniform-sampling)
+- [Show and Tell Demos: Session](#show-and-tell-demos-session)
+- [Rising Stars Workshop](#rising-stars-workshop)
+
+</details>
+
 ### Audio for Multimedia and Multimodal Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -93,6 +373,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Drone-vs-Bird Detection Grand Challenge at ICASSP23
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 6834 | High-Speed Drone Detection based on Yolo-v8 | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095516-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095516) |
@@ -100,6 +384,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095146-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095146) |
 
 ### Human Identification and Face Recognition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -112,6 +400,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Self-Supervised Learning Methods
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 429 | PointACL: Adversarial Contrastive Learning for Robust Point Clouds Representation under Adversarial Attack | [![GitHub](https://img.shields.io/github/stars/tsbiosky/PointACL)](https://github.com/tsbiosky/PointACL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095313-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095313) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.06971-b31b1b.svg)](https://arxiv.org/abs/2209.06971) |
@@ -122,6 +414,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 740 | Adaptive Data Augmentation for Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095350-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095350) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.02451-b31b1b.svg)](https://arxiv.org/abs/2304.02451) |
 
 ### ASR with Constrained Resource
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -134,6 +430,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: Multilingual Speech Recognition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 2417 | Hierarchical Softmax for End-to-End Low-Resource Multilingual Speech Recognition | [![GitHub](https://img.shields.io/github/stars/Derek-Gong/hsoftmax)](https://github.com/Derek-Gong/hsoftmax) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095133) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.03855-b31b1b.svg)](https://arxiv.org/abs/2204.03855) |
@@ -144,6 +444,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094667) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.05756-b31b1b.svg)](https://arxiv.org/abs/2211.05756) |
 
 ### Adaptive Signal Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -156,6 +460,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 3049 | 6G Integrated Sensing and Communication - Sensing Assisted Environmental Reconstruction and Communication | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096544-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096544) |
@@ -166,6 +474,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097134-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097134) |
 
 ### Applications to Physiological Signals, Audio, and Speech
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -184,6 +496,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Super Resolution
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 275 | PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution | [![GitHub](https://img.shields.io/github/stars/MIVRC/PFT-PyTorch)](https://github.com/MIVRC/PFT-PyTorch) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096174-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096174) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13807-b31b1b.svg)](https://arxiv.org/abs/2303.13807) |
@@ -200,6 +516,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3555 | Local to Global Prior Learning for Blind Unsupervised Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096533-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096533) |
 
 ### Denoising
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -218,6 +538,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Semantic Segmentation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 190 | LoG-CAN: Local-Global Class-aware Network for Semantic Segmentation of Remote Sensing Images | [![GitHub](https://img.shields.io/github/stars/xwmaxwma/rssegmentation)](https://github.com/xwmaxwma/rssegmentation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095835-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095835) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07747-b31b1b.svg)](https://arxiv.org/abs/2303.07747) |
@@ -235,6 +559,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Object Segmentation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 3473 | Robust Video Object Segmentation with Restricted Attention | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096283-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096283) |
@@ -250,6 +578,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2469 | Continual Cell Instance Segmentation of Microscopy Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096312-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096312) |
 
 ### Deep Learning for Image and Video Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -268,6 +600,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Graph based Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 715 | Graph-Graph Context Dependency Attention for Graph Edit Distance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094975-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094975) |
@@ -284,6 +620,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3724 | Time-Varying Signals Recovery via Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096168-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096168) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11313-b31b1b.svg)](https://arxiv.org/abs/2302.11313) |
 
 ### Learning from Multimodal Data
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -302,6 +642,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Matrix/Tensor Factorization and Completion
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 507 | Learn Topological Representation with Flexible Manifold Layer | [![GitHub](https://img.shields.io/github/stars/jzh9830/DeepSVM)](https://github.com/jzh9830/DeepSVM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096215-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096215) |
@@ -318,6 +662,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization Tools | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096026-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096026) |
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -336,6 +684,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: Domain Adaptation and Robust Training
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 505 | SAN: A Robust End-to-End ASR Model Architecture | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094595-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094595) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15285-b31b1b.svg)](https://arxiv.org/abs/2210.15285) |
@@ -352,6 +704,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5902 | Improving Accented Speech Recognition with Multi-Domain Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096268-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096268) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07924-b31b1b.svg)](https://arxiv.org/abs/2303.07924) |
 
 ### ASR: New Models
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -370,6 +726,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: Noise Robustness
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 1897 | On Word Error Rate Definitions and Their Efficient Computation for Multi-Speaker Speech Recognition Systems | [![GitHub](https://img.shields.io/github/stars/fgnt/meeteval)](https://github.com/fgnt/meeteval) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094784-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094784) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16112-b31b1b.svg)](https://arxiv.org/abs/2211.16112) |
@@ -386,6 +746,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Audio Signal Restoration and Editing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 5003 | AERO: Audio Super Resolution in the Spectral Domain | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://pages.cs.huji.ac.il/adiyoss-lab/aero/) <br /> [![GitHub](https://img.shields.io/github/stars/slp-rl/aero)](https://github.com/slp-rl/aero) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095382-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095382) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.12232-b31b1b.svg)](https://arxiv.org/abs/2211.12232) |
@@ -397,6 +761,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Epilepsy Detection Grand Challenge
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 7015 | Lightweight Machine Learning for Seizure Detection on Wearable Devices | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096280-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096280) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://lucris.lub.lu.se/ws/portalfiles/portal/141522442/2023051653.pdf) |
@@ -405,6 +773,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 7033 | Optimization of the Deep Neural Networks for Seizure Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094645) |
 
 ### Deep Learning Theory
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -417,6 +789,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Neural Architecture Search
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
 | 3492 | Search for Efficient Deep Visual-Inertial Odometry Through Neural Architecture Search | [![GitHub](https://img.shields.io/github/stars/unchenyu/NASVIO)](https://github.com/unchenyu/NASVIO) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095166-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095166) |
@@ -428,37 +804,73 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Expressive and Controllable TTS
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Keyword Spotting
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Detection and Classification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Machine Learning Applications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Classification
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Human Posture Estimation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Human Reconstruction
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Face Recognition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -476,61 +888,121 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Source Separation, ICA, and Sparsity
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Neural Sound Synthesis and Representation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep Learning for Audio and Music Applications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Learning for Image and Video Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### ASR: Text Adaptation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### ASR: Training Methods
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### ASR: VAD and Other Topics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Automatic Audio Captioning and Retrieval
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Auditory EEG Decoding Challenge
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Image Restoration
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Interpretable and Explainable Machine Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Language Modeling
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Language Modeling and Spoken Language Understanding
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Estimation Theory and Methods
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### AI Security and Privacy in Speech and Audio Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -541,6 +1013,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6129 | Distinguishable Speaker Anonymization Based on Formant and Fundamental Frequency Scaling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095120-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095120) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03038-b31b1b.svg)](https://arxiv.org/abs/2211.03038) |
 
 ### Binaural Audio; Multichannel Source Separation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -558,49 +1034,97 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image/Video Caption Generation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Flow Estimation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image/Video Retrieval
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Transfer Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Learning Theory and Algorithms
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Distributed and Federated Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Machine Learning for Telecommunications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Dialog and Multimodal Processing of Language
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Discourse and Dialog
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Emerging Topics in Speech Synthesis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Audio and Text Segmentation, Tagging and Parsing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Diffusion-based Generative Models for Audio and Speech
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -613,65 +1137,129 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Model Pruning and Compression
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image Recognition and Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Learning Methods for Language
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Machine Translation and Dialog System
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Radar Waveform Design: Recent Advances and New Emerging Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Conversational Healthcare Interfaces
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Computer Vision Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Domain-Specific Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Temporal Video Analysis and Detection
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Object Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Deep Learning for Speech and Audio Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep Learning for Speech and Language Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Language Modeling and Representation Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Lightweight TTS and TTS Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Translation for Spoken and Written Language
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -690,21 +1278,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Music Audio Synthesis and Modeling
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Spoken Language Understanding Grand Challenge
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image Segmentation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multi-Speaker ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multimodal Processing of Language and Language Systems
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -728,89 +1336,177 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Tracking
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Radar-Assisted Perception (RAP)
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Data Driven and Machine Learning based Room Acoustic Modeling
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Sensing Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Computational Imaging
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Anomaly Detection
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep Neural Network
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Deep Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep and Sequential Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Learning for Time Series Analysis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multilingual Speech Recognition and Identification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Quantum Computing for Machine Learning and Signal Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Sound Event Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Brain Connectivity
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speech Signal Improvement Signal Processing Grand Challenge 2023
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Anonymization and Data Privacy
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Natural Language Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Pronunciation and Fluency Assessment
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Edge Learning for Emerging Wireless Technologies
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Acoustic Sensor Array Processing and Sound Source Localization
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Representation Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Adversarial Machine Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -818,105 +1514,209 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Target Detection and Classification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Spatial Processing for Audio and Speech
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Brain Computer Interfaces
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Acoustic Echo Cancellation Signal Processing Grand Challenge 2023
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### DoA Estimation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speaker Recognition: Scoring, Fairness, Privacy
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speaker Recognition: Verification, Diarization, Anti-Spoofing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Recent Advances in Robust Learning for Modern Computational Imaging
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Processing and Machine Learning for Networked Autonomous Agents
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Active Noise Control, echo Reduction and Feedback Reduction
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Anomaly Detection and Representation Learning for Audio Classification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Data Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Perceptual Assessment
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Learning for Recommendation, Search and other Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Reinforcement Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Pattern Recognition and Classification
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Sparsity, Compressed Sensing, and Tensor Decomposition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Adversarial Machine Learning and Information Theoretic Security
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Resource Constrained ASR
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Singing Voice Synthesis/Conversion and Pretrained TTS
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Medical Image Reconstruction
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### L3DAS23: Learning 3D Audio Sources for Audio-Visual Extended Reality
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multimedia Forensics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### MIMO Radars and Waveform Design
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speech Dysarthria
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Emotion Recognition: General Topics
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -929,29 +1729,57 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Intelligent and Semantic Communications for 5G Mobile Networks and Beyond
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Audio and Speech Quality Measurements
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Acoustic Modeling; Auditory Modeling for Hearing Instruments
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Anonymization, Data Privacy, and Biometrics
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Object Recognition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Identification Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Tracking, Data Fusion, and Sensor Networks
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -968,13 +1796,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition: Neural Network Architecture
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speaker Recognition: Anti-Spoofing and Verification
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -982,33 +1822,65 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Bayesian Signal Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speaker Recognition: Verification and Diarization
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Learning on Graphs for Biology and Medicine
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Learning from Neuroimaging Data
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Lightweight, Multi-Speaker, Multi-Lingual Indic Text-to-Speech
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Quality Assessment and Anomaly Detection
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Human-Centric Multimedia and Human-Machine Interaction
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Emotion Recognition: Transfer Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1021,69 +1893,137 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multi-Antenna Communications and Sensing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Quantum Machine Learning Algorithms and Applications on NISQ Devices
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Neural Speech and Audio Coding: Emerging Challenges and Opportunities
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Medical and Environmental Acoustics; Audio Security
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Classification of Acoustic Scenes and Events
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Learning from EEG Data
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Physiological Signal Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Production, Perception,and Psychoacoustics
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Watermarking, Data Hiding and Human Factors in Security
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### 3D Point Cloud/Stereo Video
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Face Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### MIMO Radars and MIMO Communications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speaker Recognition: Diarization
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Estimation, Detection, and Classification
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Model Lightweight and Video Compression
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Subspace and Manifold Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Enhancement - Diffusion and Other Generative Models
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1096,77 +2036,153 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ICASSP2023 General Meeting Understanding and Generation (MUG) Challenge
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Signal Processing for Smart City Applications and the Internet of Things
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Symbol-Level Precoding: Recent Advance and New Applications in 6G and Beyond
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Graphical Inference and Modeling in Dynamical Systems
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep Learning-based Source Separation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Medical Image Segmentation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Bioinformatics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Cybersecurity, Hardware and Network Security
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multi-Antenna Communications and Intelligent Reflecting Surfaces
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multimedia Compression and Quality
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multimedia Analysis, Synthesis, and Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### DoA Estimation and Beamforming
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speech Emotion Recognition: Multimodality
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Emotion Recognition: Neural Architectures
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Optimization Methods for Signal Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### 5th DNS Challenge at IEEE ICASSP 2023
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Processing and Learning over Dynamic Graphs
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Human Action Recognition
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Deep Generative Model
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1179,9 +2195,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Multimodal Signal Processing and Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Enhancement - Self-Supervised Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1194,21 +2218,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Distributed and Reliable Signal Processing and Communications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Resource-Efficient Real-time Neural Speech Separation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multichannel Speech Enhancement, Dereverberation, and System Identification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multilabel Acoustic Event Classification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Deep Learning for Medical Imaging
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1216,21 +2260,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Machine/Deep Learning Methodologies for Multimedia
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Human-Centric Multimedia
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Source Localization and Separation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Enhancement /Audio-Visual, Multi-Channel, and Other
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Enhancement - Separation and Target Speech Extraction
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1238,93 +2302,185 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speech Enhancement - Single Channel
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Machine Learning Applications to Communications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Aspects in Image Generation/Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multi-Antenna and Multi-Carrier Communications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Filtering, Restoration, Enhancement, and Reconstruction
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### ICASSP SP Clarity Challenge: Speech Enhancement for Hearing Aids
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image and Video Enhancement
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Recognition-training/adaptation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Decentralized Wireless Systems and Energy Harvesting
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Robust Learning and Inference
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Music Classification and Transcription
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Music Information Retrieval
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Deep Learning for Medical Image Segmentation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Detection and Classification in Medical Imaging
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image Coding/Compression
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Audio-Visual Signal Processing and Analysis
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Various Aspects in Speech and Language Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Recognition: Modeling and Context
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speech Recognition: Self-Supervised Models
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Channel State Estimation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Processing over Graphs and Networks
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Signal Processing over Networks
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Applications to Vision, Speech, and Robotics
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1337,101 +2493,201 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Person Identification and Relapse Detection from Continuous Recordings of Biosignals
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Vision and Language Model
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### TTS: AM and Vocoder
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Signal Processing Education
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Processing and Systems for Remote Biometrics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Signal Processing for RIS-Enabled Smart Wireless Environments
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multimodal Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Video Coding/Compression
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Object Tracking
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Image Generation
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Spoken Language Understanding
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Optimization and Machine Learning for Communications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Sparse/Low-Dimensional Signal Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Signal Processing Theory and Methods
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Radar/Array Signal Processing. Networks and Communications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Applications to Communications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### The First Pathloss Radio Map Prediction Challenge
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Human Video Generation and Editing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Point Cloud Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multimedia Databases and Information Retrieval
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Voice and Style Conversion
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Synergy between Human and Machine Approaches to Sound/Scene Recognition and Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Topological and Simplicial Data Processing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Unsupervised Deep Learning of Image Priors for Inverse Problems
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Self-Supervised Learning and Data-Efficiency for Speech and Audio
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
@@ -1439,101 +2695,201 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Sound Event Detection and Localization; Bioacoustic Event Detection
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Aspects in Machine Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Aspects in Image/Video Processing and Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Learning Algorithms and Applications
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Optimization Methods in Machine Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Applications of Machine Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Sensing, Computing, and Semantic Communications
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Sparsity and Low-Rank Models
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Signal Processing over Graphs
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Target Source Extraction
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Music Generation and Arrangement
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Multimodal Information based Speech Processing (MISP) 2022 Challenge
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Image Retrieval and Classification
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Variational Inference and Approximate Bayesian Techniques
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Spatial Audio Recording and Reproduction
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Speech Modeling and Audio Coding
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Audio Processing and Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Image/Video Enhancement
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Zero or Few-Shot Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Acoustic and Microphone Array Processing
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Speech and Language Disorders
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Various Aspects in Speech and Speaker Recognition
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Sampling Theory, Compressed and Non-uniform Sampling
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Show and Tell Demos: Session
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Rising Stars Workshop
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
