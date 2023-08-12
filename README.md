@@ -1164,7 +1164,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1242 | SANet: Spatial Attention Network with Global Average Contrast Learning for Infrared Small Target | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096649-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096649) |
 | 736 | Logovit: Local-Global Vision Transformer for Object Re-Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096126-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096126) |
 | 319 | ProContEXT: Exploring Progressive Context Transformer for Tracking | [![GitHub](https://img.shields.io/github/stars/jp-lan/ProContEXT)](https://github.com/jp-lan/ProContEXT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094971-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094971) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15511-b31b1b.svg)](https://arxiv.org/abs/2210.15511) |
-| 3268 | PAIR DETR: TOWARD FASTER CONVERGENT DETR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095608-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095608)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16476-b31b1b.svg)](https://arxiv.org/abs/2210.16476) |
+| 3268 | Pair DETR: Toward Faster Convergent DETR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095608-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095608)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16476-b31b1b.svg)](https://arxiv.org/abs/2210.16476) |
 
 ### Machine Learning Methods for Language
 
