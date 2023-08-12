@@ -1844,11 +1844,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 2914 | Deep Spatio-Temporal Multiplex Graph Learning For Cardiac Imaging Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096712) |
-| 4165 | Graph Signal Processing For Neurogimaging To Reveal Dynamics Of Brain Structure-Function Coupling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095285) |
-| 4375 | Multiple Signed Graph Learning For Gene Regulatory Network Inference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096490) |
-| 4599 | Predicting Brain Age Using Transferable Covariance Neural Networks | :heavy_minus_sign:|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095085) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.16363) |
-| 6456 | Spatial Graph Signal Interpolation With An Application For Merging BCI Datasets With Various Dimensionalities | [![GitHub](https://img.shields.io/github/stars/elouayas/eeg_interpolation)](https://github.com/elouayas/eeg_interpolation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097201) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2211.02624) |
+| 2914 | Deep Spatio-Temporal Multiplex Graph Learning for Cardiac Imaging Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096712-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096712) |
+| 4165 | Graph Signal Processing for Neurogimaging to Reveal Dynamics of Brain Structure-Function Coupling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095285-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095285) |
+| 4375 | Multiple Signed Graph Learning for Gene Regulatory Network Inference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096490-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096490) |
+| 4599 | Predicting Brain Age using Transferable Covariance Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095085-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095085) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16363-b31b1b.svg)](https://arxiv.org/abs/2210.16363) |
+| 6456 | Spatial Graph Signal Interpolation with an Application for Merging BCI Datasets with Various Dimensionalities | [![GitHub](https://img.shields.io/github/stars/elouayas/eeg_interpolation)](https://github.com/elouayas/eeg_interpolation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097201-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097201) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02624-b31b1b.svg)](https://arxiv.org/abs/2211.02624) |
 
 ### Learning from Neuroimaging Data
 
