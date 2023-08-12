@@ -2033,7 +2033,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4602 | Study Of Manifold Geometry Using Multiscale Non-Negative Kernel Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.17475) |
 
 
-> Will soon be added
 
 ### Speech Enhancement - Diffusion and Other Generative Models
 
