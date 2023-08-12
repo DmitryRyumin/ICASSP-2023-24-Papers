@@ -2023,6 +2023,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
+| **#** | **Title** | **Repo** | **Paper** |
+|-------|-----------|:--------:|:---------:|
+| 2651 | Generative Modeling Based Manifold Learning For Adaptive Filtering Guidance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094985) |
+| 684 | Tensor Completion For Efficient And Accurate Hyperparameter Optimisation In Large-Scale Statistical Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096491) |
+| 903 | CO-NET: Classification-Oriented Point Cloud Sampling Via Informative Feature Learning And Non-Overlapped Local Adjustment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097077) |
+| 2091 | Deep Survival Analysis And Counterfactual Inference Using Balanced Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095273) |
+| 3045 | Feature Space Recovery For Incomplete Multi-View Clustering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095489) |
+| 4602 | Study Of Manifold Geometry Using Multiscale Non-Negative Kernel Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.17475) |
+
+
 > Will soon be added
 
 ### Speech Enhancement - Diffusion and Other Generative Models
