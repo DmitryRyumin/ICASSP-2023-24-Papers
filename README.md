@@ -808,7 +808,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 2625 | Improving Speech Prosody of Audiobook Text-to-Speech Synthesis with Acoustic and Textual Contexts | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://aria-k-alethia.github.io/2022rat-demo/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096247-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096247) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02336-b31b1b.svg)](https://arxiv.org/abs/2211.02336) |
+| 4768 | Context-Aware Coherent Speaking Style Prediction with Hierarchical Transformers for Audiobook Speech Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://thuhcsi.github.io/icassp2023-coherent-tts/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095866-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095866) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.06359-b31b1b.svg)](https://arxiv.org/abs/2304.06359) |
+| 4776 | Ensemble Prosody Prediction for Expressive Speech Synthesis | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.papercup.com/samples/ensemble-prosody-prediction) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096962-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096962) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00714-b31b1b.svg)](https://arxiv.org/abs/2304.00714) |
+| 5782 | Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://nzqian.github.io/Expressive-VC.github.io/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096057-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096057) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.04710-b31b1b.svg)](https://arxiv.org/abs/2211.04710) |
+| 5970 | High-Acoustic Fidelity Text to Speech Synthesis with Fine-Grained Control of Speech Attributes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096279-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096279) |
+| 6203 | Embedding a Differentiable Mel-Cepstral Synthesis Filter to a Neural Speech Synthesis System | [![GitHub](https://img.shields.io/github/stars/sp-nitech/diffsptk)](https://github.com/sp-nitech/diffsptk) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094872-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094872) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11222-b31b1b.svg)](https://arxiv.org/abs/2211.11222) |
 
 ### Keyword Spotting
 
@@ -816,7 +823,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 1848 | Disentangled Training with Adversarial Examples for Robust Small-Footprint Keyword Spotting | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094750-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094750) <br /> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://research.facebook.com/publications/disentangled-training-with-adversarial-examples-for-robust-small-footprint-keyword-spotting/) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://scontent-lga3-1.xx.fbcdn.net/v/t39.8562-6/340943074_196693663111744_9209478559233150203_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=e280be&_nc_ohc=CKoWY_EgKBUAX-BDFK9&_nc_ht=scontent-lga3-1.xx&oh=00_AfCSY-nRQ_J3WLa0n-N66ZKdk1nEE1SB4ta9BzTeFnuDng&oe=64DCC778) |
+| 3578 | Dual-Attention Neural Transducers for Efficient Wake Word Spotting in Speech Recognition |  |  |
+| 5025 | FIXED-POINT QUANTIZATION AWARE TRAINING FOR ON-DEVICE KEYWORD-SPOTTING |  |  |
+| 5106 | To Wake-Up or Not to Wake-Up: Reducing Keyword False Alarm by Successive Refinement |  |  |
+| 5584 | Transcription Free Filler Word Detection with Neural Semi-CRFs |  |  |
+| 6078 | The DKU Post-Challenge Audio-Visual Wake Word Spotting System for the 2021 MISP Challenge: Deep Analysis |  |  |
 
 ### Detection and Classification
 
