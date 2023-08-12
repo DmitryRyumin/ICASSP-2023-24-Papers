@@ -1159,10 +1159,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 907 | Data-aware Zero-shot Neural Architecture Search for Image Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094741-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094741) |
-| 3890 | CFFMixer: Multi-dimensional Feature Fusion For Object Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095573-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095573) |
-| 1242 | SANet: Spatial Attention Network with Global Average Contrast Learning for Infrared Small Target | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096649-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096649) |
-| 736 | Logovit: Local-Global Vision Transformer for Object Re-Identification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096126-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096126) |
+| 907 | Data-Aware Zero-Shot Neural Architecture Search for Image Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094741-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094741) |
+| 3890 | CFFMixer: Multi-Dimensional Feature Fusion for Object Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095573-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095573) |
+| 1242 | SANet: Spatial Attention Network with Global Average Contrast Learning for Infrared Small Target | [![GitHub](https://img.shields.io/github/stars/UESTC-nnLab/SANet)](https://github.com/UESTC-nnLab/SANet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096649-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096649) |
+| 736 | Logovit: Local-Global Vision Transformer for Object Re-Identification | [![GitHub](https://img.shields.io/github/stars/nguyenphan99/LoGoViT)](https://github.com/nguyenphan99/LoGoViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096126-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096126) |
 | 319 | ProContEXT: Exploring Progressive Context Transformer for Tracking | [![GitHub](https://img.shields.io/github/stars/jp-lan/ProContEXT)](https://github.com/jp-lan/ProContEXT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094971-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094971) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15511-b31b1b.svg)](https://arxiv.org/abs/2210.15511) |
 | 3268 | Pair DETR: Toward Faster Convergent DETR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095608-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095608)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16476-b31b1b.svg)](https://arxiv.org/abs/2210.16476) |
 
@@ -2032,14 +2032,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **#** | **Title** | **Repo** | **Paper** |
 |-------|-----------|:--------:|:---------:|
-| 2651 | Generative Modeling Based Manifold Learning For Adaptive Filtering Guidance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094985) |
-| 684 | Tensor Completion For Efficient And Accurate Hyperparameter Optimisation In Large-Scale Statistical Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096491) |
-| 903 | CO-NET: Classification-Oriented Point Cloud Sampling Via Informative Feature Learning And Non-Overlapped Local Adjustment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097077) |
-| 2091 | Deep Survival Analysis And Counterfactual Inference Using Balanced Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095273) |
-| 3045 | Feature Space Recovery For Incomplete Multi-View Clustering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095489) |
-| 4602 | Study Of Manifold Geometry Using Multiscale Non-Negative Kernel Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2210.17475) |
-
-
+| 2651 | Generative Modeling based Manifold Learning for Adaptive Filtering Guidance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094985-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094985) <br /> [![Amazon Science](https://img.shields.io/badge/amazon-science-FE9901.svg)](https://www.amazon.science/publications/generative-modeling-based-manifold-learning-for-adaptive-filtering-guidance) |
+| 684 | Tensor Completion for Efficient and Accurate Hyperparameter Optimisation in Large-Scale Statistical Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096491-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096491) |
+| 903 | CO-NET: Classification-Oriented Point Cloud Sampling via Informative Feature Learning and Non-Overlapped Local Adjustment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097077-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097077) |
+| 2091 | Deep Survival Analysis and Counterfactual Inference using Balanced Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095273-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095273) |
+| 3045 | Feature Space Recovery for Incomplete Multi-View Clustering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095489-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095489) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-03993684) |
+| 4602 | Study of Manifold Geometry using Multiscale Non-Negative Kernel Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.17475-b31b1b.svg)](https://arxiv.org/abs/2210.17475) |
 
 ### Speech Enhancement - Diffusion and Other Generative Models
 
