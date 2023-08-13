@@ -930,22 +930,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-<!-- | :id: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 4237 | Time-Frequency Awareness Network for Human Mesh Recovery from Videos |  |  |
-| 2028 | Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion Model |  |  |
-| 4667 | GATOR: GRAPH-AWARE TRANSFORMER WITH MOTION-DISENTANGLED REGRESSION FOR HUMAN MESH RECOVERY FROM A 2D POSE |  |  |
-| 5538 | real-time Human reconstruction based on human pose prior and epipolar refinement |  |  |
-| 642 | Efficient Feature Fusion for Learning-based Photometric Stereo |  |  |
-| 2442 | Volumetric 3D Reconstruction with Window-wise Global Feature Aggregation |  |  |
-| 4008 | STEREOSCOPIC VIDEO RETARGETING BASED ON CAMERA MOTION CLASSIFICATION |  |  |
-| 4893 | Detail-aware Uncalibrated Photometric Stereo |  |  |
-| 5712 | SDRNet: Shape Decoupled Regression Network for 3D Face Reconstruction |  |  |
-| 1119 | Binary Image Fast Perfect Recovery From Sparse 2D-DFT Coefficients |  |  |
-| 1175 | HQP-MVS:A HIGH-QUALITY PLANE PRIOR ASSISTED MULTI-VIEW STEREO FOR LOW-TEXTURED AREA |  |  |
-| 3183 | Dynamic Multi-View Scene Reconstruction Using Neural Implicit Surface |  |  | -->
-
-> Will soon be added
+| 4237 | Time-Frequency Awareness Network for Human Mesh Recovery from Videos | [![GitHub](https://img.shields.io/github/stars/Changboyang/TFNet)](https://github.com/Changboyang/TFNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095498-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095498) |
+| 2028 | Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096441-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096441) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.12315-b31b1b.svg)](https://arxiv.org/abs/2210.12315) |
+| 4667 | GATOR: Graph-Aware Transformer with Motion-Disentangled Regression for Human Mesh Recovery from a 2D Pose | [![GitHub](https://img.shields.io/github/stars/kasvii/GATOR)](https://github.com/kasvii/GATOR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096870-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096870) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.05652-b31b1b.svg)](https://arxiv.org/abs/2303.05652) |
+| 5538 | Real-Time Human Reconstruction based on Human Pose Prior and Epipolar Refinement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094801-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094801) |
+| 642 | Efficient Feature Fusion for Learning-based Photometric Stereo | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095806-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095806) |
+| 2442 | Volumetric 3D Reconstruction with Window-Wise Global Feature Aggregation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096745-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096745) |
+| 4008 | Stereoscopic Video Retargeting based on Camera Motion Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094758-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094758) |
+| 4893 | Detail-Aware Uncalibrated Photometric Stereo | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094748-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094748) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.iri.upc.edu/files/scidoc/2730-Detail-aware-Uncalibrated-Photometric-Stereo.pdf) |
+| 5712 | SDRNet: Shape Decoupled Regression Network for 3D Face Reconstruction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094607-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094607) |
+| 1119 | Binary Image Fast Perfect Recovery from Sparse 2D-DFT Coefficients | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095387-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095387) |
+| 1175 | HQP-MVS: High-Quality Plane Priors Assisted Multi-View Stereo for Low-Textured Areas | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096871-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096871) |
+| 3183 | Dynamic Multi-View Scene Reconstruction using Neural Implicit Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00050-b31b1b.svg)](https://arxiv.org/abs/2303.00050) |
 
 ### Face Recognition
 
