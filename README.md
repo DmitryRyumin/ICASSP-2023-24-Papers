@@ -838,7 +838,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 657 | Passive Detection of Rank-One Gaussian Signals for Known Channel Subspaces and Arbitrary Noise | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094671-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094671) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://gtas.unican.es/files/pub/icassp2023_passivedetection_finalversion.pdf) |
+| 2389 | False Alarm Regulation for Off-Grid Target Detection with the Matched Filter | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094625) |
+| 2536 | Data-Driven Quickest Change Detection in Markov Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096555-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096555) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.11988-b31b1b.svg)](https://arxiv.org/abs/2210.11988) |
+| 3510 | Quickest Change Detection with Leave-one-Out Density Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096341-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096341) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00223-b31b1b.svg)](https://arxiv.org/abs/2211.00223) |
+| 4778 | Identifying Coordination in a Cognitive Radar Network - A Multi-Objective Inverse Reinforcement Learning Approach |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096376-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096376) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06967-b31b1b.svg)](https://arxiv.org/abs/2211.06967) |
+| 4815 | Improved Small Sample Hypothesis Testing using the Uncertain Likelihood Ratio | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096416-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096416) |
 
 ### Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring
 
@@ -846,7 +853,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 2170 | A Wavelet Scattering Approach for Load Identification with Limited Amount of Training Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096943-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096943) |
+| 2653 | Applying Symmetrical Component Transform for Industrial Appliance Classification in Non-Intrusive Load Monitoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096324-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096324) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.alspereira.info/wp-content/uploads/2023/03/ICASSP-2023.pdf) |
+| 3326 | ContiNILM: A Continual Learning Scheme for Non-Intrusive Load Monitoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095696-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095696) |
+| 5853 | Improving Knowledge Distillation for Non-Intrusive Load Monitoring through Explainability Guided Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095109-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095109) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://strathprints.strath.ac.uk/84286/1/Batic_etal_ICASSP_2023_Improving_knowledge_distillation_for_non_intrusive_load_monitoring.pdf) |
+| 6414 | Improved Appliance Transient Feature Extraction via Template Matching | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094638-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094638) |
 
 ### Machine Learning Applications
 
@@ -854,7 +867,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 6355 | Causal Discovery and Causal Inference based Counterfactual Fairness in Machine Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095194-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095194) |
+| 4965 | Benchmarking Convolutional Neural Network Inference on Low-Power Edge Devices | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095003-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095003) |
+| 1115 | Code-Enhanced Fine-Grained Semantic Matching for Tag Recommendation in Software Information Sites | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095822-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095822) |
+| 394 | Robust Dominant Periodicity Detection for Time Series with Missing Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095241-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095241) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.03553-b31b1b.svg)](https://arxiv.org/abs/2303.03553) |
+| 3994 | Dynamic Split Computing for Efficient Deep Edge Intelligence | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://gitlab.au.dk/maleci/dynamicsplitcomputing) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096914-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096914) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2205.11269-b31b1b.svg)](https://arxiv.org/abs/2205.11269) |
+| 5723 | Dense Adversarial Transfer Learning based on Class-Invariance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095179-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095179) |
+| 4620 | VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation | [![GitHub](https://img.shields.io/github/stars/mfxox/VAN-ICP)](https://github.com/mfxox/VAN-ICP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095859-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095859) |
+| 5776 | Clustering-based Supervised Contrastive Learning for Identifying Risk Items on Heterogeneous Graph | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094817-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094817) |
+| 4052 | Multiresolution Signal Processing of Financial Market Objects | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095542-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095542) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15934-b31b1b.svg)](https://arxiv.org/abs/2210.15934) |
+| 1752 | Hierarchical Multi-Agent Reinforcement Learning with Intrinsic Reward Rectification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095374-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095374) |
+| 3493 | An Antispoofing Approach in Biometric Authentication System for a Smartcard | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095918-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095918) |
+| 3576 | Unsupervised Domain Adaptation via Subspace Interpolating Deep Dictionary Learning: A Case Study in Machine Inspection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094819-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094819) |
 
 ### Classification
 
@@ -862,13 +888,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 283 | Multi-Modal Domain Generalization for Cross-Scene Hyperspectral Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095723-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095723) |
+| 1056 | Hierarchical Transformer for Multi-Label Trailer Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095502-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095502) |
+| 1236 | S3I-PointHop: SO(3)-Invariant PointHop for 3D Point Cloud Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095473-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095473) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11506-b31b1b.svg)](https://arxiv.org/abs/2302.11506) |
+| 1302 | Sample-Aware Knowledge Distillation for Long-Tailed Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096016-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096016) |
+| 1562 | Laryngeal Leukoplakia Classification via Dense Multiscale Feature Extraction in White Light Endoscopy Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096995-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096995) |
+| 1904 | Long-tailed Recognition with Causal Invariant Transformation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097227-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097227) |
+| 2199 | STACKMAPS: A Visualization Technique for Diabetic Retinopathy Grading | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095667) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/369180824_STACKMAPS_A_VISUALIZATION_TECHNIQUE_FOR_DIABETIC_RETINOPATHY_GRADING) |
+| 2904 | Gender-Cartoon: Image Cartoonization Method based on Gender Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095590-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095590) |
+| 3167 | Extracting the Brain-Like Representation by an Improved Self-Organizing Map for Image Classification | [![GitHub](https://img.shields.io/github/stars/JiaHongZ/mlSOM)](https://github.com/JiaHongZ/mlSOM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095998-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095998) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.09035-b31b1b.svg)](https://arxiv.org/abs/2303.09035) |
+| 3888 | DDN: Dynamic Aggregation Enhanced Dual-Stream Network for Medical Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094736-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094736) |
+| 4696 | LGViT: Local-Global Vision Transformer for Breast Cancer Histopathological Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096781-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096781) |
+| 5583 | Learning a Weight Map for Weakly-Supervised Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094940) |
 
 ### Human Posture Estimation
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+<!-- | :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 301 | INTERWEAVED GRAPH AND ATTENTION NETWORK FOR 3D HUMAN POSE ESTIMATION |  |  |
+| 3696 | Learning 3D Human Pose and Shape Estimation Using Uncertainty-Aware Body Part Segmentation |  |  |
+| 3841 | Monocular 3D Human Pose Estimation Based on Global Temporal-Attentive and Joints-Attention in Video |  |  |
+| 4380 | EVOPOSE: A RECURSIVE TRANSFORMER FOR 3D HUMAN POSE ESTIMATION WITH KINEMATIC STRUCTURE PRIORS |  |  |
+| 142 | HTNET: HUMAN TOPOLOGY AWARE NETWORK FOR 3D HUMAN POSE ESTIMATION |  |  |
+| 1107 | Improving Occluded Human Pose Estimation via Linked Joints |  |  |
+| 5121 | Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus |  |  |
+| 5668 | AMPose: Alternately Mixed Global-Local Attention Model for 3D Human Pose Estimation |  |  |
+| 5750 | FLOWPOSE: CONDITIONAL NORMALIZING FLOWS FOR 3D HUMAN POSE AND SHAPE ESTIMATION FROM MONOCULAR VIDEOS |  |  |
+| 6050 | Animal Re-identification Algorithm for Posture Diversity |  |  |
+| 6322 | RETRIEVAL-BASED NATURAL 3D HUMAN MOTION GENERATION |  |  |
+| 2453 | Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers |  |  | -->
 
 > Will soon be added
 
@@ -877,6 +931,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+<!-- | :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 4237 | Time-Frequency Awareness Network for Human Mesh Recovery from Videos |  |  |
+| 2028 | Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion Model |  |  |
+| 4667 | GATOR: GRAPH-AWARE TRANSFORMER WITH MOTION-DISENTANGLED REGRESSION FOR HUMAN MESH RECOVERY FROM A 2D POSE |  |  |
+| 5538 | real-time Human reconstruction based on human pose prior and epipolar refinement |  |  |
+| 642 | Efficient Feature Fusion for Learning-based Photometric Stereo |  |  |
+| 2442 | Volumetric 3D Reconstruction with Window-wise Global Feature Aggregation |  |  |
+| 4008 | STEREOSCOPIC VIDEO RETARGETING BASED ON CAMERA MOTION CLASSIFICATION |  |  |
+| 4893 | Detail-aware Uncalibrated Photometric Stereo |  |  |
+| 5712 | SDRNet: Shape Decoupled Regression Network for 3D Face Reconstruction |  |  |
+| 1119 | Binary Image Fast Perfect Recovery From Sparse 2D-DFT Coefficients |  |  |
+| 1175 | HQP-MVS:A HIGH-QUALITY PLANE PRIOR ASSISTED MULTI-VIEW STEREO FOR LOW-TEXTURED AREA |  |  |
+| 3183 | Dynamic Multi-View Scene Reconstruction Using Neural Implicit Surface |  |  | -->
 
 > Will soon be added
 
