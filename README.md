@@ -909,22 +909,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-<!-- | :id: | **Title** | **Repo** | **Paper** |
+| :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
-| 301 | INTERWEAVED GRAPH AND ATTENTION NETWORK FOR 3D HUMAN POSE ESTIMATION |  |  |
-| 3696 | Learning 3D Human Pose and Shape Estimation Using Uncertainty-Aware Body Part Segmentation |  |  |
-| 3841 | Monocular 3D Human Pose Estimation Based on Global Temporal-Attentive and Joints-Attention in Video |  |  |
-| 4380 | EVOPOSE: A RECURSIVE TRANSFORMER FOR 3D HUMAN POSE ESTIMATION WITH KINEMATIC STRUCTURE PRIORS |  |  |
-| 142 | HTNET: HUMAN TOPOLOGY AWARE NETWORK FOR 3D HUMAN POSE ESTIMATION |  |  |
-| 1107 | Improving Occluded Human Pose Estimation via Linked Joints |  |  |
-| 5121 | Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus |  |  |
-| 5668 | AMPose: Alternately Mixed Global-Local Attention Model for 3D Human Pose Estimation |  |  |
-| 5750 | FLOWPOSE: CONDITIONAL NORMALIZING FLOWS FOR 3D HUMAN POSE AND SHAPE ESTIMATION FROM MONOCULAR VIDEOS |  |  |
-| 6050 | Animal Re-identification Algorithm for Posture Diversity |  |  |
-| 6322 | RETRIEVAL-BASED NATURAL 3D HUMAN MOTION GENERATION |  |  |
-| 2453 | Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers |  |  | -->
-
-> Will soon be added
+| 301 | Interweaved Graph and Attention Network for 3D Human Pose Estimation | [![GitHub](https://img.shields.io/github/stars/xiu-cs/IGANet)](https://github.com/xiu-cs/IGANet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097259-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097259) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.14045-b31b1b.svg)](https://arxiv.org/abs/2304.14045) |
+| 3696 | Learning 3D Human Pose and Shape Estimation using Uncertainty-Aware Body Part Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095635-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095635) |
+| 3841 | Monocular 3D Human Pose Estimation based on Global Temporal-Attentive and Joints-Attention in Video | [![GitHub](https://img.shields.io/github/stars/xiangcece/GTAJA-Net)](https://github.com/xiangcece/GTAJA-Net) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096111-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096111) |
+| 4380 | EVOPOSE: A Recursive Transformer for 3D Human Pose Estimation with Kinematic Structure Priors | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095302-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095302) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.09615-b31b1b.svg)](https://arxiv.org/abs/2306.09615) |
+| 142 | HTNet: Human Topology Aware Network for 3D Human Pose Estimation | [![GitHub](https://img.shields.io/github/stars/vefalun/HTNet)](https://github.com/vefalun/HTNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095949-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095949) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.09790-b31b1b.svg)](https://arxiv.org/abs/2302.09790) |
+| 1107 | Improving Occluded Human Pose Estimation via Linked Joints | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097055-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097055) |
+| 5121 | Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096791-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096791) |
+| 5668 | AMPose: Alternately Mixed Global-Local Attention Model for 3D Human Pose Estimation | [![GitHub](https://img.shields.io/github/stars/erikervalid/AMPose)](https://github.com/erikervalid/AMPose) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095351-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095351) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.04216-b31b1b.svg)](https://arxiv.org/abs/2210.04216) |
+| 5750 | FlowPose: Conditional Normalizing Flows for 3D Human Pose and Shape Estimation from Monocular Videos | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097101-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097101) |
+| 6050 | Animal Re-Identification Algorithm for Posture Diversity | [![GitHub](https://img.shields.io/github/stars/hezhimin7028/MPFNet)](https://github.com/hezhimin7028/MPFNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094783-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094783) |
+| 6322 | Retrieval-based Natural 3D Human Motion Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096666-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096666) |
+| 2453 | Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-Temporal Masked Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095238-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095238) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.05691-b31b1b.svg)](https://arxiv.org/abs/2303.05691) |
 
 ### Human Reconstruction
 
