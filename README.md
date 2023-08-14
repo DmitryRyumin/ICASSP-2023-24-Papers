@@ -262,7 +262,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Multimedia Compression and Quality](#multimedia-compression-and-quality)
 - [Multimedia Analysis, Synthesis, and Learning](#multimedia-analysis-synthesis-and-learning)
 - [DoA Estimation and Beamforming](#doa-estimation-and-beamforming)
-- [Speech Emotion Recognition: General Topics II](#speech-emotion-recognition-general-topics-II)
+- [Speech Emotion Recognition: General Topics II](#speech-emotion-recognition-general-topics-ii)
 - [Speech Emotion Recognition: Multimodality](#speech-emotion-recognition-multimodality)
 - [Speech Emotion Recognition: Neural Architectures](#speech-emotion-recognition-neural-architectures)
 - [Optimization Methods for Signal Processing](#optimization-methods-for-signal-processing)
