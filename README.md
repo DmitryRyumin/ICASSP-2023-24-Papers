@@ -262,7 +262,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Multimedia Compression and Quality](#multimedia-compression-and-quality)
 - [Multimedia Analysis, Synthesis, and Learning](#multimedia-analysis-synthesis-and-learning)
 - [DoA Estimation and Beamforming](#doa-estimation-and-beamforming)
-- [Speech Emotion Recognition: General Topics II](#speech-emotion-recognition-general-topics-ii)
 - [Speech Emotion Recognition: Multimodality](#speech-emotion-recognition-multimodality)
 - [Speech Emotion Recognition: Neural Architectures](#speech-emotion-recognition-neural-architectures)
 - [Optimization Methods for Signal Processing](#optimization-methods-for-signal-processing)
@@ -1813,6 +1812,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5023 | Personalized Task Load Prediction in Speech Communication | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://osf.io/rxbpv/) |[![IEEE Xplore](https://img.shields.io/badge/IEEE-10095754-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095754) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00630-b31b1b.svg)](https://arxiv.org/abs/2303.00630) |
 | 5075 | DWFormer: Dynamic Window Transformer for Speech Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/scutcsq/DWFormer)](https://github.com/scutcsq/DWFormer) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094651-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094651) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.01694-b31b1b.svg)](https://arxiv.org/abs/2303.01694) |
 | 5730 | Multi-View Learning for Speech Emotion Recognition with Categorical Emotion, Categorical Sentiment, and Dimensional Scores | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096700-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096700) <br /> [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/research/publication/multi-view-learning-for-speech-emotion-recognition/) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://www.microsoft.com/en-us/research/uploads/prod/2023/03/ICASSP_2023_MultiView_Speech_Emotion_Tompkins.pdf) |
+| 540 | Mingling or Misalignment? Temporal Shift for Speech Emotion Recognition with Pre-trained Representations | [![GitHub](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ShiftSER)](https://github.com/ECNU-Cross-Innovation-Lab/ShiftSER) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095193-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095193) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.13277-b31b1b.svg)](https://arxiv.org/abs/2302.13277) |
+| 563 | Emotion Recognition in Conversation from Variable-Length Context | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096161-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096161) |
+| 1423 | Knowledge-Aware Graph Convolutional Network with Utterance-Specific Window Search for Emotion Recognition in Conversations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095097-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095097) |
+| 1611 | Masking Speech Contents by Random Splicing: is Emotional Expression Preserved? | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097094-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097094) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/371288000_Masking_Speech_Contents_by_Random_Splicing_is_Emotional_Expression_Preserved) |
+| 3129 | Multi-Local Attention for Speech-based Depression Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095757-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095757) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://eprints.gla.ac.uk/298425/1/298425.pdf) |
+| 3130 | Daily Mental Health Monitoring from Speech: A Real-World Japanese Dataset and Multitask Learning Analysis | :heavy_minus_sign:|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096884-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096884) <br /> [![ResearchGate](https://img.shields.io/badge/Research-Gate-D7E7F5.svg)](https://www.researchgate.net/publication/370561148_Daily_Mental_Health_Monitoring_From_Speech_A_Real-World_Japanese_Dataset_and_Multitask_Learning_Analysis) |
+| 3830 | SDTN: Speaker Dynamics Tracking Network for Emotion Recognition in Conversation | | |
+| 4065 | Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition | | |
+| 5683 | Designing and Evaluating Speech Emotion Recognition Systems: A Reality Check Case Study with IEMOCAP | | |
+| 5711 | EMix: A Data Augmentation Method for Speech Emotion Recognition | | |
+| 6131 | A Hierarchical Regression Chain Framework for Affective Vocal Burst Recognition| | |
+| 6316 | Automatic Classification of Vocal Intensity Category from Speech | | |
 
 ### Intelligent and Semantic Communications for 5G Mobile Networks and Beyond
 
@@ -2229,29 +2240,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </a>
 
 > Will soon be added
-
-### Speech Emotion Recognition: General Topics II
-
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
-| :id: | **Title** | **Repo** | **Paper** |
-|------|-----------|:--------:|:---------:|
-| 540 | Mingling Or Misalignment? Temporal Shift For Speech Emotion Recognition With Pre-Trained Representations | [![GitHub](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ShiftSER)](https://github.com/ECNU-Cross-Innovation-Lab/ShiftSER)|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095193) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](https://arxiv.org/abs/2302.13277) |
-| 563 | Emotion Recognition In Conversation From Variable-Length Context | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096161)  |
-| 1423 | Knowledge-Aware Graph Convolutional Network With Utterance-Specific Window Search For Emotion Recognition In Conversations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095097) |
-| 1611 | Masking Speech Contents By Random Splicing: Is Emotional Expression Preserved? | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097094) |
-| 3129 | Multi-Local Attention For Speech-Based Depression Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095757) |
-| 3130 | Daily Mental Health Monitoring From Speech: A Real-World Japanese Dataset And Multitask Learning Analysis | :heavy_minus_sign:|[![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096884) |
-| 3830 | SDTN: Speaker Dynamics Tracking Network For Emotion Recognition In Conversation | | |
-| 4065 | Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach For Speech Emotion Recognition | | |
-| 5683 | Designing And Evaluating Speech Emotion Recognition Systems: A Reality Check Case Study With IEMOCAP | | |
-| 5711 | EMix: A Data Augmentation Method For Speech Emotion Recognition | | |
-| 6131 | A Hierarchical Regression Chain Framework For Affective Vocal Burst Recognition| | |
-| 6316 | Automatic Classification Of Vocal Intensity Category From Speech | | |
-
-
 
 ### Speech Emotion Recognition: Multimodality
 
