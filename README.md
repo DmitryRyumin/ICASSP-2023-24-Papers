@@ -23,7 +23,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 
 <p align="center">
     <a href="https://2023.ieeeicassp.org/" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/ICASSP-2023-Papers/blob/main/images/ICASSP2023-banner_v6.jpg" alt="ICASSP 2023">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICASSP-2023-Papers@main/images/ICASSP2023-banner_v6.jpg" alt="ICASSP 2023">
     </a>
 <p>
 
