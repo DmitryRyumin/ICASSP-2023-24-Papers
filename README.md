@@ -971,7 +971,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 193 | A Multi-Stage Triple-Path Method for Speech Separation in Noisy and Reverberant Environments | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096086-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096086) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.03732-b31b1b.svg)](https://arxiv.org/abs/2303.03732) |
+| 524 | On the Minimum Perimeter Criterion for Bounded Component Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096945-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096945) |
+| 4129 | Joint Unmixing and Demosaicing Methods for Snapshot Spectral Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096740-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096740) |
+| 5036 | Identifiable Bounded Component Analysis via Minimum Volume Enclosing Parallelotope | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095905-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095905) |
+| 5587 | Balanced Deep CCA for Bird Vocalization Detection | [![GitHub](https://img.shields.io/github/stars/madhavlab/2022_icassp_krsumit)](https://github.com/madhavlab/2022_icassp_krsumit) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094650-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094650) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.09376-b31b1b.svg)](https://arxiv.org/abs/2211.09376) |
+| 1692 | Independent Vector Analysis with Multivariate Gaussian Model: A Scalable Method by Multilinear Regression | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096698-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096698) |
+| 3184 | Activity-Informed Industrial Audio Anomaly Detection via Source Separation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095113-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095113) |
+| 6717 | Double Nonstationarity: Blind Extraction of Independent Nonstationary Vector/Component from Nonstationary Mixtures - Algorithms | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9927365-E4A42C.svg)](https://ieeexplore.ieee.org/document/9927365) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2204.04992-b31b1b.svg)](https://arxiv.org/abs/2204.04992) |
+| 6798 | Towards Flexible Sparsity-Aware Modeling: Automatic Tensor Rank Learning using the Generalized Hyperbolic Prior | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9747988-E4A42C.svg)](https://ieeexplore.ieee.org/document/9747988) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2009.02472-b31b1b.svg)](https://arxiv.org/abs/2009.02472) |
+| 5426 | MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://catnip-leaf-c6a.notion.site/Audio-Samples-of-MedleyVox-An-Evaluation-Dataset-for-Multiple-Singing-Voices-Separation-30074b2c88d24f46b68d9293f6095962) <br /> [![GitHub](https://img.shields.io/github/stars/jeonchangbin49/MedleyVox)](https://github.com/jeonchangbin49/MedleyVox) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095425-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095425) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.07302-b31b1b.svg)](https://arxiv.org/abs/2211.07302) |
+| 674 | Hybrid Transformers for Music Source Separation | [![GitHub](https://img.shields.io/github/stars/facebookresearch/demucs)](https://github.com/facebookresearch/demucs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.08553-b31b1b.svg)](https://arxiv.org/abs/2211.08553) |
+| 5141 | Dictionary Learning on Graph Data with Weisfieler-Lehman Sub-Tree Kernel and KSVD | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094980-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094980) |
 
 ### Neural Sound Synthesis and Representation
 
