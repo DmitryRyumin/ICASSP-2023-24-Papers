@@ -356,11 +356,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 </details>
 
-### Audio for Multimedia and Multimodal Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Audio for Multimedia and Multimodal Processing
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -370,11 +370,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6119 | Incorporating Lip Features Into Audio-Visual Multi-Speaker DOA Estimation by Gated Fusion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095549-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095549) |
 | 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) | [![GitHub](https://img.shields.io/github/stars/YuanGongND/uavm)](https://github.com/YuanGongND/uavm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9964072-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00061-b31b1b.svg)](https://arxiv.org/abs/2208.00061) |
 
-### Drone-vs-Bird Detection Grand Challenge at ICASSP23
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Drone-vs-Bird Detection Grand Challenge at ICASSP23
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -382,11 +382,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6863 | S-Feature Pyramid Network and Attention Model for Drone Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096226-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096226) |
 | 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095146-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095146) |
 
-### Human Identification and Face Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Human Identification and Face Recognition
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -397,11 +397,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5309 | Recursive Joint Attention for Audio-Visual Fusion in Regression based Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/praveena2j/RecurrentJointAttentionwithLSTMs)](https://github.com/praveena2j/RecurrentJointAttentionwithLSTMs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095234) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.07958-b31b1b.svg)](https://arxiv.org/abs/2304.07958) |
 | 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image | [![GitHub](https://img.shields.io/github/stars/zhangbc12/DAtt-ViT)](https://github.com/zhangbc12/DAtt-ViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094652-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094652) |
 
-### Self-Supervised Learning Methods
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Self-Supervised Learning Methods
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -412,11 +412,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1629 | On Minimal Variations for Unsupervised Representation Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095184-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095184) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03782-b31b1b.svg)](https://arxiv.org/abs/2211.03782) |
 | 740 | Adaptive Data Augmentation for Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095350-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095350) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.02451-b31b1b.svg)](https://arxiv.org/abs/2304.02451) |
 
-### ASR with Constrained Resource
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR with Constrained Resource
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -427,11 +427,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3712 | Context-aware Fine-Tuning of Self-Supervised Speech Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094687-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094687) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.08542-b31b1b.svg)](https://arxiv.org/abs/2212.08542) |
 | 6449 | Data2vec-Aqc: Search for the Right Teaching Assistant in the Teacher-Student Training Setup | [![GitHub](https://img.shields.io/github/stars/Speech-Lab-IITM/data2vec-aqc)](https://github.com/Speech-Lab-IITM/data2vec-aqc) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094726-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094726) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01246-b31b1b.svg)](https://arxiv.org/abs/2211.01246) |
 
-### ASR: Multilingual Speech Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR: Multilingual Speech Recognition
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -442,11 +442,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5744 | Investigation Into Phone-based Subword Units for Multilingual End-to-End Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096812-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096812) |
 | 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094667) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.05756-b31b1b.svg)](https://arxiv.org/abs/2211.05756) |
 
-### Adaptive Signal Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Adaptive Signal Processing
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -457,11 +457,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5352 | Adaptive ECCM for Mitigating Smart Jammers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095625) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.02002-b31b1b.svg)](https://arxiv.org/abs/2212.02002) |
 | 6529 | Differentiable Adaptive Short-Time Fourier Transform with Respect to the Window Length | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095245-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095245) |
 
-### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -472,11 +472,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4255 | Integrating the Sensing and Radio Communications Channel Modelling from Radar Mutual Interference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095846-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095846) |
 | 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097134-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097134) |
 
-### Applications to Physiological Signals, Audio, and Speech
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Applications to Physiological Signals, Audio, and Speech
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -493,11 +493,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6491 | Modulo EEG Signal Recovery using Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095357) |
 | 454 | Knowledge-Graph Augmented Music Representation for Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097131-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097131) |
 
-### Super Resolution
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Super Resolution
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -514,11 +514,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3140 | CNN Filter for RPR-based SR in VVC with Wavelet Decomposition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096013-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096013) |
 | 3555 | Local to Global Prior Learning for Blind Unsupervised Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096533-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096533) |
 
-### Denoising
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Denoising
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -535,11 +535,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 274 | MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095605-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095605) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2207.05621-b31b1b.svg)](https://arxiv.org/abs/2207.05621) |
 | 117 | Hyperspectral Image Denoising via Nonlocal Rank Residual Modeling | [![GitHub](https://img.shields.io/github/stars/zhazhiyuan/NRR_HSI_Denoising_Demo)](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096242-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096242) |
 
-### Semantic Segmentation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Semantic Segmentation
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -556,11 +556,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3857 | A Dynamic Cross-Scale Transformer with Dual-Compound Representation for 3D Medical Image Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095987-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095987) |
 | 3793 | LABANet: Lead-Assisting Backbone Attention Network for Oral Multi-Pathology Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094785-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094785) |
 
-### Object Segmentation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Object Segmentation
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -576,11 +576,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1764 | IAST: Instance Association Relying on Spatio-Temporal Features for Video Instance Segmentation | [![GitHub](https://img.shields.io/github/stars/clozureyez/IAST)](https://github.com/clozureyez/IAST) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095641-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095641) |
 | 2469 | Continual Cell Instance Segmentation of Microscopy Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096312-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096312) |
 
-### Deep Learning for Image and Video Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Deep Learning for Image and Video Processing
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -597,11 +597,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5940 | Large Dimensional Analysis of LS-SVM Transfer Learning: Application to PolSAR Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096840-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096840) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://www.jeanphilippeovarlez.com/publications/ewExternalFiles/main-4.pdf) |
 | 5062 | SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling | [![GitHub](https://img.shields.io/github/stars/LGM70/SMUG)](https://github.com/LGM70/SMUG) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097193-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097193) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12735-b31b1b.svg)](https://arxiv.org/abs/2303.12735) |
 
-### Graph based Learning
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Graph based Learning
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -618,11 +618,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5159 | GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering | [![GitHub](https://img.shields.io/github/stars/mn51/graphmad)](https://github.com/mn51/graphmad) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095561-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095561) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15721-b31b1b.svg)](https://arxiv.org/abs/2210.15721) |
 | 3724 | Time-Varying Signals Recovery via Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096168-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096168) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11313-b31b1b.svg)](https://arxiv.org/abs/2302.11313) |
 
-### Learning from Multimodal Data
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Learning from Multimodal Data
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -639,11 +639,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4220 | Scale-Adaptive Tiny Object Detection Enhanced by Across-Scale and Shape-Preserved Semantic Location | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096537-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096537) |
 | 3735 | Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095447-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095447) |
 
-### Matrix/Tensor Factorization and Completion
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Matrix/Tensor Factorization and Completion
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -660,11 +660,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6125 | Geometric Matrix Completion with Collaborative Routing between Capsules | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095122-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095122) |
 | 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization Tools | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096026-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096026) |
 
-### ASR - Improve Latency, Efficiency, and Accuracy
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR - Improve Latency, Efficiency, and Accuracy
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -681,11 +681,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5607 | Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095837-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095837) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2203.16082-b31b1b.svg)](https://arxiv.org/abs/2203.16082) |
 | 5824 | Fast and Parallel Decoding for Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/icefall)](https://github.com/k2-fsa/icefall) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094567-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094567) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00484-b31b1b.svg)](https://arxiv.org/abs/2211.00484) |
 
-### ASR: Domain Adaptation and Robust Training
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR: Domain Adaptation and Robust Training
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -702,11 +702,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5496 | Dynamic Alignment Mask CTC: Improved Mask-CTC with Aligned Cross Entropy | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095227-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095227) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07687-b31b1b.svg)](https://arxiv.org/abs/2303.07687) |
 | 5902 | Improving Accented Speech Recognition with Multi-Domain Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096268-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096268) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07924-b31b1b.svg)](https://arxiv.org/abs/2303.07924) |
 
-### ASR: New Models
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR: New Models
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -723,11 +723,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2237 | Lego-Features: Exporting Modular Encoder Features for Streaming and Deliberation ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095464-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095464) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00173-b31b1b.svg)](https://arxiv.org/abs/2304.00173) |
 | 5384 | Modular Conformer Training for Flexible End-to-End ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095966-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095966) |
 
-### ASR: Noise Robustness
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR: Noise Robustness
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -743,11 +743,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5504 | On the Effectiveness of Monoaural Target Source Extraction for Distant End-to-End Automatic Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095742-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095742) |
 | 6389 | Noise-aware Target Extension with Self-Distillation for Robust Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094732-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094732) |
 
-### Audio Signal Restoration and Editing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Audio Signal Restoration and Editing
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -758,11 +758,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3726 | Improving Phase-Vocoder-based Time Stretching by Time-Directional Spectrogram Squeezing | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://natsukiakaishi.github.io/timestretch/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095348-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095348) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](http://contents.acoust.ias.sci.waseda.ac.jp/publications/IEEE/2023/icassp-akaishi-2023June.pdf) |
 | 6288 | Extreme Audio Time Stretching using Neural Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094738-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094738) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16992-b31b1b.svg)](https://arxiv.org/abs/2211.16992) |
 
-### Epilepsy Detection Grand Challenge
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Epilepsy Detection Grand Challenge
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -771,11 +771,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 7022 | Towards Interpretable Seizure Detection using Wearables | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097091-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097091) |
 | 7033 | Optimization of the Deep Neural Networks for Seizure Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094645) |
 
-### Deep Learning Theory
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Deep Learning Theory
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -786,11 +786,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2125 | Ultimate Negative Sampling for Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096173-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096173) |
 | 3936 | An Application of Quantum Mechanics to Attention Methods in Computer Vision | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095362-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095362) |
 
-### Neural Architecture Search
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Neural Architecture Search
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -801,11 +801,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 796 | Neural Architecture of Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096248-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096248) |
 | 1461 | BHE-DARTS: Bilevel Optimization based on Hypergradient Estimation for Differentiable Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095940) |
 
-### Expressive and Controllable TTS
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Expressive and Controllable TTS
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -816,11 +816,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5970 | High-Acoustic Fidelity Text to Speech Synthesis with Fine-Grained Control of Speech Attributes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096279-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096279) |
 | 6203 | Embedding a Differentiable Mel-Cepstral Synthesis Filter to a Neural Speech Synthesis System | [![GitHub](https://img.shields.io/github/stars/sp-nitech/diffsptk)](https://github.com/sp-nitech/diffsptk) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094872-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094872) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11222-b31b1b.svg)](https://arxiv.org/abs/2211.11222) |
 
-### Keyword Spotting
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Keyword Spotting
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -831,11 +831,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5584 | Transcription Free Filler Word Detection with Neural Semi-CRFs | [![GitHub](https://img.shields.io/github/stars/gzhu06/Filler-semi-CRF)](https://github.com/gzhu06/Filler-semi-CRF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097095-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097095) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06475-b31b1b.svg)](https://arxiv.org/abs/2303.06475) |
 | 6078 | The DKU Post-Challenge Audio-Visual Wake Word Spotting System for the 2021 MISP Challenge: Deep Analysis | [![GitHub](https://img.shields.io/github/stars/Mashiro009/DKU_WWS_MISP)](https://github.com/Mashiro009/DKU_WWS_MISP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095459-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095459) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.02348-b31b1b.svg)](https://arxiv.org/abs/2303.02348) |
 
-### Detection and Classification
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Detection and Classification
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -846,11 +846,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4778 | Identifying Coordination in a Cognitive Radar Network - A Multi-Objective Inverse Reinforcement Learning Approach |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096376-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096376) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06967-b31b1b.svg)](https://arxiv.org/abs/2211.06967) |
 | 4815 | Improved Small Sample Hypothesis Testing using the Uncertain Likelihood Ratio | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096416-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096416) |
 
-### Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -860,11 +860,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5853 | Improving Knowledge Distillation for Non-Intrusive Load Monitoring through Explainability Guided Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095109-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095109) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://strathprints.strath.ac.uk/84286/1/Batic_etal_ICASSP_2023_Improving_knowledge_distillation_for_non_intrusive_load_monitoring.pdf) |
 | 6414 | Improved Appliance Transient Feature Extraction via Template Matching | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094638-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094638) |
 
-### Machine Learning Applications
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Machine Learning Applications
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -881,11 +881,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3493 | An Antispoofing Approach in Biometric Authentication System for a Smartcard | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095918-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095918) |
 | 3576 | Unsupervised Domain Adaptation via Subspace Interpolating Deep Dictionary Learning: A Case Study in Machine Inspection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094819-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094819) |
 
-### Classification
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Classification
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -902,11 +902,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4696 | LGViT: Local-Global Vision Transformer for Breast Cancer Histopathological Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096781-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096781) |
 | 5583 | Learning a Weight Map for Weakly-Supervised Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094940) |
 
-### Human Posture Estimation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Human Posture Estimation
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -923,11 +923,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6322 | Retrieval-based Natural 3D Human Motion Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096666-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096666) |
 | 2453 | Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-Temporal Masked Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095238-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095238) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.05691-b31b1b.svg)](https://arxiv.org/abs/2303.05691) |
 
-### Human Reconstruction
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Human Reconstruction
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -944,11 +944,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1175 | HQP-MVS: High-Quality Plane Priors Assisted Multi-View Stereo for Low-Textured Areas | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096871-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096871) |
 | 3183 | Dynamic Multi-View Scene Reconstruction using Neural Implicit Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00050-b31b1b.svg)](https://arxiv.org/abs/2303.00050) |
 
-### Face Recognition
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Face Recognition
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -964,11 +964,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2767 | Self-Paced Partial Domain-aware Learning for Face Anti-Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095730-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095730) |
 | 746 | Context-aware Face Clustering with Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096022-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096022) |
 
-### Source Separation, ICA, and Sparsity
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Source Separation, ICA, and Sparsity
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -985,11 +985,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 674 | Hybrid Transformers for Music Source Separation | [![GitHub](https://img.shields.io/github/stars/facebookresearch/demucs)](https://github.com/facebookresearch/demucs) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.08553-b31b1b.svg)](https://arxiv.org/abs/2211.08553) |
 | 5141 | Dictionary Learning on Graph Data with Weisfieler-Lehman Sub-Tree Kernel and KSVD | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094980-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094980) |
 
-### Neural Sound Synthesis and Representation
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Neural Sound Synthesis and Representation
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1006,11 +1006,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4339 | Full-Band General Audio Synthesis with Score-based Diffusion | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://diffusionaudiosynthesis.github.io/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096760-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096760) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.14661-b31b1b.svg)](https://arxiv.org/abs/2210.14661) |
 | 4443 | Is Quality Enough<i>ƒ</i> Integrating Energy Consumption in a Large-Scale Evaluation of Neural Audio Synthesis Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096975-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096975) |
 
-### Deep Learning for Audio and Music Applications
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### Deep Learning for Audio and Music Applications
 
 | :id: | **Title** | **Repo** | **Paper** |
 |------|-----------|:--------:|:---------:|
@@ -1027,27 +1027,27 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1375 | SPADE: Self-Supervised Pretraining for Acoustic Disentanglement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096561-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096561) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.01483-b31b1b.svg)](https://arxiv.org/abs/2302.01483) |
 | 1615 | On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zaharah.github.io/ood_audio/) <br /> [![GitHub](https://img.shields.io/github/stars/Zaharah/ood_audio)](https://github.com/Zaharah/ood_audio) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094846-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094846) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15283-b31b1b.svg)](https://arxiv.org/abs/2210.15283) |
 
-### Machine Learning for Image and Video Processing
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
+### Machine Learning for Image and Video Processing
+
 > Will soon be added
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 ### ASR: Text Adaptation
 
-<a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
-</a>
-
 > Will soon be added
 
-### ASR: Training Methods
-
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
+
+### ASR: Training Methods
 
 > Will soon be added
 
