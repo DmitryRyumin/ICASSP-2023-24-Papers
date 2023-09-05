@@ -1101,7 +1101,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### ASR: VAD and Other Topics
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 691 | Real-Time Speech Interruption Analysis: from Cloud to Client Deployment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095639-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095639) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.13334-b31b1b.svg)](https://arxiv.org/abs/2210.13334) |
+| 2005 | Audio-to-Intent using Acoustic-Textual Subword Representations from End-to-End ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096510-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096510) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.12134-b31b1b.svg)](https://arxiv.org/abs/2210.12134) |
+| 2615 | Adaptive Endpointing with Deep Contextual Multi-Armed Bandits | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097142-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097142) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13407-b31b1b.svg)](https://arxiv.org/abs/2303.13407) |
+| 2616 | Dynamic Speech Endpoint Detection with Regression Targets | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097142-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097142) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.14252-b31b1b.svg)](https://arxiv.org/abs/2210.14252) |
+| 2665 | Speaker Change Detection for Transformer Transducer ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096361-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096361) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08549-b31b1b.svg)](https://arxiv.org/abs/2302.08549) |
+| 4769 | Less is more: A Unified Architecture for Device-Directed Speech Detection with Multiple Invocation Types | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096184-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096184) |
+| 4865 | SG-VAD: Stochastic Gates based Speech Activity Detection | [![GitHub](https://img.shields.io/github/stars/jsvir/vad)](https://github.com/jsvir/vad) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096938-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096938) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16022-b31b1b.svg)](https://arxiv.org/abs/2210.16022) |
+| 5523 | Filler Word Detection with Hard Category Mining and Inter-Category Focal Loss | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095953-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095953) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.05922-b31b1b.svg)](https://arxiv.org/abs/2304.05922) |
+| 5787 | Unsupervised Voice Type Discrimination Score Adaptation using X-Vector Clusters | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097194-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097194) |
+| 6269 | Multilingual Word Error Rate Estimation: E-Wer3 | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095888-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095888) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00649-b31b1b.svg)](https://arxiv.org/abs/2304.00649) |
+| 5792 | Multilingual Query-by-Example Keyword Spotting with Metric Learning and Phoneme-to-Embedding Mapping | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095400-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095400) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.09585-b31b1b.svg)](https://arxiv.org/abs/2304.09585) |
+| 7177 | Leveraging Domain Features for Detecting Adversarial Attacks Against Deep Speech Recognition in Noise | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10076798-E4A42C.svg)](https://ieeexplore.ieee.org/document/10076798) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01621-b31b1b.svg)](https://arxiv.org/abs/2211.01621) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
