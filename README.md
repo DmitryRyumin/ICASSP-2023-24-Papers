@@ -1747,7 +1747,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Speaker Recognition: Verification, Diarization, Anti-Spoofing
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 3059 | Pushing the Limits of Self-Supervised Speaker Verification using Regularized Distillation Framework | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096915-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096915) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.04168-b31b1b.svg)](https://arxiv.org/abs/2211.04168) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
