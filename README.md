@@ -17,6 +17,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICASSP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
+> Completed: ![Progress](https://geps.dev/progress/13?successColor=006600)
+
 ---
 
 ICASSP 2023 Papers: A complete collection of influential and exciting research papers from the [*ICASSP 2023*](https://2023.ieeeicassp.org/) conference. Explore the latest advancements in acoustics, speech and signal processing. Code included. :star: the repository to support the advancement of audio and signal processing!
