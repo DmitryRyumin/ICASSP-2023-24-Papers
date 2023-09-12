@@ -2937,7 +2937,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Aspects in Image/Video Processing and Analysis
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 2133 | ShaDocNet: Learning Spatial-Aware Tokens in Transformer for Document Shadow Removal | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/ShadocNet/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/ShadocNet)](https://github.com/CXH-Research/ShadocNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095403-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095403) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16675-b31b1b.svg)](https://arxiv.org/abs/2211.16675) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
