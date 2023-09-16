@@ -1226,7 +1226,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image/Video Caption Generation
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 6029 | End-to-End Non-Autoregressive Image Captioning | [![GitHub](https://img.shields.io/github/stars/Liu-Yuanqiu/EENAIC)](https://github.com/Liu-Yuanqiu/EENAIC) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095338-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095338) |
+| 337 | Enhancing Multimodal Alignment with Momentum Augmentation for Dense Video Captioning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095659-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095659) |
+| 450 | I-Tuning: Tuning Frozen Language Models with Image for Lightweight Image Captioning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096424-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096424) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2202.06574-b31b1b.svg)](https://arxiv.org/abs/2202.06574) |
+| 972 | Video Captioning via Relation-Aware Graph Learning | [![GitHub](https://img.shields.io/github/stars/videocaptioning/VIDEO-CAPTIONING-VIA-RELATION-AWARE-GRAPH-LEARNING)](https://github.com/videocaptioning/VIDEO-CAPTIONING-VIA-RELATION-AWARE-GRAPH-LEARNING) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094571-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094571) |
+| 1192 | Improving Image Captioning with Control Signal of Sentence Quality | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094586-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094586) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2206.03196-b31b1b.svg)](https://arxiv.org/abs/2206.03196) |
+| 5827 | Background Disturbance Mitigation for Video Captioning via Entity-Action Relocation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095662-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095662) |
+| 5304 | Motion-Aware Video Paragraph Captioning via Exploring Object-Centered Internal Knowledge | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096625) |
+| 2203 | Associative Learning Network for Coherent Visual Storytelling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094740-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094740) |
+| 6772 | Shot Noise Analysis for Differential Sampling in Indirect Time of Flight Cameras | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10015791-E4A42C.svg)](https://ieeexplore.ieee.org/document/10015791) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
