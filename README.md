@@ -17,7 +17,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICASSP-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-> Completed: ![Progress](https://geps.dev/progress/13?successColor=006600)
+> Completed: ![Progress](https://geps.dev/progress/14?successColor=006600)
 
 ---
 
@@ -1165,7 +1165,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image Restoration
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 564 | MRNet: Multi-Refinement Network for Dual-Pixel Images Defocus Deblurring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096428-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096428) |
+| 5802 | Joint Compression and Demosaicking For Satellite Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096011-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096011) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04056997) |
+| 1157 | Decontamination Transformer for Blind Image Inpainting | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lcy0307.github.io/Decontamination_Transformer/) <br /> [![GitHub](https://img.shields.io/github/stars/Lcy0307/Decontamination_Transformer)](https://github.com/Lcy0307/Decontamination_Transformer) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094950-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094950) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://people.cs.nctu.edu.tw/~walon/publications/li2023icassp.pdf) |
+| 658 | Exploration into Translation-Equivariant Image Quantization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096052-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096052) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2112.00384-b31b1b.svg)](https://arxiv.org/abs/2112.00384) |
+| 2562 | Tensor Decomposition based Latent Feature Clustering for Hyperspectral Band Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096731-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096731) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
