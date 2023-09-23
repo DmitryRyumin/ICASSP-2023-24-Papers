@@ -1136,7 +1136,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Automatic Audio Captioning and Retrieval
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 662 | A Novel Metric for Evaluating Audio Caption Similarity | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096526-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096526) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.06354-b31b1b.svg)](https://arxiv.org/abs/2210.06354) |
+| 5376 | On Negative Sampling for Contrastive Audio-Text Retrieval | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095319-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095319) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.04070-b31b1b.svg)](https://arxiv.org/abs/2211.04070) |
+| 2001 | Audio-Text Models do not yet Leverage Natural Language | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097117-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097117) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.10667-b31b1b.svg)](https://arxiv.org/abs/2303.10667) |
+| 4981 | Improving Audio Captioning using Semantic Similarity Metrics | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096522-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096522) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16470-b31b1b.svg)](https://arxiv.org/abs/2210.16470) |
+| 4900 | SPICE+: Evaluation of Automatic Audio Captioning Systems with Pre-trained Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097021-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097021) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-03933981) |
+| 6766 | Local Information Assisted Attention-Free Decoder for Audio Captioning | [![GitHub](https://img.shields.io/github/stars/LittleFlyingSheep/P-LocalAFT)](https://github.com/LittleFlyingSheep/P-LocalAFT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9822406-E4A42C.svg)](https://ieeexplore.ieee.org/document/9822406) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2201.03217-b31b1b.svg)](https://arxiv.org/abs/2201.03217) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
