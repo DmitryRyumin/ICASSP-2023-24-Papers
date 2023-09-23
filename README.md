@@ -3117,7 +3117,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Show and Tell Demos: Session
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 7049 | Generating Sound Effects, Music, Speech, and Beyond, with Text | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7059 | DisCoHeadTV: Disentangled Control of Head Pose and Facial Expressions for Text-to-Video Synthesis | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7064 | Intelligent Dialogue-based Tutoring System for Second Language Reading Comprehension | :heavy_minus_sign: | :heavy_minus_sign: |
+| 7068 | Optimize for my Voice with Speaker Identification | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://sigport.org/sites/default/files/docs/ICASSP2023_final6_0.pdf) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
