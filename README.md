@@ -1151,7 +1151,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Auditory EEG Decoding Challenge
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 6832 | HappyQuokka System for ICASSP 2023 Auditory EEG Challenge | [![GitHub](https://img.shields.io/github/stars/jkyunnng/HappyQuokka_system_for_EEG_Challenge)](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095477-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095477) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.06806-b31b1b.svg)](https://arxiv.org/abs/2305.06806) |
+| 6855 | Relate Auditory Speech to EEG by Shallow-Deep Attention-based Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094934-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094934) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.10897-b31b1b.svg)](https://arxiv.org/abs/2303.10897) |
+| 6859 | Multi-Head Attention and GRU for Improved Match-Mismatch Classification of Speech Stimulus and EEG Response | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096959-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096959) |
+| 6861 | Relating EEG Recordings to Speech using Envelope Tracking and the Speech-FFR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096082-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096082) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06435-b31b1b.svg)](https://arxiv.org/abs/2303.06435) |
+| 6882 | Decoding Auditory EEG Responses using an Adapted WaveNet | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095420-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095420) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
