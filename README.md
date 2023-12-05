@@ -36,7 +36,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 ---
 
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />
   Other collections of the best AI conferences
 </a>
 
@@ -58,22 +58,29 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" /></a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
+    </tr>
+    <tr>
+        <td>EMNLP</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
 </table>
 
@@ -82,7 +89,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICASSP-2023-Papers" />
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICASSP-2023-Papers" alt="" />
 </a>
 
 <br />
@@ -371,7 +378,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 </details>
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio for Multimedia and Multimodal Processing
@@ -385,7 +392,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6787 | UAVM: Towards Unifying Audio and Visual Models (SPS Journal Paper) | [![GitHub](https://img.shields.io/github/stars/YuanGongND/uavm)](https://github.com/YuanGongND/uavm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9964072-E4A42C.svg)](https://ieeexplore.ieee.org/document/9964072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00061-b31b1b.svg)](https://arxiv.org/abs/2208.00061) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Drone-vs-Bird Detection Grand Challenge at ICASSP23
@@ -397,7 +404,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6881 | Drone-vs-Bird: Drone Detection using Yolov7 with CSRT Tracker | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095146-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095146) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human Identification and Face Recognition
@@ -412,7 +419,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3475 | Multi-Stream Facial Adaptive Network for Expression Recognition from a Single Image | [![GitHub](https://img.shields.io/github/stars/zhangbc12/DAtt-ViT)](https://github.com/zhangbc12/DAtt-ViT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094652-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094652) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Self-Supervised Learning Methods
@@ -427,7 +434,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 740 | Adaptive Data Augmentation for Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095350-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095350) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.02451-b31b1b.svg)](https://arxiv.org/abs/2304.02451) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR with Constrained Resource
@@ -442,7 +449,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6449 | Data2vec-Aqc: Search for the Right Teaching Assistant in the Teacher-Student Training Setup | [![GitHub](https://img.shields.io/github/stars/Speech-Lab-IITM/data2vec-aqc)](https://github.com/Speech-Lab-IITM/data2vec-aqc) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094726-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094726) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.01246-b31b1b.svg)](https://arxiv.org/abs/2211.01246) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: Multilingual Speech Recognition
@@ -457,7 +464,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6221 | Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094667) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.05756-b31b1b.svg)](https://arxiv.org/abs/2211.05756) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Adaptive Signal Processing
@@ -472,7 +479,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6529 | Differentiable Adaptive Short-Time Fourier Transform with Respect to the Window Length | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095245-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095245) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### 6G Integrated Sensing and Communication (ISAC) from Theory to Practice - A Signal Processing Perspective
@@ -487,7 +494,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5326 | Active Beam Tracking with Reconfigurable Intelligent Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097134-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097134) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Applications to Physiological Signals, Audio, and Speech
@@ -508,7 +515,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 454 | Knowledge-Graph Augmented Music Representation for Genre Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097131-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097131) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Super Resolution
@@ -529,7 +536,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3555 | Local to Global Prior Learning for Blind Unsupervised Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096533-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096533) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Denoising
@@ -550,7 +557,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 117 | Hyperspectral Image Denoising via Nonlocal Rank Residual Modeling | [![GitHub](https://img.shields.io/github/stars/zhazhiyuan/NRR_HSI_Denoising_Demo)](https://github.com/zhazhiyuan/NRR_HSI_Denoising_Demo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096242-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096242) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Semantic Segmentation
@@ -571,7 +578,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3793 | LABANet: Lead-Assisting Backbone Attention Network for Oral Multi-Pathology Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094785-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094785) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Object Segmentation
@@ -591,7 +598,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2469 | Continual Cell Instance Segmentation of Microscopy Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096312-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096312) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Image and Video Processing
@@ -612,7 +619,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5062 | SMUG: Towards Robust MRI Reconstruction by Smoothed Unrolling | [![GitHub](https://img.shields.io/github/stars/LGM70/SMUG)](https://github.com/LGM70/SMUG) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097193-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097193) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12735-b31b1b.svg)](https://arxiv.org/abs/2303.12735) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Graph based Learning
@@ -633,7 +640,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3724 | Time-Varying Signals Recovery via Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096168-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096168) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11313-b31b1b.svg)](https://arxiv.org/abs/2302.11313) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning from Multimodal Data
@@ -654,7 +661,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3735 | Audio-Visual Inpainting: Reconstructing Missing Visual Information with Sound | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095447-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095447) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Matrix/Tensor Factorization and Completion
@@ -675,7 +682,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3256 | Enrollment Rate Prediction in Clinical Trials based on CDF Sketching and Tensor Factorization Tools | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096026-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096026) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR - Improve Latency, Efficiency, and Accuracy
@@ -696,7 +703,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5824 | Fast and Parallel Decoding for Transducer | [![GitHub](https://img.shields.io/github/stars/k2-fsa/icefall)](https://github.com/k2-fsa/icefall) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094567-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094567) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00484-b31b1b.svg)](https://arxiv.org/abs/2211.00484) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: Domain Adaptation and Robust Training
@@ -717,7 +724,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5902 | Improving Accented Speech Recognition with Multi-Domain Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096268-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096268) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.07924-b31b1b.svg)](https://arxiv.org/abs/2303.07924) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: New Models
@@ -738,7 +745,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5384 | Modular Conformer Training for Flexible End-to-End ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095966-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095966) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: Noise Robustness
@@ -758,7 +765,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6389 | Noise-aware Target Extension with Self-Distillation for Robust Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094732-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094732) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio Signal Restoration and Editing
@@ -773,7 +780,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6288 | Extreme Audio Time Stretching using Neural Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094738-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094738) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16992-b31b1b.svg)](https://arxiv.org/abs/2211.16992) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Epilepsy Detection Grand Challenge
@@ -786,7 +793,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 7033 | Optimization of the Deep Neural Networks for Seizure Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094645) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning Theory
@@ -801,7 +808,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3936 | An Application of Quantum Mechanics to Attention Methods in Computer Vision | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095362-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095362) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Neural Architecture Search
@@ -816,7 +823,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1461 | BHE-DARTS: Bilevel Optimization based on Hypergradient Estimation for Differentiable Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095940) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Expressive and Controllable TTS
@@ -831,7 +838,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6203 | Embedding a Differentiable Mel-Cepstral Synthesis Filter to a Neural Speech Synthesis System | [![GitHub](https://img.shields.io/github/stars/sp-nitech/diffsptk)](https://github.com/sp-nitech/diffsptk) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094872-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094872) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11222-b31b1b.svg)](https://arxiv.org/abs/2211.11222) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Keyword Spotting
@@ -846,7 +853,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6078 | The DKU Post-Challenge Audio-Visual Wake Word Spotting System for the 2021 MISP Challenge: Deep Analysis | [![GitHub](https://img.shields.io/github/stars/Mashiro009/DKU_WWS_MISP)](https://github.com/Mashiro009/DKU_WWS_MISP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095459-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095459) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.02348-b31b1b.svg)](https://arxiv.org/abs/2303.02348) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Detection and Classification
@@ -861,7 +868,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4815 | Improved Small Sample Hypothesis Testing using the Uncertain Likelihood Ratio | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096416-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096416) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Advances in Signal Processing and Machine Learning for Non-Intrusive Load Monitoring
@@ -875,7 +882,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6414 | Improved Appliance Transient Feature Extraction via Template Matching | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094638-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094638) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning Applications
@@ -896,7 +903,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3576 | Unsupervised Domain Adaptation via Subspace Interpolating Deep Dictionary Learning: A Case Study in Machine Inspection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094819-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094819) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Classification
@@ -917,7 +924,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5583 | Learning a Weight Map for Weakly-Supervised Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094940) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human Posture Estimation
@@ -938,7 +945,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2453 | Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-Temporal Masked Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095238-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095238) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.05691-b31b1b.svg)](https://arxiv.org/abs/2303.05691) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human Reconstruction
@@ -959,7 +966,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3183 | Dynamic Multi-View Scene Reconstruction using Neural Implicit Surface | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00050-b31b1b.svg)](https://arxiv.org/abs/2303.00050) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Face Recognition
@@ -979,7 +986,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 746 | Context-aware Face Clustering with Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096022-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096022) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Source Separation, ICA, and Sparsity
@@ -1000,7 +1007,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5141 | Dictionary Learning on Graph Data with Weisfieler-Lehman Sub-Tree Kernel and KSVD | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094980-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094980) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Neural Sound Synthesis and Representation
@@ -1021,7 +1028,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4443 | Is Quality Enough<i>ƒ</i> Integrating Energy Consumption in a Large-Scale Evaluation of Neural Audio Synthesis Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096975-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096975) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Audio and Music Applications
@@ -1042,7 +1049,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1615 | On Out-of-Distribution Detection for Audio with Deep Nearest Neighbors | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zaharah.github.io/ood_audio/) <br /> [![GitHub](https://img.shields.io/github/stars/Zaharah/ood_audio)](https://github.com/Zaharah/ood_audio) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094846-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094846) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15283-b31b1b.svg)](https://arxiv.org/abs/2210.15283) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning for Image and Video Processing
@@ -1063,7 +1070,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 7162 | Impact of PolSAR Pre-Processing and Balancing Methods on Complex-Valued Neural Networks Segmentation Tasks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10048504-E4A42C.svg)](https://ieeexplore.ieee.org/document/10048504) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.17419-b31b1b.svg)](https://arxiv.org/abs/2210.17419) <br /> [![HAL Science](https://img.shields.io/badge/hal-science-040060.svg)](https://hal.science/hal-04052466) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: Text Adaptation
@@ -1084,7 +1091,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6116 | Factorized AED: Factorized Attention-based Encoder-Decoder for Text-Only Domain Adaptive ASR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095937-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095937) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: Training Methods
@@ -1105,7 +1112,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6343 | Estimating Shapley Values of Training Utterances for Automatic Speech Recognition Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097237-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097237) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ASR: VAD and Other Topics
@@ -1138,7 +1145,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4822 | Exploring Sequence-to-Sequence Transformer-Transducer Models for Keyword Spotting | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095444-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095444) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06478-b31b1b.svg)](https://arxiv.org/abs/2211.06478) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Automatic Audio Captioning and Retrieval
@@ -1153,7 +1160,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6766 | Local Information Assisted Attention-Free Decoder for Audio Captioning | [![GitHub](https://img.shields.io/github/stars/LittleFlyingSheep/P-LocalAFT)](https://github.com/LittleFlyingSheep/P-LocalAFT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9822406-E4A42C.svg)](https://ieeexplore.ieee.org/document/9822406) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2201.03217-b31b1b.svg)](https://arxiv.org/abs/2201.03217) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Auditory EEG Decoding Challenge
@@ -1167,7 +1174,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6882 | Decoding Auditory EEG Responses using an Adapted WaveNet | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095420-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095420) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Restoration
@@ -1181,7 +1188,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2562 | Tensor Decomposition based Latent Feature Clustering for Hyperspectral Band Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096731-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096731) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Interpretable and Explainable Machine Learning
@@ -1189,7 +1196,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Language Modeling
@@ -1197,7 +1204,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Language Modeling and Spoken Language Understanding
@@ -1205,7 +1212,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Estimation Theory and Methods
@@ -1213,7 +1220,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### AI Security and Privacy in Speech and Audio Processing
@@ -1227,7 +1234,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6129 | Distinguishable Speaker Anonymization Based on Formant and Fundamental Frequency Scaling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095120-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095120) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.03038-b31b1b.svg)](https://arxiv.org/abs/2211.03038) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Binaural Audio; Multichannel Source Separation
@@ -1247,7 +1254,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6777 | Switching Independent Vector Analysis and Its Extension to Blind and Spatially Guided Convolutional Beamforming Algorithms | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-9723638-E4A42C.svg)](https://ieeexplore.ieee.org/document/9723638) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2111.10574-b31b1b.svg)](https://arxiv.org/abs/2111.10574) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image/Video Caption Generation
@@ -1265,7 +1272,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6772 | Shot Noise Analysis for Differential Sampling in Indirect Time of Flight Cameras | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10015791-E4A42C.svg)](https://ieeexplore.ieee.org/document/10015791) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Flow Estimation
@@ -1273,7 +1280,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image/Video Retrieval
@@ -1281,7 +1288,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Transfer Learning
@@ -1289,7 +1296,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning Theory and Algorithms
@@ -1297,7 +1304,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Distributed and Federated Learning
@@ -1305,7 +1312,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning for Telecommunications
@@ -1313,7 +1320,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Dialog and Multimodal Processing of Language
@@ -1321,7 +1328,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Discourse and Dialog
@@ -1329,7 +1336,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Emerging Topics in Speech Synthesis
@@ -1337,7 +1344,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio and Text Segmentation, Tagging and Parsing
@@ -1345,7 +1352,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Diffusion-based Generative Models for Audio and Speech
@@ -1360,7 +1367,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3196 | Optimal Transport in Diffusion Modeling for Conversion Tasks in Audio Domain | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094854-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10094854) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge
@@ -1368,7 +1375,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Model Pruning and Compression
@@ -1376,7 +1383,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Recognition and Detection
@@ -1391,7 +1398,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3268 | Pair DETR: Toward Faster Convergent DETR | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095608-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095608)  <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16476-b31b1b.svg)](https://arxiv.org/abs/2210.16476) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning Methods for Language
@@ -1399,7 +1406,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Translation and Dialog System
@@ -1407,7 +1414,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Radar Waveform Design: Recent Advances and New Emerging Applications
@@ -1415,7 +1422,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Conversational Healthcare Interfaces
@@ -1423,7 +1430,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Computer Vision Applications
@@ -1431,7 +1438,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Domain-Specific Detection
@@ -1439,7 +1446,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Temporal Video Analysis and Detection
@@ -1447,7 +1454,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Object Detection
@@ -1455,7 +1462,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Speech and Audio Processing
@@ -1463,7 +1470,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Speech and Language Processing
@@ -1471,7 +1478,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Language Modeling and Representation Learning
@@ -1479,7 +1486,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Lightweight TTS and TTS Analysis
@@ -1487,7 +1494,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Translation for Spoken and Written Language
@@ -1508,7 +1515,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6523 | M<sup>3</sup>ST: Mix at Three Levels for Speech Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095090-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10095090) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.03657-b31b1b.svg)](https://arxiv.org/abs/2212.03657) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Music Audio Synthesis and Modeling
@@ -1516,7 +1523,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Spoken Language Understanding Grand Challenge
@@ -1524,7 +1531,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Segmentation
@@ -1532,7 +1539,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multi-Speaker ASR
@@ -1540,7 +1547,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimodal Processing of Language and Language Systems
@@ -1566,7 +1573,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5146 | Speech-Text based Multi-Modal Training with Bidirectional Attention for Improved Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096726-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096726) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00325-b31b1b.svg)](https://arxiv.org/abs/2211.00325) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Tracking
@@ -1574,7 +1581,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Radar-Assisted Perception (RAP)
@@ -1582,7 +1589,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Data Driven and Machine Learning based Room Acoustic Modeling
@@ -1590,7 +1597,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sensing Applications
@@ -1598,7 +1605,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Computational Imaging
@@ -1606,7 +1613,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Anomaly Detection
@@ -1614,7 +1621,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Neural Network
@@ -1622,7 +1629,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning
@@ -1630,7 +1637,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep and Sequential Learning
@@ -1638,7 +1645,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning for Time Series Analysis
@@ -1646,7 +1653,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multilingual Speech Recognition and Identification
@@ -1654,7 +1661,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Quantum Computing for Machine Learning and Signal Processing
@@ -1662,7 +1669,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sound Event Detection
@@ -1670,7 +1677,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Brain Connectivity
@@ -1678,7 +1685,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Signal Improvement Signal Processing Grand Challenge 2023
@@ -1686,7 +1693,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Anonymization and Data Privacy
@@ -1694,7 +1701,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Natural Language Processing
@@ -1702,7 +1709,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Pronunciation and Fluency Assessment
@@ -1710,7 +1717,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Edge Learning for Emerging Wireless Technologies
@@ -1718,7 +1725,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Acoustic Sensor Array Processing and Sound Source Localization
@@ -1726,7 +1733,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Representation Learning
@@ -1734,7 +1741,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Adversarial Machine Learning
@@ -1744,7 +1751,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 987 | Backdoor Defense via Suppressing Model Shortcuts | [![GitHub](https://img.shields.io/github/stars/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts)](https://github.com/20000yshust/Backdoor-Defense-Via-Suppressing-Model-Shortcuts) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097220-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10097220) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.05631-b31b1b.svg)](https://arxiv.org/abs/2211.05631) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Target Detection and Classification
@@ -1752,7 +1759,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Spatial Processing for Audio and Speech
@@ -1760,7 +1767,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Brain Computer Interfaces
@@ -1768,7 +1775,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Acoustic Echo Cancellation Signal Processing Grand Challenge 2023
@@ -1776,7 +1783,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### DoA Estimation
@@ -1784,7 +1791,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Scoring, Fairness, Privacy
@@ -1792,7 +1799,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Verification, Diarization, Anti-Spoofing
@@ -1802,7 +1809,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3059 | Pushing the Limits of Self-Supervised Speaker Verification using Regularized Distillation Framework | [![GitHub](https://img.shields.io/github/stars/alibaba-damo-academy/3D-Speaker)](https://github.com/alibaba-damo-academy/3D-Speaker) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096915-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096915) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.04168-b31b1b.svg)](https://arxiv.org/abs/2211.04168) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Recent Advances in Robust Learning for Modern Computational Imaging
@@ -1810,7 +1817,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing and Machine Learning for Networked Autonomous Agents
@@ -1818,7 +1825,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Active Noise Control, echo Reduction and Feedback Reduction
@@ -1826,7 +1833,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Anomaly Detection and Representation Learning for Audio Classification
@@ -1834,7 +1841,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Data Processing
@@ -1842,7 +1849,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Perceptual Assessment
@@ -1850,7 +1857,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning for Recommendation, Search and other Applications
@@ -1858,7 +1865,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Reinforcement Learning
@@ -1866,7 +1873,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Pattern Recognition and Classification
@@ -1874,7 +1881,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sparsity, Compressed Sensing, and Tensor Decomposition
@@ -1882,7 +1889,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Adversarial Machine Learning and Information Theoretic Security
@@ -1890,7 +1897,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Resource Constrained ASR
@@ -1898,7 +1905,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Singing Voice Synthesis/Conversion and Pretrained TTS
@@ -1906,7 +1913,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Medical Image Reconstruction
@@ -1914,7 +1921,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### L3DAS23: Learning 3D Audio Sources for Audio-Visual Extended Reality
@@ -1922,7 +1929,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimedia Forensics
@@ -1930,7 +1937,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### MIMO Radars and Waveform Design
@@ -1938,7 +1945,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Dysarthria
@@ -1946,7 +1953,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Emotion Recognition: General Topics
@@ -1973,7 +1980,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6316 | Automatic Classification of Vocal Intensity Category from Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097160-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097160) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Intelligent and Semantic Communications for 5G Mobile Networks and Beyond
@@ -1981,7 +1988,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio and Speech Quality Measurements
@@ -1989,7 +1996,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Acoustic Modeling; Auditory Modeling for Hearing Instruments
@@ -1997,7 +2004,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Anonymization, Data Privacy, and Biometrics
@@ -2005,7 +2012,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Object Recognition
@@ -2013,7 +2020,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Identification Detection
@@ -2021,7 +2028,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Tracking, Data Fusion, and Sensor Networks
@@ -2040,7 +2047,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4149 | Clustered Greedy Algorithm for Large-Scale Sensor Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097137-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097137) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Neural Network Architecture
@@ -2048,7 +2055,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Analysis
@@ -2056,7 +2063,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Anti-Spoofing and Verification
@@ -2066,7 +2073,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5447 | SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing | [![GitHub](https://img.shields.io/github/stars/sivannavis/samo)](https://github.com/sivannavis/samo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094704) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02718-b31b1b.svg)](https://arxiv.org/abs/2211.02718) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Bayesian Signal Processing
@@ -2074,7 +2081,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Verification and Diarization
@@ -2082,7 +2089,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning on Graphs for Biology and Medicine
@@ -2096,7 +2103,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6456 | Spatial Graph Signal Interpolation with an Application for Merging BCI Datasets with Various Dimensionalities | [![GitHub](https://img.shields.io/github/stars/elouayas/eeg_interpolation)](https://github.com/elouayas/eeg_interpolation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097201-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097201) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02624-b31b1b.svg)](https://arxiv.org/abs/2211.02624) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning from Neuroimaging Data
@@ -2104,7 +2111,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Lightweight, Multi-Speaker, Multi-Lingual Indic Text-to-Speech
@@ -2112,7 +2119,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Quality Assessment and Anomaly Detection
@@ -2120,7 +2127,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human-Centric Multimedia and Human-Machine Interaction
@@ -2128,7 +2135,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Emotion Recognition: Transfer Learning
@@ -2143,7 +2150,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4858 | Unsupervised Domain Adaptation for Preference Learning based Speech Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094301-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094301) <br /> [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Naini_2023.pdf) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multi-Antenna Communications and Sensing
@@ -2151,7 +2158,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Quantum Machine Learning Algorithms and Applications on NISQ Devices
@@ -2159,7 +2166,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Neural Speech and Audio Coding: Emerging Challenges and Opportunities
@@ -2167,7 +2174,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Medical and Environmental Acoustics; Audio Security
@@ -2175,7 +2182,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Classification of Acoustic Scenes and Events
@@ -2183,7 +2190,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning from EEG Data
@@ -2191,7 +2198,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Physiological Signal Processing
@@ -2199,7 +2206,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Production, Perception,and Psychoacoustics
@@ -2207,7 +2214,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Watermarking, Data Hiding and Human Factors in Security
@@ -2215,7 +2222,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### 3D Point Cloud/Stereo Video
@@ -2223,7 +2230,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Face Processing
@@ -2231,7 +2238,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### MIMO Radars and MIMO Communications
@@ -2239,7 +2246,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speaker Recognition: Diarization
@@ -2247,7 +2254,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Estimation, Detection, and Classification
@@ -2255,7 +2262,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Model Lightweight and Video Compression
@@ -2263,7 +2270,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Subspace and Manifold Learning
@@ -2278,7 +2285,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4602 | Study of Manifold Geometry using Multiscale Non-Negative Kernel Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095956) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.17475-b31b1b.svg)](https://arxiv.org/abs/2210.17475) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Enhancement - Diffusion and Other Generative Models
@@ -2293,7 +2300,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 6105 | Metric-oriented Speech Enhancement using Diffusion Probabilistic Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095046-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095046) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11989-b31b1b.svg)](https://arxiv.org/abs/2302.11989) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ICASSP2023 General Meeting Understanding and Generation (MUG) Challenge
@@ -2301,7 +2308,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing for Smart City Applications and the Internet of Things
@@ -2309,7 +2316,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Symbol-Level Precoding: Recent Advance and New Applications in 6G and Beyond
@@ -2317,7 +2324,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Graphical Inference and Modeling in Dynamical Systems
@@ -2325,7 +2332,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning-based Source Separation
@@ -2333,7 +2340,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Medical Image Segmentation
@@ -2341,7 +2348,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Bioinformatics
@@ -2349,7 +2356,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Cybersecurity, Hardware and Network Security
@@ -2357,7 +2364,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multi-Antenna Communications and Intelligent Reflecting Surfaces
@@ -2365,7 +2372,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimedia Compression and Quality
@@ -2373,7 +2380,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimedia Analysis, Synthesis, and Learning
@@ -2381,7 +2388,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### DoA Estimation and Beamforming
@@ -2389,7 +2396,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Emotion Recognition: Multimodality
@@ -2397,7 +2404,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Emotion Recognition: Neural Architectures
@@ -2405,7 +2412,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Optimization Methods for Signal Processing
@@ -2413,7 +2420,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### 5th DNS Challenge at IEEE ICASSP 2023
@@ -2421,7 +2428,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing and Learning over Dynamic Graphs
@@ -2429,7 +2436,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human Action Recognition
@@ -2437,7 +2444,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Generative Model
@@ -2452,7 +2459,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 4977 | Single-Shot Domain Adaptation via Target-aware Generative Augmentations | [![GitHub](https://img.shields.io/github/stars/kowshikthopalli/sista)](https://github.com/kowshikthopalli/sista) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096784-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096784) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.16692-b31b1b.svg)](https://arxiv.org/abs/2210.16692) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimodal Signal Processing and Analysis
@@ -2460,7 +2467,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Enhancement - Self-Supervised Learning
@@ -2475,7 +2482,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5785 | Self-Supervised Learning for Speech Enhancement Through Synthesis | [![GitHub](https://img.shields.io/github/stars/Bose/devo)](https://github.com/Bose/devo) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094705-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094705) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.02542-b31b1b.svg)](https://arxiv.org/abs/2211.02542) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Distributed and Reliable Signal Processing and Communications
@@ -2483,7 +2490,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Resource-Efficient Real-time Neural Speech Separation
@@ -2491,7 +2498,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multichannel Speech Enhancement, Dereverberation, and System Identification
@@ -2499,7 +2506,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multilabel Acoustic Event Classification
@@ -2507,7 +2514,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Medical Imaging
@@ -2517,7 +2524,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 1384 | Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment | [![GitHub](https://img.shields.io/github/stars/HUANGLIZI/C2FVL)](https://github.com/HUANGLIZI/C2FVL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096683-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096683) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00279-b31b1b.svg)](https://arxiv.org/abs/2303.00279) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine/Deep Learning Methodologies for Multimedia
@@ -2525,7 +2532,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human-Centric Multimedia
@@ -2533,7 +2540,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Source Localization and Separation
@@ -2541,7 +2548,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Enhancement /Audio-Visual, Multi-Channel, and Other
@@ -2549,7 +2556,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Enhancement - Separation and Target Speech Extraction
@@ -2559,7 +2566,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3175 | Unifying Speech Enhancement and Separation with Gradient Modulation for End-to-End Noise-Robust Speech Separation | [![GitHub](https://img.shields.io/github/stars/YUCHEN005/Unified-Enhance-Separation)](https://github.com/YUCHEN005/Unified-Enhance-Separation) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096050-E4A42C.svg)](https://ieeexplore.ieee.org/abstract/document/10096050) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.11131-b31b1b.svg)](https://arxiv.org/abs/2302.11131) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Enhancement - Single Channel
@@ -2567,7 +2574,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Machine Learning Applications to Communications
@@ -2575,7 +2582,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Aspects in Image Generation/Analysis
@@ -2583,7 +2590,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multi-Antenna and Multi-Carrier Communications
@@ -2591,7 +2598,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Filtering, Restoration, Enhancement, and Reconstruction
@@ -2599,7 +2606,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### ICASSP SP Clarity Challenge: Speech Enhancement for Hearing Aids
@@ -2607,7 +2614,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image and Video Enhancement
@@ -2615,7 +2622,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Recognition-training/adaptation
@@ -2623,7 +2630,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Decentralized Wireless Systems and Energy Harvesting
@@ -2631,7 +2638,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Robust Learning and Inference
@@ -2639,7 +2646,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Music Classification and Transcription
@@ -2647,7 +2654,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Music Information Retrieval
@@ -2655,7 +2662,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Deep Learning for Medical Image Segmentation
@@ -2663,7 +2670,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Detection and Classification in Medical Imaging
@@ -2671,7 +2678,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Coding/Compression
@@ -2679,7 +2686,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio-Visual Signal Processing and Analysis
@@ -2687,7 +2694,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Various Aspects in Speech and Language Processing
@@ -2695,7 +2702,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Recognition: Modeling and Context
@@ -2703,7 +2710,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Recognition: Self-Supervised Models
@@ -2711,7 +2718,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Channel State Estimation
@@ -2719,7 +2726,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing over Graphs and Networks
@@ -2727,7 +2734,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing over Networks
@@ -2735,7 +2742,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Applications to Vision, Speech, and Robotics
@@ -2750,7 +2757,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3040 | Cooperative Five Degrees of Freedom Motion Estimation for a Swarm of Autonomous Vehicles | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096821-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096821) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Person Identification and Relapse Detection from Continuous Recordings of Biosignals
@@ -2758,7 +2765,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Vision and Language Model
@@ -2766,7 +2773,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### TTS: AM and Vocoder
@@ -2774,7 +2781,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing Education
@@ -2782,7 +2789,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing and Systems for Remote Biometrics
@@ -2790,7 +2797,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing for RIS-Enabled Smart Wireless Environments
@@ -2798,7 +2805,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimodal Learning
@@ -2806,7 +2813,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Video Coding/Compression
@@ -2814,7 +2821,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Object Tracking
@@ -2822,7 +2829,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Generation
@@ -2830,7 +2837,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Spoken Language Understanding
@@ -2838,7 +2845,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Optimization and Machine Learning for Communications
@@ -2846,7 +2853,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sparse/Low-Dimensional Signal Processing
@@ -2854,7 +2861,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing Theory and Methods
@@ -2862,7 +2869,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Radar/Array Signal Processing. Networks and Communications
@@ -2870,7 +2877,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Applications to Communications
@@ -2878,7 +2885,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### The First Pathloss Radio Map Prediction Challenge
@@ -2886,7 +2893,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Human Video Generation and Editing
@@ -2894,7 +2901,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Point Cloud Processing
@@ -2902,7 +2909,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimedia Databases and Information Retrieval
@@ -2910,7 +2917,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Voice and Style Conversion
@@ -2918,7 +2925,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Synergy between Human and Machine Approaches to Sound/Scene Recognition and Processing
@@ -2926,7 +2933,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Topological and Simplicial Data Processing
@@ -2934,7 +2941,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Unsupervised Deep Learning of Image Priors for Inverse Problems
@@ -2942,7 +2949,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Self-Supervised Learning and Data-Efficiency for Speech and Audio
@@ -2952,7 +2959,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 5842 | Audio Signal Enhancement with Learning from Positive and Unlabelled Data | [![GitHub](https://img.shields.io/github/stars/nobutaka-ito/pulse)](https://github.com/nobutaka-ito/pulse) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095988-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095988) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15143-b31b1b.svg)](https://arxiv.org/abs/2210.15143) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sound Event Detection and Localization; Bioacoustic Event Detection
@@ -2960,7 +2967,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Aspects in Machine Learning
@@ -2968,7 +2975,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Aspects in Image/Video Processing and Analysis
@@ -2978,7 +2985,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 2133 | ShaDocNet: Learning Spatial-Aware Tokens in Transformer for Document Shadow Removal | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cxh-research.github.io/ShadocNet/) <br /> [![GitHub](https://img.shields.io/github/stars/CXH-Research/ShadocNet)](https://github.com/CXH-Research/ShadocNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095403-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095403) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16675-b31b1b.svg)](https://arxiv.org/abs/2211.16675) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Learning Algorithms and Applications
@@ -2986,7 +2993,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Optimization Methods in Machine Learning
@@ -2994,7 +3001,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Applications of Machine Learning
@@ -3002,7 +3009,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sensing, Computing, and Semantic Communications
@@ -3010,7 +3017,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sparsity and Low-Rank Models
@@ -3018,7 +3025,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Signal Processing over Graphs
@@ -3026,7 +3033,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Target Source Extraction
@@ -3034,7 +3041,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Music Generation and Arrangement
@@ -3042,7 +3049,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Multimodal Information based Speech Processing (MISP) 2022 Challenge
@@ -3050,7 +3057,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image Retrieval and Classification
@@ -3058,7 +3065,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Variational Inference and Approximate Bayesian Techniques
@@ -3066,7 +3073,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Spatial Audio Recording and Reproduction
@@ -3074,7 +3081,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech Modeling and Audio Coding
@@ -3082,7 +3089,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Audio Processing and Analysis
@@ -3090,7 +3097,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Image/Video Enhancement
@@ -3098,7 +3105,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Zero or Few-Shot Learning
@@ -3106,7 +3113,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Acoustic and Microphone Array Processing
@@ -3114,7 +3121,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Speech and Language Disorders
@@ -3122,7 +3129,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Various Aspects in Speech and Speaker Recognition
@@ -3130,7 +3137,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Sampling Theory, Compressed and Non-uniform Sampling
@@ -3138,7 +3145,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 > Will soon be added
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Show and Tell Demos: Session
@@ -3151,7 +3158,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 7068 | Optimize for my Voice with Speaker Identification | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://sigport.org/sites/default/files/docs/ICASSP2023_final6_0.pdf) |
 
 <a href="#sections">
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
 </a>
 
 ### Rising Stars Workshop
