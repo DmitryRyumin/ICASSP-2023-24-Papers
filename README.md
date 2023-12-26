@@ -1435,7 +1435,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Computer Vision Applications
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 6551 | On the Quantization of Recurrent Neural Networks for Smiles Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095354-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095354) |
+| 4821 | WIFI-Based Robust Child Presence Detection for Smart Cars | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096908-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096908) |
+| 6365 | CAN2V: Can-Bus Data-Based Seq2seq Model for Vehicle Velocity Prediction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094756-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094756) |
+| 246 | An Evaluation Platform to Scope Performance of Synthetic Environments in Autonomous Ground Vehicles Simulation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096852-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096852) |
+| 3000 | PreFallKD: Pre-Impact Fall Detection via CNN-ViT Knowledge Distillation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094979) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.03634-b31b1b.svg)](https://arxiv.org/abs/2303.03634) |
+| 3733 | Finding Optimal Numerical Format for Sub-8-Bit Post-Training Quantization of Vision Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096798-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096798) |
+| 3961 | A Multi-Channel Aggregation Framework for Object Detection in Large-Scale SAR Image | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096182-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096182) |
+| 3136 | Tracking Targets in Hyper-Scale Cameras Using Movement Predication | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094743-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094743) |
+| 2421 | RGB-D Based Pose-Invariant Face Recognition Via Attention Decomposition Module | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097235-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097235) |
+| 256 | NL-DSE: Non-Local Neural Network with Decoder-Squeeze-and-Excitation for Monocular Depth Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095633-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095633) |
+| 3137 | Real-Time Modelling of Observation Filter in the Remote Microphone Technique for an Active Noise Control Application | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095752-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095752) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12517-b31b1b.svg)](https://arxiv.org/abs/2303.12517) |
+| 1054 | An Adaptive DFE Using Light-Pattern-Protection Algorithm in 12 NM CMOS Technology | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097007-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097007) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
