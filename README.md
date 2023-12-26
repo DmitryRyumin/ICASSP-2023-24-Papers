@@ -1464,7 +1464,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Temporal Video Analysis and Detection
 
-> Will soon be added
+| :id: | **Title** | **Repo** | **Paper** |
+|------|-----------|:--------:|:---------:|
+| 613 | One-Shot Action Detection via Attention Zooming In | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095638-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095638) |
+| 619 | ScaleMix: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095962-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095962) |
+| 1470 | Semi-Supervised Remote Sensing Image Change Detection Using Mean Teacher Model for Constructing Pseudo-Labels | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10097089-E4A42C.svg)](https://ieeexplore.ieee.org/document/10097089) |
+| 1575 | Modulation-Based Center Alignment and Motion Mining for Spatial Temporal Action Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095853-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095853) |
+| 2692 | DL-NET: Dilation Location Network for Temporal Action Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096729-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096729) |
+| 2873 | Semi-Supervised Contrastive Learning with Soft Mask Attention for Facial Action Unit Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095708-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095708) |
+| 4046 | Local-Global Siamese Network with Efficient Inter-Scale Feature Learning for Change Detection in VHR Remote Sensing Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095819-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095819) |
+| 4951 | Multimodal Facial Action unit Detection with Physiological Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096863-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096863) |
+| 5755 | Background-Weakening Consistency Regularization for Semi-Supervised Video Action Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10095478-E4A42C.svg)](https://ieeexplore.ieee.org/document/10095478) |
+| 5713 | Low in Resolution, High in Precision: UAV Detection with Super-Resolution and Motion Information Extraction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096656-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096656) |
+| 3350 | Temporal Contrastive Learning with Curriculum | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10096811-E4A42C.svg)](https://ieeexplore.ieee.org/document/10096811) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2209.00760-b31b1b.svg)](https://arxiv.org/abs/2209.00760) |
+| 320 | Longshortnet: Exploring Temporal and Semantic Features Fusion In Streaming Perception | [![GitHub](https://img.shields.io/github/stars/LiChenyang-Github/LongShortNet)](https://github.com/LiChenyang-Github/LongShortNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10094855-E4A42C.svg)](https://ieeexplore.ieee.org/document/10094855) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.15518-b31b1b.svg)](https://arxiv.org/abs/2210.15518) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
