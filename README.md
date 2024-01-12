@@ -1,21 +1,47 @@
 # ICASSP-2023-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?style=flat)](https://github.com/sindresorhus/awesome)
-![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/ICASSP-2023-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/DmitryRyumin/ICASSP-2023-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat?style=flat)](https://github.com/DmitryRyumin/ICASSP-2023-Papers/blob/main/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/ICASSP-2023-Papers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/ICASSP-2023-Papers)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/ICASSP-2023-Papers)
-![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/ICASSP-2023-Papers)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/ICASSP-2023-Papers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/ICASSP-2023-Papers)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/ICASSP-2023-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/ICASSP-2023-Papers?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/ICASSP-2023-Papers?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/ICASSP-2023-Papers?style=flat)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
+<table>
+  <tr>
+    <td><strong>General Information</strong></td>
+    <td>
+      <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+      </a>
+      <a href="https://2023.ieeeicassp.org/">
+        <img src="http://img.shields.io/badge/ICASSP-2023-0073AE.svg" alt="Conference">
+      </a>
+      <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Repository Size and Activity</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/DmitryRyumin/ICASSP-2023-Papers" alt="GitHub repo size">
+      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/ICASSP-2023-Papers" alt="GitHub commit activity (branch)">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Contribution Statistics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/contributors/dmitryryumin/ICASSP-2023-Papers" alt="GitHub contributors">
+      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/ICASSP-2023-Papers" alt="GitHub closed issues">
+      <img src="https://img.shields.io/github/issues/DmitryRyumin/ICASSP-2023-Papers" alt="GitHub issues">
+      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/ICASSP-2023-Papers" alt="GitHub closed pull requests">
+      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/ICASSP-2023-Papers" alt="GitHub pull requests">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Metrics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/DmitryRyumin/ICASSP-2023-Papers" alt="GitHub last commit">
+      <img src="https://img.shields.io/github/watchers/dmitryryumin/ICASSP-2023-Papers?style=flat" alt="GitHub watchers">
+      <img src="https://img.shields.io/github/forks/dmitryryumin/ICASSP-2023-Papers?style=flat" alt="GitHub forks">
+      <img src="https://img.shields.io/github/stars/dmitryryumin/ICASSP-2023-Papers?style=flat" alt="GitHub Repo stars">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+    </td>
+  </tr>
+</table>
 
 > Completed: ![Progress](https://geps.dev/progress/14?successColor=006600)
 
