@@ -513,8 +513,8 @@ def extract_paper_data(paper_section, columns):
         paper_data = {
             "title": title,
             "base_url": base_url,
-            "ieee_id": ieee_id,
             "title_page": title_page,
+            "ieee_id": ieee_id,
             "github": github_info,
             "web_page": web_page,
             "github_page": github_page,
