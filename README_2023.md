@@ -60,6 +60,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 
 ---
 
+> [!TIP]
 [*PDF version of the ICASSP 2023 Conference Programme*](https://2023.ieeeicassp.org/wp-content/uploads/sites/443/icassp-2023-program_23.pdf), which lists all accepted full papers along with their presentation mode and time.
 
 ---
@@ -72,7 +73,15 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+<br />
+<br />
+
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -111,8 +120,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
