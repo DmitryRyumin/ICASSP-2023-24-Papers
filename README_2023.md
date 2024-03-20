@@ -213,7 +213,15 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 
 ---
 
-## Papers
+## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+<a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers">
+  <img src="http://img.shields.io/badge/ICASSP-2024-Papers-0073AE.svg" alt="Conference">
+</a>
 
 <details close>
 <summary>List of sections<a id="sections"></a></summary>
