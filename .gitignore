@@ -172,3 +172,4 @@ dmypy.json
 /*.sh
 /*.py
 local_json_data/
+txt/

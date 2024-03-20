@@ -239,9 +239,1133 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/#.md">#</a>
+                Vision and language
             </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="202" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                Acoustic Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Techniques
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Enhancement and Separation - Diffusion and other Probabilistic Models
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ASPS Lecture
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Distributed and Federated Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Transfer Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Voice Conversion
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Graph Neural Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Language Resources, Metrics and Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Watermarking and Data Hiding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal and Information Processing over Graphs
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Integrated Sensing and Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Auditory EEG Decoding Challenge
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio Events Detection and Classification; Music Information Retrieval
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Language Understanding and Computational Semantics - NLP Tasks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Physiological and Wearable Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Enhancement; Music Information Retrieval
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Medical Image Fusion and Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sparse/Low-Dimensional Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Robust and Sustainable Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning for Image and Video Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Generalization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Distributed Processing and Federated Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Biological Image Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Learning from Multimodal Data
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Biometrics
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Detection and Classification
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Coding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Anonymisation, Data Privacy and Hiding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Quality Assessment and Anomaly Detection
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Filtering, Reconstruction, Restoration and Enhancement
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Emotion Recognition and Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Generative Models
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Context and LLM Speech Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Music Information Retrieval
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Processing: Vision + Language
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Environmental Sound Synthesis and Generation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Biomedical and Biological Image Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DoA Estimation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Tracking
+            </td>
+        </tr>
+        <tr>
+            <td>
+                e-Prevention Challenge: Psychotic and Non-Psychotic Relapse Detection using Wearable-based Digital Phenotyping
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning for Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image and Video Processing for Watermarking and Security
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Self-Supervised Learning for Speech Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning for Image and Video Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image, Video, and 3D Content Generation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Classification of Acoustic Scenes and Events
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Reinforcement Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Subspace and Manifold Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Active Noise Control and Echo Cancellation; Source Separation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning, Detection and Classification
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning for Audio, Speech and Music Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Generation and Synthesis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Medical Image Detection and Segmentation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Forensics and Cybersecurity
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Estimation Theory and Methods
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Emerging Methods for Biomedical Image and Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Text to Speech Generation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio Classification, Detection and Localization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Self-Supervised and Semi-Supervised Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multichannel/Multimodal Speech Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speaker Verification
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio-Visual Speech Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speaker Diarization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Adversarial Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning Methods for Language
+            </td>
+        </tr>
+        <tr>
+            <td>
+                SPED: Signal Processing Education
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Quality of Experience
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Domain-Enriched Learning for Medical Image Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                In-Car Multi-Channel Automatic Speech Recognition Challenge (ICMC-ASR)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Enhancement and Separation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image Denoising
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ASPS Poster
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ASR - New Algorithms and Approaches
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Data Mining and Big Data
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Language Understanding and Computational Semantics - Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Explainable and Interpretable Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Neuroimaging and Brain/Human-Computer Interfaces
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Localization, DOA Estimation, Spatial Audio Recording and Reproduction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Perception and Processing for Autonomous Systems and Applications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Computational Imaging
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio and Speech Quality and Intelligibility Measures; Music Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Medical Image Formation, Reconstruction and Restoration
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio and Speech Source Separation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Text-based Customization for Speech-to-Text
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Models
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Next-Gen Communication Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image Restoration
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Robustness and Trustworthy Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing over Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3D Understanding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Compressed Sensing and Machine Learning for Multi-Sensor Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                LIMMITS: Multi-Speaker, Multi-Lingual Indic TTS with Voice Cloning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Natural Language Processing for Speech-to-Text
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Resource Constrained Acoustic and Langugage Modeling
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Dereverberation and RIR Estimation; Speech Enhancement and Restoration
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image/Video Super-Resolution
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Matrix Factorization and Source Separation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Beamforming for Audio and Speech; Music Signal Analysis, Processing and Synthesis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Summarization, Retrieval and Language Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sequential Learning and Sequential Decision Methods
+            </td>
+        </tr>
+        <tr>
+            <td>
+                MIMO and Massive MIMO Communication Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Emotion/Sentiment Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Human Understanding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image and Video Synthesis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                MIMO and High-Frequency Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image and Video Super-Resolution
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Spatial Audio Recording and Reproduction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio Signal Restoration and Speech Enhancement
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Discourse and Dialog
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Bayesian Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Pattern Recognition and Classification
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Key Word Spotting
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Analysis - Pitch, Spectrum and Voice Disorders
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Grand Challenge on Hyperspectral Skin Vision
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Robust Speech Recognition and Adaptation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Analysis and Language Disorder Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Aspects in Image/Video Processing and Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DoA Estimation and Source Localization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Processing of Language
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Source separation; Music analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning for Time Series Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Search and Retrieval
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Anomaly Detection; Sound Event Detection and Localization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Acoustic Array and Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Music Signal Analysis and Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Language Understanding and Computational Semantics - Language Models
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Theory
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Anti-Spoofing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Pose, Gesture, and Action in Multimedia
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sampling Theory, Compressed and Non-Uniform Sampling
+            </td>
+        </tr>
+        <tr>
+            <td>
+                MIMO and Massive MIMO Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal and Emerging Medical Signal Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                The RF Signal Separation Challenge
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing for Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio and Speech Modeling, Coding and Transmission; Spatial Audio Recording and Reproduction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Voice Conversion: Singing, Accent and Emotion
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Other Machine Learning Applications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speaker Recognition and Anonymization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Feature Extraction Selection and Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Music Information Retrieval; Quality and Intelligibility Measures
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Learning Theory and Performance Bound
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Human-Centric Multimedia
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multilingual Speech Recognition and Identification
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image Recognition and Detection
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing over Graphs and Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                End-to-End Modeling for Automatic Speech Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Segmentation, Tagging, and Parsing of Language
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Detection
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio-Language Processing and Audio Captioning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Action Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image, Video and Other Applications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Information Based Speech Processing (MISP)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Next-Gen Communications and PHY Security
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Network and System Security
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Target Source Extraction; Active Noise Control, Echo Reduction and Feedback Reduction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Translation for Spoken and Written Language
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sound Events Detection, Description and Generation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Applied Cryptography
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine/Deep Learning Methodologies for Multimedia
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Separation and Extraction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing and Machine Learning for Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio Coding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Active Noise Control and Echo Cancellation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Bayesian Machine Learning
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Advancing the Frontiers of Deep Learning for Low-Dose 3D Cone-Beam CT Reconstruction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Bioacoustics and Medical Acoustics; Audio Security
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Acoustic Modeling for Automatic Speech Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Processing of Speech
+            </td>
+        </tr>
+        <tr>
+            <td>
+                IFS General
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3D Image and Video Processing and Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Training Methods
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Key Word Spotting and Acoustic Event Detection
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Coding, Information Theory, and Applications of Signal Processing for Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Analysis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Music Separation; Audio for Multimedia and Audio Processing Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Machine Learning for Communications and Wireless Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Image and Video Coding/Compression
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Bioinformatics and Biomedical Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio-Visual Speech/Intent Recognition
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Clustering, Segmentation, and Summarization
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Learning Theory and Methods
+            </td>
+        </tr>
+        <tr>
+            <td>
+                SP Cadenza Challenge: Music Demixing/Remixing for Hearing Aids
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Radar Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Biological and Medical Signal and Image Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Anti-Spoofing and Speaker Embedding
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Enhancement; Dereverberation and RIR Estimation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Segmentation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3D Generation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimedia Forensics
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Speech Signal Improvement Challenge
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Audio Deep Packet Loss Concealment Grand Challenge
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing Theory and Methods Journal Papers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multi-Sensor and Multichannel Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Array Processing and Beamforming
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sound Event Classification and Generation; Active Noise Control, Echo Reduction and Feedback Reduction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deep Learning Fairness and Privacy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sparsity and Low-Rank Models
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Optimization Methods for Signal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Multimodal Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Show and Tell Demos
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" align="center"><i>Special Session</i></td>
+        </tr>
+        <tr>
+            <td>
+                Model based Machine Learning for Wireless Communications and Sensing
+            </td>
+            <td colspan="4" rowspan="23" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                Exploiting Diversities in Advanced Array Systems: New Applications and Trends
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Generative Semantic Communication: How Generative Models Enhance Semantic Communications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Quantum Machine Learning Algorithms and Applications on NISQ Devices
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Robust Reconstruction Methods in Computational Imaging
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Graphical Inference and Modeling in Dynamical Systems
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Advancements in Integrated Sensing and Communication for Next-Generation Wireless Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal and Graph Processing for Autonomous Agents
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Next-Generation Wi-Fi Sensing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing Theory for Covert Communication and Cybersecurity
+            </td>
+        </tr>
+        <tr>
+            <td>
+                In-Context Learning Methods for Speech and Spoken Language Processing
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Topological Signal Processing over Higher-Order Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Deepfakes and AI-Generated Content (AIGC) Detection and Forensics: Recent Advances
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Recent Advances in AI-Powered Visual Computing and Multimodal Signal Processing for Metaverse Era
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Algorithm-Hardware Co-Design of Neuromorphic Solutions for Signal Processing Applications
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Automotive Radar Signal Processing for Autonomous Driving
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Learning with Incomplete Medical Data
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing and Machine Learning for Collective Intelligence
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Variational Inference and Approximate Bayesian Techniques
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Efficient Modeling of Long Sequences with Applications to Speech and Audio
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Decentralized Learning with Resource-Constrained Communication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Localization and Sensing based on Signals from Terrestrial and Non-Terrestrial Networks
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Signal Processing and Machine Learning for Understanding Brain Dynamics
+            </td>
         </tr>
     </tbody>
 </table>
