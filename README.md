@@ -1,2 +1,1 @@
-# ICASSP-2024-Papers
-
+# ![ICASSP-2024-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICASSP-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
