@@ -220,7 +220,7 @@ ICASSP 2023 Papers: A complete collection of influential and exciting research p
 </a>
 
 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers">
-  <img src="http://img.shields.io/badge/ICASSP-2024-Papers-0073AE.svg" alt="Conference">
+  <img src="http://img.shields.io/badge/ICASSP-2024-0073AE.svg" alt="Conference">
 </a>
 
 <details close>
