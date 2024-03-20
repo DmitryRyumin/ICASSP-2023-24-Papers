@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/github/watchers/dmitryryumin/ICASSP-2023-24-Papers?style=flat" alt="GitHub watchers">
       <img src="https://img.shields.io/github/forks/dmitryryumin/ICASSP-2023-24-Papers?style=flat" alt="GitHub forks">
       <img src="https://img.shields.io/github/stars/dmitryryumin/ICASSP-2023-24-Papers?style=flat" alt="GitHub Repo stars">
-      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-24-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
 </table>
@@ -47,3 +47,4 @@
   <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
+
