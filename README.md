@@ -222,3 +222,24 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/README_2023.md">
   <img src="http://img.shields.io/badge/ICASSP-2023-0073AE.svg" alt="Conference">
 </a>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/#.md">#</a>
+            </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+        </tr>
