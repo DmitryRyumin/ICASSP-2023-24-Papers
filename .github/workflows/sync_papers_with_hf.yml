@@ -17,7 +17,7 @@ jobs:
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
       HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
-      JSON_DATA_PATH: 'json_data/2023/CVPR'
+      JSON_DATA_PATH: 'json_data/2024/ICASSP'
       UPDATE_REPO_SH: 'update_repo.sh'
       COMPARE_FILES_SH: 'compare_files.sh'
       EMAIL: 'dl_03.03.1991@mail.ru'
