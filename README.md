@@ -79,3 +79,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+ICASSP 2024 Papers: A complete collection of influential and exciting research papers from the [*ICASSP 2024*](https://2024.ieeeicassp.org/) conference. Explore the latest advancements in acoustics, speech and signal processing. Code included. :star: the repository to support the advancement of audio and signal processing!
+
+<p align="center">
+    <a href="https://2024.ieeeicassp.org/" target="_blank">
+        <img width="600" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICASSP-2023-24-Papers@main/images/ICASSP2024-banner.jpg" alt="ICASSP 2024">
+    </a>
+<p>
+
+---
+
+> [!TIP]
+[*Online version of the ICASSP 2024 Conference Technical Program*](https://2024.ieeeicassp.org/program-schedule/), which lists all accepted full papers along with their presentation mode and time.
+
+---
