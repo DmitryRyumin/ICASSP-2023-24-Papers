@@ -41,10 +41,41 @@
       <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FICASSP-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
+  <tr>
+    <td><strong>GitHub Actions</strong></td>
+    <td>
+      <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
+        <img src="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg" alt="Copy Parse Markdown and Generate JSON from Source Repo">
+      </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
+        <img src="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
+      </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/sync_papers_with_hf.yml">
+        <img src="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/actions/workflows/sync_papers_with_hf.yml/badge.svg" alt="Sync Hugging Face App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>
+      <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+        <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Progress Status</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>
+      <!-- 0/2712 -->
+      <div style="float:left;">
+        <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-<div style="float:left;">
-  <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
-</div>
-
