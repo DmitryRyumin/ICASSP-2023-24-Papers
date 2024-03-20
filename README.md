@@ -1375,7 +1375,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
 ## Key Terms
 
 <p align="center">
-    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/ICASSP-2023-24-Papers@main/images/Keywords2024.png" alt="Key Terms">
+    <img width="500" src="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/images/Keywords2024.png" alt="Key Terms">
 <p>
 
 ---
