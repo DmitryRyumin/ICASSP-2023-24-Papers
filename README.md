@@ -239,9 +239,14 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Vision and language
+                Audio-Visual Speech Processing
             </td>
             <td colspan="4" rowspan="202" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                Vision and language
+            </td>
         </tr>
         <tr>
             <td>
@@ -551,11 +556,6 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         <tr>
             <td>
                 Speaker Verification
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Audio-Visual Speech Processing
             </td>
         </tr>
         <tr>
