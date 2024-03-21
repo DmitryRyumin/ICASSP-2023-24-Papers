@@ -20,7 +20,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24/blob/main/sections/2024/main/MMSP.md">
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MMSP.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/">
