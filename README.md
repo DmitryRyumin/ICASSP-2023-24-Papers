@@ -256,7 +256,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Vision and language
+                Vision and Language
             </td>
             <td colspan="4" rowspan="201" align="center"><i>Will soon be added</i></td>
         </tr>
