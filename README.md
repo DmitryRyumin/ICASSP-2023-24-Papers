@@ -71,7 +71,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 24/2712 -->
+      <!-- 35/2712 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/1?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -259,13 +259,13 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md">Vision and Language</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/18-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/29-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
