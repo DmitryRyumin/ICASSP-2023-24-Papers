@@ -17,6 +17,14 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td><strong>Awesome</strong></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/Awesome-Speech-Enhancement">
+                <img src="http://img.shields.io/badge/Speech%20Enhancement-464062.svg" alt="Speech Enhancement">
+            </a>
+        </td>
+    </tr>
 </table>
 
 <div align="center">
