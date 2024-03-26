@@ -394,7 +394,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             <td>
                 Graph Neural Networks
             </td>
-            <td colspan="4" rowspan="195" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="193" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
