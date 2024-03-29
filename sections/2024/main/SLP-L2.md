@@ -37,7 +37,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| FIRNet: Fundamental Frequency Controllable Fast Neural Vocoder with Trainable Finite Impulse Response Filter | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446960-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446960) | :heavy_minus_sign: |
+| FIRNet: Fundamental Frequency Controllable Fast Neural Vocoder with Trainable Finite Impulse Response Filter | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://ast-astrec.nict.go.jp/demo_samples/firnet_icassp2024/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446960-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446960) | :heavy_minus_sign: |
 | Dualvc 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446229-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446229) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.15496-b31b1b.svg)](https://arxiv.org/abs/2309.15496) | :heavy_minus_sign: |
 | Unifying One-Shot Voice Conversion and Cloning with Disentangled Speech Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446296-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446296) | :heavy_minus_sign: |
 | ESVC: Combining Adaptive Style Fusion and Multi-Level Feature Disentanglement for Expressive Singing Voice Conversion | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446284-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446284) | :heavy_minus_sign: |
