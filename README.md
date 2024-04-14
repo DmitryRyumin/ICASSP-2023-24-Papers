@@ -392,19 +392,19 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Graph Neural Networks
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md">Graph Neural Networks</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/soon-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/soon-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/soon-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L3.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
