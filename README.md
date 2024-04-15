@@ -477,14 +477,9 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Auditory EEG Decoding Challenge
-            </td>
-            <td colspan="4" rowspan="188" align="center"><i>Will soon be added</i></td>
-        </tr>
-        <tr>
-            <td>
                 Audio Events Detection and Classification; Music Information Retrieval
             </td>
+            <td colspan="4" rowspan="187" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
