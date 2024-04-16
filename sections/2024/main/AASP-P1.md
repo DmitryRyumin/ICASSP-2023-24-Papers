@@ -33,7 +33,7 @@
 
 ## Audio Events Detection and Classification; Music Information Retrieval
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -46,6 +46,6 @@
 | Class-Incremental Learning for Multi-Label Audio Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447952-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447952) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.04447-b31b1b.svg)](https://arxiv.org/abs/2401.04447) | :heavy_minus_sign: |
 | An Explainable Proxy Model for Multilabel Audio Segmentation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446648-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446648) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.08268-b31b1b.svg)](https://arxiv.org/abs/2401.08268) | :heavy_minus_sign: |
 | A Foundation Model for Music Informatics | [![GitHub](https://img.shields.io/github/stars/minzwon/musicfm?style=flat)](https://github.com/minzwon/musicfm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448314-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448314) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.03318-b31b1b.svg)](https://arxiv.org/abs/2311.03318) | :heavy_minus_sign: |
-| Piano Transcription with Harmonic Attention | [![GitHub](https://img.shields.io/github/stars/minzwon/musicfm?style=flat)](https://github.com/minzwon/musicfm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447324-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447324) | :heavy_minus_sign: |
+| Piano Transcription with Harmonic Attention | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447324-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447324) | :heavy_minus_sign: |
 | Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sony.github.io/timbre-trap) <br /> [![GitHub](https://img.shields.io/github/stars/sony/timbre-trap?style=flat)](https://github.com/sony/timbre-trap) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446141-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446141) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.15717-b31b1b.svg)](https://arxiv.org/abs/2309.15717) | :heavy_minus_sign: |
 | Tempo Estimation as Fully Self-Supervised Binary Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448098-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448098) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.08891-b31b1b.svg)](https://arxiv.org/abs/2401.08891) | :heavy_minus_sign: |
