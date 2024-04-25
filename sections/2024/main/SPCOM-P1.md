@@ -37,7 +37,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Decentralizing Coherent Joint Transmission Precoding via Deterministic Equivalents |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447449-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447449) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2403.09958-b31b1b.svg)](https://arxiv.org/abs/2403.09958) | :heavy_minus_sign: |
+| Decentralizing Coherent Joint Transmission Precoding via Deterministic Equivalents | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447449-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447449) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2403.09958-b31b1b.svg)](https://arxiv.org/abs/2403.09958) | :heavy_minus_sign: |
 | Utilizing Second-Order Information in Noisy Information-Sharing Environments for Distributed Optimization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447051-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447051) | :heavy_minus_sign: |
 | Scaling Results for Robust Distributed Estimation in Sensor Networks using Order Statistics | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447677-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447677) | :heavy_minus_sign: |
 | SemDA: Communication-Efficient Data Aggregation through Distributed Semantic Transmission | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446003-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446003) | :heavy_minus_sign: |
