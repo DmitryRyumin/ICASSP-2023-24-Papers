@@ -71,9 +71,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 529/2712 -->
+      <!-- 555/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/19?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/20?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -749,14 +749,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Quality Assessment and Anomaly Detection
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P1.md">Quality Assessment and Anomaly Detection</a>
             </td>
-            <td colspan="4" rowspan="171" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P1.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P1.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P1.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P1.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 Signal Filtering, Reconstruction, Restoration and Enhancement
             </td>
+            <td colspan="4" rowspan="170" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
