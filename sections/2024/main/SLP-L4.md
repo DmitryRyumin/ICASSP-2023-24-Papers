@@ -1,0 +1,84 @@
+# ICASSP-2024-Papers
+
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Previous Collections</strong></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/README_2023.md">
+                <img src="http://img.shields.io/badge/ICASSP-2023-0073AE.svg" alt="Conference">
+            </a>
+        </td>
+    </tr>
+</table>
+
+<div align="center">
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-P3.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L4.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
+    </a>
+</div>
+
+## Speech Emotion Recognition and Analysis
+
+![Section Papers](https://img.shields.io/badge/Section%20Papers-45-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Improving Multi-Modal Emotion Recognition using Entropy-based Fusion and Pruning-based Network Architecture Optimization |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447231-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447231) | :heavy_minus_sign: |
+| Improving Speaker-Independent Speech Emotion Recognition using Dynamic Joint Distribution Adaptation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447452-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447452) | :heavy_minus_sign: |
+| Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446974-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446974) | :heavy_minus_sign: |
+| Revealing Emotional Clusters in Speaker Embeddings: A Contrastive Learning Strategy for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447060-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447060) | :heavy_minus_sign: |
+| Generalization of Self-Supervised Learning-based Representations for Cross-Domain Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447678-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447678) | :heavy_minus_sign: |
+| Improving Speech Emotion Recognition with Unsupervised Speaking Style Transfer |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446186-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446186) | :heavy_minus_sign: |
+| Foundation Model Assisted Automatic Speech Emotion Recognition: Transcribing, Annotating, and Augmenting |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448130-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448130) | :heavy_minus_sign: |
+| CLAP4Emo: ChatGPT-Assisted Speech Emotion Retrieval with Natural Language Supervision |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447102-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447102) | :heavy_minus_sign: |
+| EMOCONV-Diff: Diffusion-based Speech Emotion Conversion for Non-Parallel and in-the-Wild Data |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447372-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447372) | :heavy_minus_sign: |
+| Large Language Model-based Emotional Speech Annotation using Context and Acoustic Feature for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448316-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448316) | :heavy_minus_sign: |
+| Leveraging Speech PTM, Text LLM, and Emotional TTS for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445906-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445906) | :heavy_minus_sign: |
+| Customising General Large Language Models for Specialised Emotion Recognition Tasks |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447044-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447044) | :heavy_minus_sign: |
+| RL-EMO: A Reinforcement Learning Framework for Multimodal Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446459-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446459) | :heavy_minus_sign: |
+| Zero Shot Audio to Audio Emotion Transfer with Speaker Disentanglement |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445962-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445962) | :heavy_minus_sign: |
+| TRUST-SER: On the Trustworthiness of Fine-Tuning Pre-Trained Speech Embeddings for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446616-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446616) | :heavy_minus_sign: |
+| STYLECAP: Automatic Speaking-Style Captioning from Speech based on Speech and Language Self-Supervised Learning Models |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445977-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445977) | :heavy_minus_sign: |
+| Frame-Level Emotional State Alignment Method for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446812-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446812) | :heavy_minus_sign: |
+| Gradient-based Dimensionality Reduction for Speech Emotion Recognition using Deep Networks |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447616-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447616) | :heavy_minus_sign: |
+| Disentanglement Network: Disentangle the Emotional Features from Acoustic Features for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448044-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448044) | :heavy_minus_sign: |
+| Balancing Speaker-Rater Fairness for Gender-Neutral Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447167-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447167) | :heavy_minus_sign: |
+| Prompting Audios using Acoustic Properties for Emotion Representation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448213-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448213) | :heavy_minus_sign: |
+| Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445890-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445890) | :heavy_minus_sign: |
+| A Robust Pitch-Fusion Model for Speech Emotion Recognition in Tonal Languages |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448373-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448373) | :heavy_minus_sign: |
+| Modeling Intrapersonal and Interpersonal Influences for Automatic Estimation of Therapist Empathy in Counseling Conversation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447426-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447426) | :heavy_minus_sign: |
+| Towards Improving Speech Emotion Recognition using Synthetic Data Augmentation from Emotion Conversion |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445740-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445740) | :heavy_minus_sign: |
+| Emohrnet: High-Resolution Neural Network based Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446976-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446976) | :heavy_minus_sign: |
+| Fine-Grained Disentangled Representation Learning for Multimodal Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447667-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447667) | :heavy_minus_sign: |
+| Investigating Salient Representations and Label Variance in Dimensional Speech Emotion Analysis |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446606-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446606) | :heavy_minus_sign: |
+| Adaptive Speech Emotion Representation Learning based on Dynamic Graph |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447829-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447829) | :heavy_minus_sign: |
+| Enhancing Two-Stage Finetuning for Speech Emotion Recognition using Adapters |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446645-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446645) | :heavy_minus_sign: |
+| Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447726-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447726) | :heavy_minus_sign: |
+| Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446541-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446541) | :heavy_minus_sign: |
+| Dynamic Speech Emotion Recognition using a Conditional Neural Process |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447805-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447805) | :heavy_minus_sign: |
+| MS-SENet: Enhancing Speech Emotion Recognition through Multi-Scale Feature Fusion with Squeeze-and-Excitation Blocks |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447232-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447232) | :heavy_minus_sign: |
+| GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448394-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448394) | :heavy_minus_sign: |
+| Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446499-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446499) | :heavy_minus_sign: |
+| Self-Supervised Domain Exploration with an Optimal Transport Regularization for Open Set Cross-Domain Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447482-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447482) | :heavy_minus_sign: |
+| Multi-Modal Emotion Recognition using Multiple Acoustic Features and Dual Cross-Modal Transformer |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447830-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447830) | :heavy_minus_sign: |
+| Speech Relationship Learning for Cross-Corpus Speech Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446440-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446440) | :heavy_minus_sign: |
+| Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446272-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446272) | :heavy_minus_sign: |
+| MF-AED-AEC: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, and Asr Error Correction |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446548-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446548) | :heavy_minus_sign: |
+| Improving Domain Generalization in Speech Emotion Recognition with Whisper |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446997-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446997) | :heavy_minus_sign: |
+| Comparing Data-Driven and Handcrafted Features for Dimensional Emotion Recognition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446134-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446134) | :heavy_minus_sign: |
+| Speech Emotion Recognition with Distilled Prosodic and Linguistic Affect Representations |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448505-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448505) | :heavy_minus_sign: |
+| MCM-CSD: Multi-Granularity Context Modeling with Contrastive Speaker Detection for Emotion Recognition in Real-Time Conversation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446410-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446410) | :heavy_minus_sign: |
