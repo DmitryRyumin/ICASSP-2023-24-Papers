@@ -1,6 +1,8 @@
-# ![ICASSP-2024-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICASSP-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=ICASSP-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ICASSP-2024-Papers">
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td><strong>General Information</strong></td>
     <td>
