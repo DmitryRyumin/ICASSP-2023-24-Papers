@@ -33,7 +33,7 @@
 
 ## Language Resources, Metrics and Systems
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -44,7 +44,7 @@
 | SADA: Saudi Audio Dataset for Arabic | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446243-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446243) | :heavy_minus_sign: |
 | Leveraging Data Collection and Unsupervised Learning for Code-Switched Tunisian Arabic Automatic Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445734-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445734) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.11327-b31b1b.svg)](https://arxiv.org/abs/2309.11327) | :heavy_minus_sign: |
 | S-Evaluator: Enhance Factual Consistency Evaluator with Adversarial Data Synthesized by Large Language Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448276-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448276) | :heavy_minus_sign: |
-| Can ChatGPT Serve as a Multi-Criteria Decision Maker? A Novel Approach to Supplier Evaluation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447204-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447204) | :heavy_minus_sign: |
+| Can ChatGPT Serve as a Multi-Criteria Decision Maker? A Novel Approach to Supplier Evaluation | [![GitHub](https://img.shields.io/github/stars/lightwxy/chatgpt_as_decision_maker?style=flat)](https://github.com/lightwxy/chatgpt_as_decision_maker) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447204-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447204) | :heavy_minus_sign: |
 | TextrolSpeech: A Text Style Control Speech Corpus with Codec Language Text-to-Speech Models | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://sall-e.github.io/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445879-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445879) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2308.14430-b31b1b.svg)](https://arxiv.org/abs/2308.14430) | :heavy_minus_sign: |
 | Communication-Oriented Automatic Assessment System for Accented Spoken Chinese in Read-Aloud Tasks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447598-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447598) | :heavy_minus_sign: |
 | Bridging the Gap: A Self-Learning Model using Implicit Knowledge for Chinese Spelling Correction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448357) | :heavy_minus_sign: |
