@@ -937,14 +937,9 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                e-Prevention Challenge: Psychotic and Non-Psychotic Relapse Detection using Wearable-based Digital Phenotyping
-            </td>
-            <td colspan="4" rowspan="160" align="center"><i>Will soon be added</i></td>
-        </tr>
-        <tr>
-            <td>
                 Machine Learning for Communications
             </td>
+            <td colspan="4" rowspan="159" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>

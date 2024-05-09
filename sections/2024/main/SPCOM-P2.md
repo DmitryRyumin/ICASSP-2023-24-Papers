@@ -20,7 +20,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L2.md">
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-L2.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/">
@@ -37,4 +37,13 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Data-Aided Channel Estimation Utilizing Gaussian Mixture Models |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447974-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447974) |  |
+| Correlation-based Machine Learning Techniques for Channel Estimation with Fluid Antennas |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447499-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447499) |  |
+| Learnable Statistical Moments Pooling for Automatic Modulation Classification |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446295-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446295) |  |
+| CRC-Aided Learned Ensembles of Belief-Propagation Polar Decoders |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447608-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447608) |  |
+| PJSCC: A Puncturing-based Joint Source Channel Coding Scheme with Hierarchical Down-Sampling Layer |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446143-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446143) |  |
+| Privacy-Aware Joint Source-Channel Coding for Image Transmission based on Disentangled Information Bottleneck |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447157-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447157) |  |
+| Deep Optimization of Relay Networks-using Relays as Neurons |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447401-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447401) |  |
+| Deep Reinforcement Learning for Energy Minimization in Multi-RIS-Aided Cell-Free MEC Networks |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447551-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447551) |  |
+| Towards Faster End-to-End Data Transmission Over Voice Channels |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447419-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447419) |  |
+| Fast and Accurate Root Cause Analysis based on Signalling Messages for 5G Networks |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448369-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448369) |  |
