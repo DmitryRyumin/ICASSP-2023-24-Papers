@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Multiple Player Tracking with 3D Projection and Spatio-Temporal Information in Multi-View Sports Videos |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448138-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448138) |  |
+| Visual Adapt for RGBD Tracking |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447728-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447728) |  |
+| Multiple Object Tracking based on Occlusion-Aware Embedding Consistency Learning |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446647-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446647) |  |
+| Ranking of Visual Trackers using Robust Error Norms |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446305-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446305) |  |
+| Multi-Sensor Multi-Scan Radar Sensing of Multiple Extended Targets |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446853-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446853) |  |
+| Risk-Managed Sparse Index Tracking via Market Graph Clustering |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447211-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447211) |  |
