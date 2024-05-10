@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| SPY-Watermark: Robust Invisible Watermarking for Backdoor Attack | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448363-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448363) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.02031-b31b1b.svg)](https://arxiv.org/abs/2401.02031) | :heavy_minus_sign: |
+| Scale-Free And Task-Generic Attack: Generating Photo-Realistic Adversarial Patterns With Patch Quilting Generator |  [![GitHub](https://img.shields.io/github/stars/XiangboGaoBarry/PQAttack?style=flat)](https://github.com/XiangboGaoBarry/PQAttack) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447287-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447287) | :heavy_minus_sign: |
+| WaterDiff: Perceptual Image Watermarks Via Diffusion Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447095-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447095) | :heavy_minus_sign: |
+| DITW: A High-Performance Deep-Independent Template-Based Watermarking | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445860-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445860) | :heavy_minus_sign: |
+| DSIS: A Novel (K,N) Threshold Deniable Secret Image Sharing Scheme with Lossless Recovery | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445965-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445965) | :heavy_minus_sign: |
+| Adaptive-Avg-Pooling Based Attention Vision Transformer for Face Anti-Spoofing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446940-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446940) | :heavy_minus_sign: |
