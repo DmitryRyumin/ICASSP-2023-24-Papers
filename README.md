@@ -1007,6 +1007,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             <td>
                 Image, Video, and 3D Content Generation
             </td>
+            <td colspan="4" rowspan="155" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
