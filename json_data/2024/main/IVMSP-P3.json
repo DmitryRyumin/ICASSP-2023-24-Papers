@@ -28,7 +28,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Gradient and Brightness Guided Low-Light Enhancement with Attention-Based Self-Paced Learning",
+    "title": "Gradient and Brightness Guided Low-Light Enhancement with Attention-based Self-Paced Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448307",
@@ -56,7 +56,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Implicit Neural Representation For Low-Overhead Graph-Based Holographic-Type Communications",
+    "title": "Implicit Neural Representation for Low-Overhead Graph-based Holographic-Type Communications",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10445857",
@@ -112,7 +112,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "DONE: Dynamic Neural Representation Via Hyperplane Neural ODE",
+    "title": "DONE: Dynamic Neural Representation via Hyperplane Neural ODE",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446247",
@@ -224,7 +224,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "HENet: Hyperbolic-Based Encoder-Decoder Network for Word Spotting in Historical Mongolian Documents",
+    "title": "HENet: Hyperbolic-based Encoder-Decoder Network for Word Spotting in Historical Mongolian Documents",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446514",
@@ -252,7 +252,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Complementary Fusion Network Based on Frequency Hybrid Attention for Pansharpening",
+    "title": "Complementary Fusion Network based on Frequency Hybrid Attention for Pansharpening",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446416",
@@ -284,7 +284,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448364",
-    "github": null,
+    "github": "Dmsw/RGB-IMAGES-ENHANCING-HYPERSPECTRAL-IMAGE-DENOISING-WITH-DIFFUSION-MODEL",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -364,7 +364,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "MAS-NET:Mixed-Feature Attention Siamese Network for Change Detection on Remote Sensing Images",
+    "title": "MAS-NET: Mixed-Feature Attention Siamese Network for Change Detection on Remote Sensing Images",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446328",
@@ -392,7 +392,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Corner Detection Based on a Rotation-Invariant and Noise-Insensitive Curvature Measurement",
+    "title": "Corner Detection based on a Rotation-Invariant and Noise-Insensitive Curvature Measurement",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10445964",
@@ -420,7 +420,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Multi-Object Tracking for Unmanned Aerial Vehicles Based on Multi-Frame Feature Fusion",
+    "title": "Multi-Object Tracking for Unmanned Aerial Vehicles based on Multi-Frame Feature Fusion",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447050",
@@ -504,7 +504,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Dynamic Clustering and Cluster Contrastive Learning for Unsupervised Person Re-Id With Feature Distribution Alignment",
+    "title": "Dynamic Clustering and Cluster Contrastive Learning for Unsupervised Person Re-Id with Feature Distribution Alignment",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447711",
@@ -560,7 +560,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "Facial Aesthetic Enhancement Network for Asian Faces Based on Differential Facial Aesthetic Activations",
+    "title": "Facial Aesthetic Enhancement Network for Asian Faces based on Differential Facial Aesthetic Activations",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447427",
@@ -588,7 +588,7 @@
     "section": "Deep Learning for Image and Video Processing"
   },
   {
-    "title": "AttentionLUT: Attention Fusion-Based Canonical Polyadic LUT for Real-Time Image Enhancement",
+    "title": "AttentionLUT: Attention Fusion-based Canonical Polyadic LUT for Real-Time Image Enhancement",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10445905",

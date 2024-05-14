@@ -1,6 +1,6 @@
 [
   {
-    "title": "Are Soft Prompts Good Zero-shot Learners For Speech Recognition?",
+    "title": "Are Soft Prompts Good Zero-Shot Learners for Speech Recognition?",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447746",
@@ -28,7 +28,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Towards Universal Speech Discrete Tokens: A Case Study For ASR And TTS",
+    "title": "Towards Universal Speech Discrete Tokens: A Case Study for ASR and TTS",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447751",
@@ -56,7 +56,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Unsupervised Speech Recognition With N-skipgram And Positional Unigram Matching",
+    "title": "Unsupervised Speech Recognition with N-Skipgram and Positional Unigram Matching",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446327",
@@ -84,7 +84,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "BRAVEn: Improving Self-supervised Pre-training For Visual And Auditory Speech Recognition",
+    "title": "BRAVEn: Improving Self-Supervised Pre-training for Visual and Auditory Speech Recognition",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448473",
@@ -112,7 +112,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Revisiting Self-supervised Learning Of Speech Representation From A Mutual Information Perspective",
+    "title": "Revisiting Self-Supervised Learning of Speech Representation from a Mutual Information Perspective",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447758",
@@ -140,7 +140,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Dynamic-superb: Towards A Dynamic, Collaborative, And Comprehensive Instruction-tuning Benchmark For Speech",
+    "title": "Dynamic-Superb: Towards a Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448257",
@@ -168,7 +168,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Large Scale Self-supervised Pretraining For Active Speaker Detection",
+    "title": "Large Scale Self-Supervised Pretraining for Active Speaker Detection",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447899",
@@ -196,11 +196,11 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "STaR: Distilling Speech Temporal Relation For Lightweight Speech Self-supervised Learning Models",
+    "title": "STaR: Distilling Speech Temporal Relation for Lightweight Speech Self-Supervised Learning Models",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447928",
-    "github": null,
+    "github": "sungnyun/ARMHuBERT",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -224,13 +224,13 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Data Driven Grapheme-to-phoneme Representations For A Lexicon-free Text-to-speech",
+    "title": "Data Driven Grapheme-to-Phoneme Representations for a Lexicon-Free Text-to-Speech",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446275",
     "github": null,
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://abhinavg4.github.io/g2p/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -252,7 +252,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Self-supervised Adaptive Pre-training Of Multilingual Speech Models For Language And Dialect Identification",
+    "title": "Self-Supervised Adaptive Pre-Training of Multilingual Speech Models for Language and Dialect Identification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446053",
@@ -280,7 +280,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Bootstrap Predictive Coding: Investigating A Non-contrastive Self-supervised Learning Approach",
+    "title": "Bootstrap Predictive Coding: Investigating a Non-Contrastive Self-Supervised Learning Approach",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447173",
@@ -308,7 +308,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Hubertopic: Enhancing Semantic Representation Of Hubert Through Self-supervision Utilizing Topic Model",
+    "title": "Hubertopic: Enhancing Semantic Representation of Hubert through Self-Supervision Utilizing Topic Model",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448052",
@@ -336,7 +336,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "SD-HuBERT: Sentence-level Self-distillation Induces Syllabic Organization In Hubert",
+    "title": "SD-HuBERT: Sentence-Level Self-Distillation Induces Syllabic Organization in Hubert",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446062",
@@ -364,11 +364,11 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "SCORE: Self-supervised Correspondence Fine-tuning For Improved Content Representations",
+    "title": "SCORE: Self-Supervised Correspondence Fine-Tuning for Improved Content Representations",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448060",
-    "github": null,
+    "github": "Trikaldarshi/SCORE_Finetuning",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -392,7 +392,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation",
+    "title": "Enhancing Pre-Trained ASR System Fine-Tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447702",
@@ -420,7 +420,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Learning Contextualized Representation On Discrete Space Via Hierarchical Product Quantization",
+    "title": "Learning Contextualized Representation on Discrete Space via Hierarchical Product Quantization",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446474",
@@ -448,7 +448,7 @@
     "section": "Self-Supervised Learning for Speech Processing"
   },
   {
-    "title": "Self-supervised Speaker Verification Employing A Novel Clustering Algorithm",
+    "title": "Self-Supervised Speaker Verification Employing a Novel Clustering Algorithm",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447101",
@@ -464,34 +464,6 @@
     "demo_page": null,
     "paper_thecvf": null,
     "paper_arxiv_id": null,
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "Self-Supervised Learning for Speech Processing"
-  },
-  {
-    "title": "Representation Learning With Hidden Unit Clustering For Low Resource Speech Applications",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": "10339798",
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": "2307.07325",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,

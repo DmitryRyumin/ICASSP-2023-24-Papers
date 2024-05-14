@@ -28,7 +28,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "Scale-Free And Task-Generic Attack: Generating Photo-Realistic Adversarial Patterns With Patch Quilting Generator",
+    "title": "Scale-Free and Task-Generic Attack: Generating Photo-Realistic Adversarial Patterns with Patch Quilting Generator",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447287",
@@ -56,7 +56,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "WaterDiff: Perceptual Image Watermarks Via Diffusion Model",
+    "title": "WaterDiff: Perceptual Image Watermarks via Diffusion Model",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447095",
@@ -84,7 +84,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "DITW: A High-Performance Deep-Independent Template-Based Watermarking",
+    "title": "DITW: A High-Performance Deep-Independent Template-based Watermarking",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10445860",
@@ -140,7 +140,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "Adaptive-Avg-Pooling Based Attention Vision Transformer for Face Anti-Spoofing",
+    "title": "Adaptive-Avg-Pooling based Attention Vision Transformer for Face Anti-Spoofing",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446940",
@@ -155,7 +155,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2401.04953",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -196,7 +196,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "Highlight Removal Network Based on an Improved Dichromatic Reflection Model",
+    "title": "Highlight Removal Network based on an Improved Dichromatic Reflection Model",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447916",
@@ -224,7 +224,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "Privacy Preserving Gaze Estimation Via Federated Learning Adapted To Egocentric Video",
+    "title": "Privacy Preserving Gaze Estimation via Federated Learning Adapted to Egocentric Video",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446696",
@@ -280,7 +280,7 @@
     "section": "Image and Video Processing for Watermarking and Security"
   },
   {
-    "title": "Joint Demosaicing And Denoising With Double Deep Image Priors",
+    "title": "Joint Demosaicing and Denoising with Double Deep Image Priors",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448384",
