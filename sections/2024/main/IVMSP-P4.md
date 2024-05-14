@@ -37,4 +37,5 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Adaptive Multi-Exposure Fusion for Enhanced Neural Radiance Fields | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447942-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447942) | :heavy_minus_sign: |
+| DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields For High-Fidelity Talking Portrait Synthesis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448446-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448446) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.07752-b31b1b.svg)](https://arxiv.org/abs/2309.07752) | :heavy_minus_sign: |
