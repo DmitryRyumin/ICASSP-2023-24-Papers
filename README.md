@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 741/2712 -->
+      <!-- 765/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/27?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/28?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1005,14 +1005,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Image, Video, and 3D Content Generation
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P4.md">Image, Video, and 3D Content Generation</a>
             </td>
-            <td colspan="4" rowspan="155" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P4.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P4.md"><img src="https://img.shields.io/badge/10-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P4.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P4.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 Classification of Acoustic Scenes and Events
             </td>
+            <td colspan="4" rowspan="154" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
