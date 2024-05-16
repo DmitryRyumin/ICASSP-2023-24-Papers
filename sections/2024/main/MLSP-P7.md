@@ -37,4 +37,15 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> <i>Will soon be added</i>
+| Hyperbolic Diffusion Procrustes Analysis for Intrinsic Representation of Hierarchical Data Sets |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446370-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446370) | :heavy_minus_sign: |
+| An Efficient Alternating Riemannian/Projected Gradient Descent Ascent Algorithm for Fair Principal Component Analysis |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447172-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447172) | :heavy_minus_sign: |
+| Local Distance Correlation Embedding for Time-Series Analysis on Riemannian Manifolds |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446123-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446123) | :heavy_minus_sign: |
+| Joint Embedding Learning and Latent Subspace Probing for Cross-Domain Few-Shot Keyword Spotting |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446764-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446764) | :heavy_minus_sign: |
+| Tensor-Guided Interpolation for Off-Grid Power Spectrum Map Construction |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446109-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446109) | :heavy_minus_sign: |
+| Joint INDSCAL Decomposition Meets Blind Source Separation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447387-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447387) | :heavy_minus_sign: |
+| Tensorial Convolutive Blind Source Separation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447269-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447269) | :heavy_minus_sign: |
+| An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447395-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447395) | :heavy_minus_sign: |
+| Phase Retrieval by Tensor Total Least Squares |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447076-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447076) | :heavy_minus_sign: |
+| Leveraging Tensor Subspace Prior: Enhanced Sum of Nuclear Norm Minimization for Tensor Completion |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447654) | :heavy_minus_sign: |
+| Target Localization based on Multistatic Mimo Radar via Double Coupled Canonical Polyadic Decomposition |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447271-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447271) | :heavy_minus_sign: |
+| Spatiotemporal Group Anomaly Detection via Graph Total Variation on Tensors |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448399-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448399) | :heavy_minus_sign: |
