@@ -43,15 +43,15 @@
 | Adaptive Parameter Sharing for Multi-Agent Reinforcement Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447262-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447262) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.09009-b31b1b.svg)](https://arxiv.org/abs/2312.09009) | :heavy_minus_sign: |
 | A Meta-Preconditioning Approach for Deep Q-Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446137-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446137) | :heavy_minus_sign: |
 | MEPE: A Minimalist Ensemble Policy Evaluation Operator for Deep Reinforcement Learning | [![GitHub](https://img.shields.io/github/stars/sweetice/MEPE?style=flat)](https://github.com/sweetice/MEPE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448009-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448009) | :heavy_minus_sign: |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Tensor Low-Rank Approximation of Finite-Horizon Value Functions |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448465-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448465) | :heavy_minus_sign: |
+| Offline Reinforcement Learning with Generative Adversarial Networks and Uncertainty Estimation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446266-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446266) | :heavy_minus_sign: |
+| Offline Reinforcement Learning based on Next State Supervision |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446781-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446781) | :heavy_minus_sign: |
+| Proximal Bellman Mappings for Reinforcement Learning and Their Application to Robust Adaptive Filtering |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446701-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446701) | :heavy_minus_sign: |
+| A Robust Quantile Huber Loss with Interpretable Parameter Adjustment in Distributional Reinforcement Learning |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447501-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447501) | :heavy_minus_sign: |
+| Graph-Enhanced Hybrid Sampling for Multi-Armed Bandit Recommendation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446562-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446562) | :heavy_minus_sign: |
+| Interpretable Policy Extraction with Neuro-Symbolic Reinforcement Learning |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446037-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446037) | :heavy_minus_sign: |
+| Self-Supervised Reinforcement Learning for Out-of-Distribution Recovery via Auxiliary Reward |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447216) | :heavy_minus_sign: |
+| Offline Reinforcement Learning with Policy Guidance and Uncertainty Estimation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447908-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447908) | :heavy_minus_sign: |
+| Multi-Agent Sparse Interaction Modeling is an Anomaly Detection Problem |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446644-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446644) | :heavy_minus_sign: |
+| A New Pre-Training Paradigm for Offline Multi-Agent Reinforcement Learning with Suboptimal Data |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448500-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448500) | :heavy_minus_sign: |
+| Trend-Heuristic Reinforcement Learning Framework for News-Oriented Stock Portfolio Management |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447993-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447993) | :heavy_minus_sign: |
