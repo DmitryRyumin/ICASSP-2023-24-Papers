@@ -1092,6 +1092,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             <td>
                 Machine Learning, Detection and Classification
             </td>
+            <td colspan="4" rowspan="150" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
