@@ -1131,6 +1131,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             <td>
                 Multimedia Generation and Synthesis
             </td>
+            <td colspan="4" rowspan="148" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
