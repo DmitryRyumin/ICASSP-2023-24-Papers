@@ -37,4 +37,5 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> <i>Will soon be added</i>
+| Enhancing Realism In 3D Facial Animation Using Conformer-Based Generation And Automated Post-Processing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447526-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447526) | :heavy_minus_sign: |
+| SIMFALL: A Data Generator For RF-Based Fall Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446234) | :heavy_minus_sign: |
