@@ -37,4 +37,14 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> <i>Will soon be added</i>
+| Enhancing Realism in 3D Facial Animation using Conformer-based Generation and Automated Post-Processing |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447526-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447526) | :heavy_minus_sign: |
+| SIMFALL: A Data Generator for RF-based Fall Detection |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446234) | :heavy_minus_sign: |
+| Talking Face Generation for Impression Conversion Considering Speech Semantics |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446947-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446947) | :heavy_minus_sign: |
+| Visually Guided Binaural Audio Generation with Cross-Modal Consistency |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446399-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446399) | :heavy_minus_sign: |
+| Binauralmusic: A Diverse Dataset for Improving Cross-Modal Binaural Audio Generation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448509-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448509) | :heavy_minus_sign: |
+| Enhancing Spatial Audio Generation with Source Separation and Channel Panning Loss |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447970-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447970) | :heavy_minus_sign: |
+| Text-Driven Talking Face Synthesis by Reprogramming Audio-Driven Models |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448506-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448506) | :heavy_minus_sign: |
+| EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447505-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447505) | :heavy_minus_sign: |
+| Speech-Driven Emotional 3D Talking Face Animation using Emotional Embeddings |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446842-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446842) | :heavy_minus_sign: |
+| PhISANet: Phonetically Informed Speech Animation Network |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448411-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448411) | :heavy_minus_sign: |
+| Enhancing Image-Text Matching with Adaptive Feature Aggregation |  | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446913-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446913) | :heavy_minus_sign: |
