@@ -33,8 +33,19 @@
 
 ## Multimedia Forensics and Cybersecurity
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
->To be added soon
+| Towards Generic Deepfake Detection with Dynamic Curriculum | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448345-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448345) | :heavy_minus_sign: |
+| A One-Class Approach To Detect Super-Resolution Satellite Imagery with Spectral Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446619-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446619) | :heavy_minus_sign: |
+| A Codec-Based Approach for Video Life-Cycle Characterization in Social Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447289-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447289) | :heavy_minus_sign: |
+| Audio Transformer for Synthetic Speech Detection via Formant Magnitude and Phase Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445932-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445932) | :heavy_minus_sign: |
+| Innovative Methods for Non-Destructive Inspection of Handwritten Documents | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448383-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448383) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.11217-b31b1b.svg)](https://arxiv.org/abs/2310.11217) | :heavy_minus_sign: |
+| Effective Image Tampering Localization via Enhanced Transformer and Co-Attention Fusion | [![GitHub](https://img.shields.io/github/stars/multimediaFor/EITLNet?style=flat)](https://github.com/multimediaFor/EITLNet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446332-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446332) | :heavy_minus_sign: |
+| Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection | [![GitHub](https://img.shields.io/github/stars/Vincent-ZHQ/MRDF?style=flat)](https://github.com/Vincent-ZHQ/MRDF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447248-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447248) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.05746-b31b1b.svg)](https://arxiv.org/abs/2401.05746) | :heavy_minus_sign: |
+| Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446261-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446261) | :heavy_minus_sign: |
+| FUR-API: Dataset and Baselines Toward Realistic API Anomaly Detection | [![GitHub](https://img.shields.io/github/stars/yijunL/FUR-API?style=flat)](https://github.com/yijunL/FUR-API) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446512-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446512) | :heavy_minus_sign: |
+| Controllable Semantic Linguistic Steganography via Summarization Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447545-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447545) | :heavy_minus_sign: |
+| Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448244-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448244) | :heavy_minus_sign: |
+| HySense: Hybrid Event Occurrence Detection Method for IoT Devices | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447831-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447831) | :heavy_minus_sign: |
