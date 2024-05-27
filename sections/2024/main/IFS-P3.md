@@ -38,7 +38,7 @@
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Towards Generic Deepfake Detection with Dynamic Curriculum | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448345-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448345) | :heavy_minus_sign: |
-| A One-Class Approach To Detect Super-Resolution Satellite Imagery with Spectral Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446619-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446619) | :heavy_minus_sign: |
+| A One-Class Approach to Detect Super-Resolution Satellite Imagery with Spectral Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446619-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446619) | :heavy_minus_sign: |
 | A Codec-Based Approach for Video Life-Cycle Characterization in Social Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447289-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447289) | :heavy_minus_sign: |
 | Audio Transformer for Synthetic Speech Detection via Formant Magnitude and Phase Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445932-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445932) | :heavy_minus_sign: |
 | Innovative Methods for Non-Destructive Inspection of Handwritten Documents | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448383-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448383) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.11217-b31b1b.svg)](https://arxiv.org/abs/2310.11217) | :heavy_minus_sign: |
