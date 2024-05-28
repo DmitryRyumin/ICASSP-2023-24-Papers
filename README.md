@@ -73,7 +73,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 916/2712 -->
+      <!-- 932/2712 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/34?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
