@@ -1,12 +1,12 @@
 [
   {
-    "title": "High-Accuracy Anxiety Disorder Identification Through Subspace-Enhanced Hypergraph Neural Network",
+    "title": "High-Accuracy Anxiety Disorder Identification through Subspace-Enhanced Hypergraph Neural Network",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446508",
     "github": null,
     "web_page": null,
-    "github_page": "https://github.com/BiolabHHU",
+    "github_page": null,
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -28,7 +28,7 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "ADHD Diagnosis and Biomarker Detection Based on Multimodal Graph Convolutional Neural Network",
+    "title": "ADHD Diagnosis and Biomarker Detection based on Multimodal Graph Convolutional Neural Network",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446345",
@@ -84,7 +84,7 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "SPTESleepNet: Automatic Sleep Staging Model Based On Strip Patch Embeddings And Transformer Encoder",
+    "title": "SPTESleepNet: Automatic Sleep Staging Model based On Strip Patch Embeddings and Transformer Encoder",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446216",
@@ -140,7 +140,7 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Multimodal Breathing Rate Estimation Using Facial Motion and RPPG From RGB Camera",
+    "title": "Multimodal Breathing Rate Estimation using Facial Motion and RPPG from RGB Camera",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446086",
@@ -252,7 +252,7 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Predicting RTMS Treatment Effects Using Open-Loop Control and Neural Manifold",
+    "title": "Predicting RTMS Treatment Effects using Open-Loop Control and Neural Manifold",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448375",
@@ -280,7 +280,7 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "A Novel Multi-Atlas Fusion Model Based On Contrastive Learning For Functional Connectivity Graph Diagnosis",
+    "title": "A Novel Multi-Atlas Fusion Model based On Contrastive Learning for Functional Connectivity Graph Diagnosis",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446691",
@@ -308,11 +308,11 @@
     "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological Whole Slide Images",
+    "title": "Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological whole Slide Images",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446708",
-    "github": "jinxixiang/low_rank_wsi",
+    "github": null,
     "web_page": null,
     "github_page": null,
     "colab": null,
