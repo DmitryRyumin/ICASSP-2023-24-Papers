@@ -33,7 +33,7 @@
 
 ## Emerging Methods for Biomedical Image and Signal Processing
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -48,4 +48,4 @@
 | Estimating Directed Spectral Information Flow between Multi-Resolution Time Series | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446801-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446801) | :heavy_minus_sign: |
 | Predicting RTMS Treatment Effects using Open-Loop Control and Neural Manifold | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448375-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448375) | :heavy_minus_sign: |
 | A Novel Multi-Atlas Fusion Model based On Contrastive Learning for Functional Connectivity Graph Diagnosis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446691-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446691) | :heavy_minus_sign: |
-| Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological whole Slide Images | [![GitHub](https://img.shields.io/github/stars/jinxixiang/low_rank_wsi?style=flat)](https://github.com/jinxixiang/low_rank_wsi) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446708-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446708) | :heavy_minus_sign: |
+| Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological whole Slide Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446708-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446708) | :heavy_minus_sign: |
