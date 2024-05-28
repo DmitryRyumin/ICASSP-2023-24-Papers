@@ -56,7 +56,7 @@
     "section": "Multimedia Forensics and Cybersecurity"
   },
   {
-    "title": "A Codec-Based Approach for Video Life-Cycle Characterization in Social Networks",
+    "title": "A Codec-based Approach for Video Life-Cycle Characterization in Social Networks",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447289",
@@ -117,7 +117,7 @@
     "title_page": null,
     "ieee_id": "10448383",
     "github": null,
-    "web_page": null,
+    "web_page": "https://iplab.dmi.unict.it/mfs/forensic-handwriting-analysis/innovative-methods-2023/",
     "github_page": null,
     "colab": null,
     "modelscope": null,
@@ -155,7 +155,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2309.09306",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -168,7 +168,7 @@
     "section": "Multimedia Forensics and Cybersecurity"
   },
   {
-    "title": "Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection",
+    "title": "Cross-Modality and within-Modality Regularization for Audio-Visual DeepFake Detection",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447248",
@@ -280,7 +280,7 @@
     "section": "Multimedia Forensics and Cybersecurity"
   },
   {
-    "title": "Security Equivalence Assessment Between Cloud Standards by Mapping of Control Items",
+    "title": "Security Equivalence Assessment between Cloud Standards by Mapping of Control Items",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448244",

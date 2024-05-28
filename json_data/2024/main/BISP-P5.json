@@ -1,12 +1,12 @@
 [
   {
-    "title": "Multi-Antenna ISAC Receiver with n-Tuple Blind Deconvolution",
+    "title": "High-Accuracy Anxiety Disorder Identification Through Subspace-Enhanced Hypergraph Neural Network",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10445951",
+    "ieee_id": "10446508",
     "github": null,
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://github.com/BiolabHHU",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -25,13 +25,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Multivariate Density Estimation using Low-Rank Fejér-Riesz Factorization",
+    "title": "ADHD Diagnosis and Biomarker Detection Based on Multimodal Graph Convolutional Neural Network",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10446961",
+    "ieee_id": "10446345",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -53,13 +53,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Large Covariance Matrix Estimation based on Factor Models via Nonconvex Optimization",
+    "title": "HIQ: One-Shot Network Quantization for Histopathological Image Classification",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10447865",
+    "ieee_id": "10448472",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -81,13 +81,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Mesh-RTUME: Universal Manifold Embedding for Estimating 3D Rigid Transformations of Surfaces",
+    "title": "SPTESleepNet: Automatic Sleep Staging Model Based On Strip Patch Embeddings And Transformer Encoder",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10448159",
+    "ieee_id": "10446216",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -109,13 +109,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Robust Regression Analysis based on the K-Divergence",
+    "title": "GM-VRC: Semantic Topological Data Ensemble Approach for EEG Signal Classification",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10447931",
+    "ieee_id": "10446927",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -137,13 +137,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Blind Separation of Noisy Mixtures Over Galois Fields",
+    "title": "Multimodal Breathing Rate Estimation Using Facial Motion and RPPG From RGB Camera",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10447028",
+    "ieee_id": "10446086",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -165,13 +165,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Cyclic Misspecified Cramer-Rao Bound for Periodic Parameter Estimation",
+    "title": "A Neural Syntax Parser for Coronary Artery Anatomical Labeling in Coronary CT Angiography",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10445845",
+    "ieee_id": "10448334",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -193,13 +193,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Symmetric VAR(1) Modelling with Guaranteed Stability",
+    "title": "Addressing Confounds in Functional Connectivity Analyses of Calcium Imaging",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10446278",
+    "ieee_id": "10447836",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -221,13 +221,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Vector Nonlinear Hawkes Model with Inhibition",
+    "title": "Estimating Directed Spectral Information Flow between Multi-Resolution Time Series",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10447472",
+    "ieee_id": "10446801",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -249,13 +249,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Adaptive Fourier Decomposition based Signal Extraction on Weak Electromagnetic Field",
+    "title": "Predicting RTMS Treatment Effects Using Open-Loop Control and Neural Manifold",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10448200",
+    "ieee_id": "10448375",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -277,13 +277,13 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "A Modified Cramér-Rao Bound for Discrete-Time Markovian Dynamic Systems",
+    "title": "A Novel Multi-Atlas Fusion Model Based On Contrastive Learning For Functional Connectivity Graph Diagnosis",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10446252",
+    "ieee_id": "10446691",
     "github": null,
     "web_page": null,
     "github_page": null,
@@ -305,14 +305,14 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   },
   {
-    "title": "Asymptotically Tight Misspecified Bayesian Cramér-Rao Bound",
+    "title": "Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological Whole Slide Images",
     "base_url": null,
     "title_page": null,
-    "ieee_id": "10448099",
-    "github": null,
+    "ieee_id": "10446708",
+    "github": "jinxixiang/low_rank_wsi",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -333,62 +333,6 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Estimation Theory and Methods"
-  },
-  {
-    "title": "Learning the Barankin Lower Bound on DOA Estimation Error",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": "10446725",
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": null,
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "Estimation Theory and Methods"
-  },
-  {
-    "title": "Misspecified Time-Delay and Doppler Estimation over Non Gaussian Scenarios",
-    "base_url": null,
-    "title_page": null,
-    "ieee_id": "10446955",
-    "github": null,
-    "web_page": null,
-    "github_page": null,
-    "colab": null,
-    "modelscope": null,
-    "gitee": null,
-    "gitlab": null,
-    "zenodo": null,
-    "kaggle": null,
-    "demo_page": null,
-    "paper_thecvf": null,
-    "paper_arxiv_id": null,
-    "paper_pdf": null,
-    "paper_hal_science": null,
-    "paper_researchgate": null,
-    "paper_amazon": null,
-    "youtube_id": null,
-    "drive_google": null,
-    "dropbox": null,
-    "onedrive": null,
-    "loom": null,
-    "section": "Estimation Theory and Methods"
+    "section": "Emerging Methods for Biomedical Image and Signal Processing"
   }
 ]
