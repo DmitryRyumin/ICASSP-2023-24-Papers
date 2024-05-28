@@ -424,7 +424,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448326",
-    "github": "Yuda-Jin/D-2-Net",
+    "github": "switch626/CCG-CL",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -452,7 +452,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448305",
-    "github": null,
+    "github": "xiaochenhehub/MMS",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -788,7 +788,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447741",
-    "github": null,
+    "github": "BPYap/RCSi",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -868,7 +868,7 @@
     "section": "Medical Image Detection and Segmentation"
   },
   {
-    "title": "FEDKA: Federated Knowledge Augmentation for Multi-Center Medical Image Segmentation on non-IID Data",
+    "title": "FEDKA: Federated Knowledge Augmentation for Multi-Center Medical Image Segmentation on Non-IID Data",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10445902",
@@ -1023,7 +1023,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2309.09483",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -1148,7 +1148,7 @@
     "section": "Medical Image Detection and Segmentation"
   },
   {
-    "title": "Shifted-Rectangle-Window based Transformer for non-Displaced Femoral Neck Fracture Diagnosis",
+    "title": "Shifted-Rectangle-Window based Transformer for Non-Displaced Femoral Neck Fracture Diagnosis",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446085",
