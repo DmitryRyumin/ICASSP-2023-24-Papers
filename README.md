@@ -1183,7 +1183,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-P5.md">Estimation Theory and Methods</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-P5.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-P5.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPTM-P5.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>

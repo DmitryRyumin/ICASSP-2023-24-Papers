@@ -33,7 +33,7 @@
 
 ## Estimation Theory and Methods
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-14-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -47,3 +47,7 @@
 | Symmetric VAR(1) Modelling with Guaranteed Stability | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446278-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446278) | :heavy_minus_sign: |
 | Vector Nonlinear Hawkes Model with Inhibition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447472-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447472) | :heavy_minus_sign: |
 | Adaptive Fourier Decomposition based Signal Extraction on Weak Electromagnetic Field | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448200-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448200) | :heavy_minus_sign: |
+| A Modified Cramér-Rao Bound for Discrete-Time Markovian Dynamic Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446252-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446252) | :heavy_minus_sign: |
+| Asymptotically Tight Misspecified Bayesian Cramér-Rao Bound | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448099-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448099) | :heavy_minus_sign: |
+| Learning the Barankin Lower Bound on DOA Estimation Error | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446725-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446725) | :heavy_minus_sign: |
+| Misspecified Time-Delay and Doppler Estimation over Non Gaussian Scenarios | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446955-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446955) | :heavy_minus_sign: |
