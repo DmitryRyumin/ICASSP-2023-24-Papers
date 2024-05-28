@@ -37,7 +37,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| High-Accuracy Anxiety Disorder Identification through Subspace-Enhanced Hypergraph Neural Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/BiolabHHU) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446508-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446508) | :heavy_minus_sign: |
+| High-Accuracy Anxiety Disorder Identification through Subspace-Enhanced Hypergraph Neural Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446508-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446508) | :heavy_minus_sign: |
 | ADHD Diagnosis and Biomarker Detection based on Multimodal Graph Convolutional Neural Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446345-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446345) | :heavy_minus_sign: |
 | HIQ: One-Shot Network Quantization for Histopathological Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448472-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448472) | :heavy_minus_sign: |
 | SPTESleepNet: Automatic Sleep Staging Model based On Strip Patch Embeddings and Transformer Encoder | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446216) | :heavy_minus_sign: |
