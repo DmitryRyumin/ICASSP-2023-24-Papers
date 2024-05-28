@@ -33,8 +33,19 @@
 
 ## Emerging Methods for Biomedical Image and Signal Processing
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
->To be added soon
+| High-Accuracy Anxiety Disorder Identification Through Subspace-Enhanced Hypergraph Neural Network | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/BiolabHHU) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446508-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446508) | :heavy_minus_sign: |
+| ADHD Diagnosis and Biomarker Detection Based on Multimodal Graph Convolutional Neural Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446345-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446345) | :heavy_minus_sign: |
+| HIQ: One-Shot Network Quantization for Histopathological Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448472-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448472) | :heavy_minus_sign: |
+| SPTESleepNet: Automatic Sleep Staging Model Based On Strip Patch Embeddings And Transformer Encoder | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446216) | :heavy_minus_sign: |
+| GM-VRC: Semantic Topological Data Ensemble Approach for EEG Signal Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446927-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446927) | :heavy_minus_sign: |
+| Multimodal Breathing Rate Estimation Using Facial Motion and RPPG From RGB Camera | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446086-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446086) | :heavy_minus_sign: |
+| A Neural Syntax Parser for Coronary Artery Anatomical Labeling in Coronary CT Angiography | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448334-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448334) | :heavy_minus_sign: |
+| Addressing Confounds in Functional Connectivity Analyses of Calcium Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447836-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447836) | :heavy_minus_sign: |
+| Estimating Directed Spectral Information Flow between Multi-Resolution Time Series | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446801-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446801) | :heavy_minus_sign: |
+| Predicting RTMS Treatment Effects Using Open-Loop Control and Neural Manifold | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448375-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448375) | :heavy_minus_sign: |
+| A Novel Multi-Atlas Fusion Model Based On Contrastive Learning For Functional Connectivity Graph Diagnosis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446691-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446691) | :heavy_minus_sign: |
+| Coupling Self-Supervised and Supervised Contrastive Learning for Multiple Classification of Cervical Cytological Whole Slide Images | [![GitHub](https://img.shields.io/github/stars/jinxixiang/low_rank_wsi?style=flat)](https://github.com/jinxixiang/low_rank_wsi) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446708-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446708) | :heavy_minus_sign: |
