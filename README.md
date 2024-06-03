@@ -1244,7 +1244,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-L4.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
-            </td> 
+            </td>
         </tr>
         <tr>
             <td>
