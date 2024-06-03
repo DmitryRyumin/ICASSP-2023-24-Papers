@@ -33,7 +33,7 @@
 
 ## Self-Supervised and Semi-Supervised Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-19-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -49,3 +49,10 @@
 | Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision | [![GitHub](https://img.shields.io/github/stars/desehuileng0o0/IKEM?style=flat)](https://github.com/desehuileng0o0/IKEM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447178-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447178) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.12009-b31b1b.svg)](https://arxiv.org/abs/2309.12009) | :heavy_minus_sign: |
 | IPCL: Iterative Pseudo-Supervised Contrastive Learning to Improve Self-Supervised Feature Representation | [![GitHub](https://img.shields.io/github/stars/SonalKumar95/IPCL?style=flat)](https://github.com/SonalKumar95/IPCL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447607-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447607) | :heavy_minus_sign: |
 | Pseudo Labels Regularization for Imbalanced Partial-Label Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448034-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448034) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.03946-b31b1b.svg)](https://arxiv.org/abs/2303.03946) | :heavy_minus_sign: |
+| CLAF: Contrastive Learning with Augmented Features for Imbalanced Semi-Supervised Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446881-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446881) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.09598-b31b1b.svg)](https://arxiv.org/abs/2312.09598) | :heavy_minus_sign: |
+| Self-Supervised Pulse-Aware Interpretable Disentangled ECG Representation Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447945-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447945) | :heavy_minus_sign: |
+| A Novel Cross-Sensor Self-Supervised Learning Method for Rotating Machinery Fault Diagnosis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447960-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447960) | :heavy_minus_sign: |
+| How to Bridge Graph and Sequence Patterns in Session-Based Recommendation? A Self-Supervised Method | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445864-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445864) | :heavy_minus_sign: |
+| Neighborhood-Enhanced Multimodal Collaborative Filtering for Item Cold Start Recommendation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446911-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446911) | :heavy_minus_sign: |
+| View Crafting For Instance-Level Representation from Scene Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448043-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448043) | :heavy_minus_sign: |
+| Prototype-Guided Masking for Unsupervised Domain Adaptation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447415-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447415) | :heavy_minus_sign: |
