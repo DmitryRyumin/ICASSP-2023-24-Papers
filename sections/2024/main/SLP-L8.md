@@ -33,8 +33,13 @@
 
 ## Multichannel/Multimodal Speech Recognition
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Visual Speech Recognition for Languages with Limited Labeled Data Using Automatic Labels from Whisper | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](bit.ly/3Lajr6w) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446720-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446720) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.08535-b31b1b.svg)](https://arxiv.org/abs/2309.08535) | :heavy_minus_sign: |
+| Multi-Modality Speech Recognition Driven by Background Visual Scenes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446142-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446142) | :heavy_minus_sign: |
+| Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448047-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448047) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.13873-b31b1b.svg)](https://arxiv.org/abs/2312.13873) | :heavy_minus_sign: |
+| Automatic Channel Selection and Spatial Feature Integration for Multi-Channel Speech Recognition Across Various Array Topologies | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447563-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447563) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.09746-b31b1b.svg)](https://arxiv.org/abs/2312.09746) | :heavy_minus_sign: |
+| AGADIR: Towards Array-Geometry Agnostic Directional Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447278-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447278) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.10411-b31b1b.svg)](https://arxiv.org/abs/2401.10411) | :heavy_minus_sign: |
+| UniX-Encoder: A Universal X-Channel Speech Encoder for AD-HOC Microphone Array Speech Processing | [![GitHub](https://img.shields.io/github/stars/HuangZiliAndy/Unix-Enc?style=flat)](https://github.com/HuangZiliAndy/Unix-Enc) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448072-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448072) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.16367-b31b1b.svg)](https://arxiv.org/abs/2310.16367) | :heavy_minus_sign: |
