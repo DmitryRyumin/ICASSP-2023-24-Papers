@@ -1,11 +1,11 @@
 [
   {
-    "title": "Visual Speech Recognition for Languages with Limited Labeled Data Using Automatic Labels from Whisper",
+    "title": "Visual Speech Recognition for Languages with Limited Labeled Data using Automatic Labels from Whisper",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446720",
-    "github": null,
-    "web_page": "bit.ly/3Lajr6w",
+    "github": "JeongHun0716/vsr-low",
+    "web_page": null,
     "github_page": null,
     "colab": null,
     "modelscope": null,
