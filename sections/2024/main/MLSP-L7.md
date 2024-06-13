@@ -33,7 +33,7 @@
 
 ## Adversarial Machine Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -53,3 +53,5 @@
 | Language Guided Adversarial Purification | [![GitHub](https://img.shields.io/github/stars/Visual-Conception-Group/LGAP?style=flat)](https://github.com/Visual-Conception-Group/LGAP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446676-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446676) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.10348-b31b1b.svg)](https://arxiv.org/abs/2309.10348) | :heavy_minus_sign: |
 | Image Mixing and Gradient Smoothing to Enhance the SAR Image Attack Transferability | [![GitHub](https://img.shields.io/github/stars/JHL-HUST/IMGS?style=flat)](https://github.com/JHL-HUST/IMGS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448395-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448395) | :heavy_minus_sign: |
 | PoisonPrompt: Backdoor Attack on Prompt-Based Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446267-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446267) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.12439-b31b1b.svg)](https://arxiv.org/abs/2310.12439) | :heavy_minus_sign: |
+| Enhancing Targeted Transferability VIA Feature Space Fine-Tuning | [![GitHub](https://img.shields.io/github/stars/zengh5/TA_feature_FT?style=flat)](https://github.com/zengh5/TA_feature_FT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446654) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.02727-b31b1b.svg)](https://arxiv.org/abs/2401.02727) | :heavy_minus_sign: |
+| Delving Deeper Into Vulnerable Samples in Adversarial Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447217-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447217) | :heavy_minus_sign: |
