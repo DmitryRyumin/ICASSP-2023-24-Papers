@@ -33,7 +33,7 @@
 
 ## Adversarial Machine Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-26-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -55,3 +55,11 @@
 | PoisonPrompt: Backdoor Attack on Prompt-Based Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446267-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446267) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.12439-b31b1b.svg)](https://arxiv.org/abs/2310.12439) | :heavy_minus_sign: |
 | Enhancing Targeted Transferability VIA Feature Space Fine-Tuning | [![GitHub](https://img.shields.io/github/stars/zengh5/TA_feature_FT?style=flat)](https://github.com/zengh5/TA_feature_FT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446654-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446654) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.02727-b31b1b.svg)](https://arxiv.org/abs/2401.02727) | :heavy_minus_sign: |
 | Delving Deeper Into Vulnerable Samples in Adversarial Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447217-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447217) | :heavy_minus_sign: |
+| Synthesizing Black-Box Anti-Forensics Deepfakes With High Visual Quality | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447611-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447611) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.10713-b31b1b.svg)](https://arxiv.org/abs/2312.10713) | :heavy_minus_sign: |
+| Attribution-Based Scanline Perturbation Attack on 3d Detectors of Lidar Point Clouds | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447340-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447340) | :heavy_minus_sign: |
+| CNFA: Conditional Normalizing Flow for Query-Limited Attack | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447629-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447629) | :heavy_minus_sign: |
+| Enhancing Adversarial Robustness of DNNS Via Weight Decorrelation in Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447737-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447737) | :heavy_minus_sign: |
+| Scalable Ensemble-Based Detection Method Against Adversarial Attacks For Speaker Verification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447441-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447441) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.08622-b31b1b.svg)](https://arxiv.org/abs/2312.08622) | :heavy_minus_sign: |
+| Poisoning-Free Defense Against Black-Box Model Extraction |  [![GitHub](https://img.shields.io/github/stars/Hatins/AdvFT?style=flat)](https://github.com/Hatins/AdvFT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447550-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447550) | :heavy_minus_sign: |
+| Universal Adversarial Attack Against Speaker Recognition Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447073-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447073) | :heavy_minus_sign: |
+| Domain Adaptive Graph Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448226-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448226) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.13536-b31b1b.svg)](https://arxiv.org/abs/2312.13536) | :heavy_minus_sign: |

@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1069/2712 -->
+      <!-- 1077/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/39?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/40?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1319,13 +1319,13 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md">Adversarial Machine Learning</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/18-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
