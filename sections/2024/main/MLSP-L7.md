@@ -33,7 +33,7 @@
 
 ## Adversarial Machine Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-26-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-32-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-14-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -63,3 +63,9 @@
 | Poisoning-Free Defense Against Black-Box Model Extraction |  [![GitHub](https://img.shields.io/github/stars/Hatins/AdvFT?style=flat)](https://github.com/Hatins/AdvFT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447550-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447550) | :heavy_minus_sign: |
 | Universal Adversarial Attack Against Speaker Recognition Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447073-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447073) | :heavy_minus_sign: |
 | Domain Adaptive Graph Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448226-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448226) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.13536-b31b1b.svg)](https://arxiv.org/abs/2312.13536) | :heavy_minus_sign: |
+| AdvTTS: Adversarial Text-to-Speech Synthesis Attack on Speaker Identification Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447190-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447190) | :heavy_minus_sign: |
+| NWS: Natural Textual Backdoor Attacks Via Word Substitution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447968-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447968) | :heavy_minus_sign: |
+| An Initial Investigation of Neural Replay Simulator for Over-The-Air Adversarial Perturbations to Automatic Speaker Verification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447811-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447811) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.05354-b31b1b.svg)](https://arxiv.org/abs/2310.05354) | :heavy_minus_sign: |
+| Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446170-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446170) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.07158-b31b1b.svg)](https://arxiv.org/abs/2312.07158) | :heavy_minus_sign: |
+| Improving Visual Quality and Transferability of Adversarial Attacks on Face Recognition Simultaneously with Adversarial Restoration | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447402-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447402) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.01582-b31b1b.svg)](https://arxiv.org/abs/2309.01582) | :heavy_minus_sign: |
+| Boosting Adversarial Robustness Distillation Via Hybrid Decomposed Knowledge | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447411-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447411) | :heavy_minus_sign: |
