@@ -33,8 +33,12 @@
 
 ## Machine Learning Methods for Language
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Language Model is a Branch Predictor for Simultaneous Machine Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447486-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447486) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.14488-b31b1b.svg)](https://arxiv.org/abs/2312.14488) | :heavy_minus_sign: |
+| Unsupervised Topic-Conditional Extractive Summarization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447347-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447347) | :heavy_minus_sign: |
+| Feature Mixing-Based Active Learning for Multi-Label Text Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448407-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448407) | :heavy_minus_sign: |
+| Improving Medical Dialogue Generation with Abstract Meaning Representations | [![GitHub](https://img.shields.io/github/stars/Bernard-Yang/MedDiaAMR?style=flat)](https://github.com/Bernard-Yang/MedDiaAMR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447688-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447688) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.10608-b31b1b.svg)](https://arxiv.org/abs/2309.10608) | :heavy_minus_sign: |
+| Recovering from Privacy-Preserving Masking with Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448234) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.08628-b31b1b.svg)](https://arxiv.org/abs/2309.08628) | :heavy_minus_sign: |
