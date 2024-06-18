@@ -33,7 +33,7 @@
 
 ## Machine Learning Methods for Language
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-16-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -48,3 +48,8 @@
 | Zero Resource Code-Switched Speech Benchmark Using Speech Utterance Pairs for Multiple Spoken Languages | [![GitHub](https://img.shields.io/github/stars/nobel861017/cs_zs_baseline?style=flat)](https://github.com/nobel861017/cs_zs_baseline) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446737-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446737) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.03018-b31b1b.svg)](https://arxiv.org/abs/2310.03018) | :heavy_minus_sign: |
 | Adaptive Prompt Construction Method for Relation Extraction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448452-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448452) | :heavy_minus_sign: |
 | Sensi-Bert: Towards Sensitivity Driven Fine-Tuning for Parameter-Efficient Language Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447812-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447812) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2307.11764-b31b1b.svg)](https://arxiv.org/abs/2307.11764) | :heavy_minus_sign: |
+| Co-Occurrence Graph-Enhanced Hierarchical Prediction of ICD Codes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447721-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447721) | :heavy_minus_sign: |
+| Automatic Recognition of Gesture Identity and Onset of Cued-Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446932-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446932) | :heavy_minus_sign: |
+| Shapley Value Guided Extractive Text Summarization | [![GitHub](https://img.shields.io/github/stars/hustcxx/SVS?style=flat)](https://github.com/hustcxx/SVS) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447115-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447115) | :heavy_minus_sign: |
+| RSED: Zero-Shot Relation Triplet Extraction via Relation Selection and Entity Boundary Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448069-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448069) | :heavy_minus_sign: |
+| Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448239-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448239) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.07476-b31b1b.svg)](https://arxiv.org/abs/2312.07476) | :heavy_minus_sign: |
