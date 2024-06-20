@@ -33,8 +33,12 @@
 
 ## SPED: Signal Processing Education
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Widrow-Hoff LMS Adaline Demonstrator for Schools and Colleges | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447214-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447214) | :heavy_minus_sign: |
+| GuessKT: Improving Knowledge Tracing via Considering Guess Behaviors | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447277-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447277) | :heavy_minus_sign: |
+| Fearless Steps Apollo: Team Communications Based Community Resource Development for Science, Technology, Education, and Historical Preservation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446811-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446811) | :heavy_minus_sign: |
+| Historical Audio Search And Preservation: Finding Waldo Within The Fearless Steps Apollo 11 Naturalistic Audio Corpus | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10113371-E4A42C.svg)](https://ieeexplore.ieee.org/document/10113371) | :heavy_minus_sign: |
+| TIA: A Teaching Intonation Assessment Dataset in Real Teaching Situations | [![GitHub](https://img.shields.io/github/stars/zhangcy407/TIA?style=flat)](https://github.com/zhangcy407/TIA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447407-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447407) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.08732-b31b1b.svg)](https://arxiv.org/abs/2312.08732) | :heavy_minus_sign: |
