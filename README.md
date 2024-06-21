@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1120/2712 -->
+      <!-- 1126/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/41?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/42?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1384,14 +1384,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Domain-Enriched Learning for Medical Image Processing
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L1.md">Domain-Enriched Learning for Medical Image Processing</a>
             </td>
-            <td colspan="4" rowspan="134" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L1.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L1.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L1.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L1.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 In-Car Multi-Channel Automatic Speech Recognition Challenge (ICMC-ASR)
             </td>
+            <td colspan="4" rowspan="133" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
