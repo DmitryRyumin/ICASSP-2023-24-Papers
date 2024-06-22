@@ -1312,7 +1312,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-L10.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
-            </td> 
+            </td>
         </tr>
         <tr>
             <td>
@@ -1322,13 +1322,13 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/14-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/15-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L7.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -1351,7 +1351,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPED-L1.md">SPED: Signal Processing Education</a>
-            </td> 
+            </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SPED-L1.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
             </td>
