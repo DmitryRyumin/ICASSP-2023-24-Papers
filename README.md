@@ -1401,14 +1401,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                In-Car Multi-Channel Automatic Speech Recognition Challenge (ICMC-ASR)
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L3.md">In-Car Multi-Channel Automatic Speech Recognition Challenge (ICMC-ASR)</a>
             </td>
-            <td colspan="4" rowspan="133" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L3.md"><img src="https://img.shields.io/badge/0-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L3.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L3.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L3.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 Speech Enhancement and Separation
             </td>
+            <td colspan="4" rowspan="132" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
