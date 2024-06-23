@@ -28,7 +28,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "Prompt-driven Target Speech Diarization",
+    "title": "Prompt-Driven Target Speech Diarization",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446072",
@@ -140,7 +140,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "One Model to Rule Them All ? Towards End-to-End Joint Speaker Diarization and Speech Recognition",
+    "title": "One Model to Rule them All ? Towards End-to-End Joint Speaker Diarization and Speech Recognition",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447957",
@@ -168,7 +168,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "Frame-Wise Streaming end-to-end Speaker Diarization with Non-Autoregressive Self-Attention-Based Attractors",
+    "title": "Frame-Wise Streaming End-to-End Speaker Diarization with Non-Autoregressive Self-Attention-based Attractors",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446568",
@@ -196,7 +196,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "NTT Speaker Diarization System for Chime-7: Multi-Domain, Multi-Microphone end-to-end and Vector Clustering Diarization",
+    "title": "NTT Speaker Diarization System for Chime-7: Multi-Domain, Multi-Microphone End-to-End and Vector Clustering Diarization",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447817",
@@ -280,7 +280,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding with Sequence-to-Sequence Architecture",
+    "title": "Neural Speaker Diarization using Memory-Aware Multi-Speaker Embedding with Sequence-to-Sequence Architecture",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446661",
@@ -308,7 +308,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models",
+    "title": "USM-SCD: Multilingual Speaker Change Detection based on Large Pretrained Foundation Models",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447263",
@@ -336,7 +336,7 @@
     "section": "Speaker Diarization"
   },
   {
-    "title": "Apollo’s Unheard Voices: Graph Attention Networks for Speaker Diarization and Clustering for Fearless Steps Apollo Collection",
+    "title": "Apollo's Unheard Voices: Graph Attention Networks for Speaker Diarization and Clustering for Fearless Steps Apollo Collection",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446231",
