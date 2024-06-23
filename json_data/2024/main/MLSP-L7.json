@@ -1,6 +1,6 @@
 [
   {
-    "title": "Defending against Clean-Image Backdoor Attack in Multi-Label Classification",
+    "title": "Defending Against Clean-Image Backdoor Attack in Multi-Label Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447895",
@@ -28,7 +28,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Robustness Against Adversarial Attacks Via Learning Confined Adversarial Polytopes",
+    "title": "Robustness Against Adversarial Attacks via Learning Confined Adversarial Polytopes",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446776",
@@ -112,7 +112,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "GCIA: A Black-Box Graph Injection Attack Method Via Graph Contrastive Learning",
+    "title": "GCIA: A Black-Box Graph Injection Attack Method via Graph Contrastive Learning",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446876",
@@ -183,7 +183,7 @@
     "kaggle": null,
     "demo_page": null,
     "paper_thecvf": null,
-    "paper_arxiv_id": null,
+    "paper_arxiv_id": "2406.14259",
     "paper_pdf": null,
     "paper_hal_science": null,
     "paper_researchgate": null,
@@ -284,7 +284,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446910",
-    "github": null,
+    "github": "LukeZane118/FIBA",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -420,11 +420,11 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "PoisonPrompt: Backdoor Attack on Prompt-Based Large Language Models",
+    "title": "PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446267",
-    "github": null,
+    "github": "grasses/PoisonPrompt",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -448,7 +448,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Enhancing Targeted Transferability VIA Feature Space Fine-Tuning",
+    "title": "Enhancing Targeted Transferability via Feature Space Fine-Tuning",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446654",
@@ -504,11 +504,11 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Synthesizing Black-Box Anti-Forensics Deepfakes With High Visual Quality",
+    "title": "Synthesizing Black-Box Anti-Forensics Deepfakes with High Visual Quality",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447611",
-    "github": null,
+    "github": "fb-reps/Synthesizing-Black-box-Anti-forensics-DeepFakes-with-High-Visual-Quality",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -524,7 +524,7 @@
     "paper_hal_science": null,
     "paper_researchgate": null,
     "paper_amazon": null,
-    "youtube_id": null,
+    "youtube_id": "EYw-7ErUAKU",
     "drive_google": null,
     "dropbox": null,
     "onedrive": null,
@@ -532,7 +532,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Attribution-Based Scanline Perturbation Attack on 3d Detectors of Lidar Point Clouds",
+    "title": "Attribution-based Scanline Perturbation Attack on 3d Detectors of Lidar Point Clouds",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447340",
@@ -588,7 +588,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Enhancing Adversarial Robustness of DNNS Via Weight Decorrelation in Training",
+    "title": "Enhancing Adversarial Robustness of DNNS via Weight Decorrelation in Training",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447737",
@@ -616,7 +616,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Scalable Ensemble-Based Detection Method Against Adversarial Attacks For Speaker Verification",
+    "title": "Scalable Ensemble-based Detection Method Against Adversarial Attacks for Speaker Verification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447441",
@@ -676,7 +676,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447073",
-    "github": null,
+    "github": "shoham5/AnonymousSpeakersUAP",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -756,7 +756,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "NWS: Natural Textual Backdoor Attacks Via Word Substitution",
+    "title": "NWS: Natural Textual Backdoor Attacks via Word Substitution",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447968",
@@ -784,7 +784,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "An Initial Investigation of Neural Replay Simulator for Over-The-Air Adversarial Perturbations to Automatic Speaker Verification",
+    "title": "An Initial Investigation of Neural Replay Simulator for Over-the-Air Adversarial Perturbations to Automatic Speaker Verification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447811",
@@ -868,7 +868,7 @@
     "section": "Adversarial Machine Learning"
   },
   {
-    "title": "Boosting Adversarial Robustness Distillation Via Hybrid Decomposed Knowledge",
+    "title": "Boosting Adversarial Robustness Distillation via Hybrid Decomposed Knowledge",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447411",

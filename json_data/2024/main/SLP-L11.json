@@ -32,7 +32,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": "10447347",
-    "github": null,
+    "github": "ItzikMalkiel/Topic-Conditional-Summarization",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -56,7 +56,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Feature Mixing-Based Active Learning for Multi-Label Text Classification",
+    "title": "Feature Mixing-based Active Learning for Multi-Label Text Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10448407",
@@ -196,7 +196,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Taming Prompt-Based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification",
+    "title": "Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446315",
@@ -224,7 +224,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Zero Resource Code-Switched Speech Benchmark Using Speech Utterance Pairs for Multiple Spoken Languages",
+    "title": "Zero Resource Code-Switched Speech Benchmark using Speech Utterance Pairs for Multiple Spoken Languages",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446737",
@@ -588,7 +588,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Unsupervised Multiple Choices Question Answering Via Universal Corpus",
+    "title": "Unsupervised Multiple Choices Question Answering via Universal Corpus",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446538",
@@ -616,7 +616,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Fine-Tuning Self-Supervised Models for Language Identification Using Orthonormal Constraint",
+    "title": "Fine-Tuning Self-Supervised Models for Language Identification using Orthonormal Constraint",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446751",
@@ -700,7 +700,7 @@
     "section": "Machine Learning Methods for Language"
   },
   {
-    "title": "Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-To-Coarse Attention",
+    "title": "Fovea Transformer: Efficient Long-Context Modeling with Structured Fine-to-Coarse Attention",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446483",
