@@ -33,11 +33,11 @@
 
 ## Multimedia Quality of Experience
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447301-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447301) | :heavy_minus_sign: |
+| Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment | [![GitHub](https://img.shields.io/github/stars/LikeGiver/KZIAA?style=flat)](https://github.com/LikeGiver/KZIAA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447301-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447301) | :heavy_minus_sign: |
 | Towards an Objective Quality Metric for Interpolated Directional Room Impulse Responses | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446507-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446507) | :heavy_minus_sign: |
 | SJTU-TMQA: A Quality Assessment Database for Static Mesh with Texture Map | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ccccby.github.io/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445942-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445942) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.15675-b31b1b.svg)](https://arxiv.org/abs/2309.15675) | :heavy_minus_sign: |
 | Balancing Easy and Hard Distortions: A Multi-Rate Knowledge Distillation Strategy for Blind Image Quality Assessment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448461-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448461) | :heavy_minus_sign: |
