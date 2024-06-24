@@ -1404,7 +1404,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-P3.md">Speech Enhancement and Separation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-P3.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-P3.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-P3.md"><img src="https://img.shields.io/badge/15-b31b1b" alt="Preprints"></a>
