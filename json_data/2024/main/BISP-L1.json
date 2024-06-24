@@ -1,6 +1,6 @@
 [
   {
-    "title": "Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering",
+    "title": "Patient-Adaptive and Learned MRI Data Undersampling using Neighborhood Clustering",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446528",
@@ -56,7 +56,7 @@
     "section": "Domain-Enriched Learning for Medical Image Processing"
   },
   {
-    "title": "Digital Pathology Image Deblurring Via Local Focus Quality Assessment",
+    "title": "Digital Pathology Image Deblurring via Local Focus Quality Assessment",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446591",
@@ -84,7 +84,7 @@
     "section": "Domain-Enriched Learning for Medical Image Processing"
   },
   {
-    "title": "Non-iterative Pyramid Network for Unsupervised Deformable Medical Image Registration",
+    "title": "Non-Iterative Pyramid Network for Unsupervised Deformable Medical Image Registration",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446464",
@@ -140,7 +140,7 @@
     "section": "Domain-Enriched Learning for Medical Image Processing"
   },
   {
-    "title": "A Novel Medical Image Fusion Framework Integrating Multi-scale Encoder-Decoder with Discrete Wavelet Decomposition",
+    "title": "A Novel Medical Image Fusion Framework Integrating Multi-Scale Encoder-Decoder with Discrete Wavelet Decomposition",
     "base_url": null,
     "title_page": null,
     "ieee_id": "10446618",
