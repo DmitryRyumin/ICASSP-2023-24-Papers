@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Temporal Relational Context Learning for Extrapolation Reasoning on Temporal Knowledge Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446430-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446430) | :heavy_minus_sign: |
+| Debiasing Recommenders Through Personalized Popularity-Aware Margins | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447541-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447541) | :heavy_minus_sign: |
+| Adaptive Spatial-Temporal Hypergraph Fusion Learning for Next POI Recommendation | [![GitHub](https://img.shields.io/github/stars/icmpnorequest/ICASSP2024_ASTHL?style=flat)](https://github.com/icmpnorequest/ICASSP2024_ASTHL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447357) | :heavy_minus_sign: |
+| Multi-Interest Learning for Multi-Modal Paper Recommendation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446181-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446181) | :heavy_minus_sign: |
+| Spatio-Temporal Data Mining with Information Integrity Protection: Graph Signal Based Air Quality Prediction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448401-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448401) | :heavy_minus_sign: |
+| Modeling Route Representation With Mixed-Scale Hierarchical Transformer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446095-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446095) | :heavy_minus_sign: |
