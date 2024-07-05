@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| BCC: Bidirectional Consistency Constraint Method for Hierarchical Text Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447200-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447200) | :heavy_minus_sign: |
+| Enhancing Argumentative Relation Classification by Multi-Granularity Retrieval and Heterogeneous Graph Reasoning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447566-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447566) | :heavy_minus_sign: |
+| Improving Biomedical Entity Linking With Retrieval-Enhanced Learning | [![GitHub](https://img.shields.io/github/stars/lzxlin/kNN-BioEL?style=flat)](https://github.com/lzxlin/kNN-BioEL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448513-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448513) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.09806-b31b1b.svg)](https://arxiv.org/abs/2312.09806) | :heavy_minus_sign: |
+| Enhancing Document-Level Event Extraction via Structure-Aware Heterogeneous Graph with Multi-Granularity Subsentences | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446043-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446043) | :heavy_minus_sign: |
+| Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447275-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447275) | :heavy_minus_sign: |
+| Joint Multi-Facts Reasoning Network for Complex Temporal Question Answering Over Knowledge Graph | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447439-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447439) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.02212-b31b1b.svg)](https://arxiv.org/abs/2401.02212) | :heavy_minus_sign: |
