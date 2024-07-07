@@ -37,4 +37,8 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Renyi Divergences Learning for explainable classification of SAR Image Pairs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448227-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448227) | :heavy_minus_sign: |
+| Interpretable Face Aging: Enhancing Conditional Adversarial Autoencoders with Lime Explanations | [![GitHub](https://img.shields.io/github/stars/ckorgial/ICAAE?style=flat)](https://github.com/ckorgial/ICAAE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447128-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447128) | :heavy_minus_sign: |
+| SPASE: Spatial Saliency Explanation For Time Series Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447192-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447192) | :heavy_minus_sign: |
+| Active Explainable Recommendation with Limited Labeling Budgets | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446052-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446052) | :heavy_minus_sign: |
+| Learning Representations from Explainable and Connectionist Approaches for Visual Question Answering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447493-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447493) | :heavy_minus_sign: |
