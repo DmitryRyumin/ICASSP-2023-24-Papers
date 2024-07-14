@@ -33,7 +33,7 @@
 
 ## Explainable and Interpretable Machine Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-6-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -50,3 +50,8 @@
 | A Sequential Averaging Plug-and-Play Method for Image Restoration Via Fixed-Point Projection | [![GitHub](https://img.shields.io/github/stars/zsc15/SAM-PRO?style=flat)](https://github.com/zsc15/SAM-PRO) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447034-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447034) | :heavy_minus_sign: |
 | When Green Learning Meets Federated Learning: Toward Distributed Learning with Low Complexity and Model Heterogeneity | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445986-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445986) | :heavy_minus_sign: |
 | AttHear: Explaining Audio Transformers Using Attention-Aware NMF | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447390-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447390) | :heavy_minus_sign: |
+| Interpreting the Contribution of Sensors in Blind Source Extraction by Means of Shapley Values | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10184079-E4A42C.svg)](https://ieeexplore.ieee.org/document/10184079) | :heavy_minus_sign: |
+| DIB-X: Formulating Explainability Principles for a Self-Explainable Model Through Information Theoretic Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447094-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447094) | :heavy_minus_sign: |
+| Dagma-DCE: Interpretable, Non-Parametric Differentiable Causal Discovery | [![GitHub](https://img.shields.io/github/stars/DanWaxman/DAGMA-DCE?style=flat)](https://github.com/DanWaxman/DAGMA-DCE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447094-E4A42C.svg)](https://ieeexplore.ieee.org/document/10384714) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.02930-b31b1b.svg)](https://arxiv.org/abs/2401.02930) | :heavy_minus_sign: |
+| Bi-Directional Motion Attention with Contrastive Learning for few-shot Action Recognition | [![GitHub](https://img.shields.io/github/stars/YWCandGHY/BiMACL?style=flat)](https://github.com/YWCandGHY/BiMACL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447209-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447209) | :heavy_minus_sign: |
+| Unraveling Explainable Reinforcement Learning Using Behavior Tree Structures | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446357-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446357) | :heavy_minus_sign: |
