@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| An Attention-Enhanced Retentive Broad Learning System for Subject-Generic Emotion Recognition from EEG Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446817-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446817) | :heavy_minus_sign: |
+| Eigendecomposition-Based Spatial-Temporal Attention for Brain Cognitive States Identification | [![GitHub](https://img.shields.io/github/stars/ku-milab/ESTA?style=flat)](https://github.com/ku-milab/ESTA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448019-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448019) | :heavy_minus_sign: |
+| Brain Structure-Function Interaction Network for Fluid Cognition Prediction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448348-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448348) | :heavy_minus_sign: |
+| Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446937-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446937) | :heavy_minus_sign: |
+| Subtype-Specific Biomarkers of Alzheimer’s Disease from Anatomical and Functional Connectomes via Graph Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447054-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447054) | :heavy_minus_sign: |
+| Inducing Inductive Bias in Vision Transformer for EEG Classification | [![GitHub](https://img.shields.io/github/stars/IamRabin/BSVT?style=flat)](https://github.com/IamRabin/BSVT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446429-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446429) | :heavy_minus_sign: |
