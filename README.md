@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1252/2712 -->
+      <!-- 1276/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/46?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/47?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1520,14 +1520,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Neuroimaging and Brain/Human-Computer Interfaces
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L6.md">Neuroimaging and Brain/Human-Computer Interfaces</a>
             </td>
-            <td colspan="4" rowspan="125" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L6.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L6.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L6.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/BISP-L6.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 Localization, DOA Estimation, Spatial Audio Recording and Reproduction
             </td>
+            <td colspan="4" rowspan="124" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
