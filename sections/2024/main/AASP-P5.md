@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Comparison Of Frequency-Fusion Mechanisms For Binaural Direction-Of-Arrival Estimation For Multiple Speakers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446394-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446394) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.07849-b31b1b.svg)](https://arxiv.org/abs/2401.07849) | :heavy_minus_sign: |
+| A Steered Response Power Approach with Bilinear Prediction-Based Trade-Off Prewhitening for Speaker Localization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448270-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448270) | :heavy_minus_sign: |
+| Robust DoA Estimation from Deep Acoustic Imaging | [![GitHub](https://img.shields.io/github/stars/adrianSRoman/DeepWaveDOA?style=flat)](https://github.com/adrianSRoman/DeepWaveDOA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447883-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447883) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.08717-b31b1b.svg)](https://arxiv.org/abs/2401.08717) | :heavy_minus_sign: |
+| StofNet: Super-Resolution Time of Flight Network | [![GitHub](https://img.shields.io/github/stars/hahnec/stofnet?style=flat)](https://github.com/hahnec/stofnet) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445851-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445851) | :heavy_minus_sign: |
+| Sound Field Interpolation For Rotation-Invariant Multichannel Array Signal Processing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10141851-E4A42C.svg)](https://ieeexplore.ieee.org/document/10141851) | :heavy_minus_sign: |
+| Simultaneous Interior and Exterior Sound Field Synthesis Using Cylindrical and Spherical Loudspeaker Arrays | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446732-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446732) | :heavy_minus_sign: |
