@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Variational Analysis of Adversarial Regularization for Solving Inverse Problems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446385-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446385) | :heavy_minus_sign: |
+| Two-Edge-Resolved 3D Non-Line-of-Sight Imaging: A Fisher Information Equalized Discretization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446406-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446406) | :heavy_minus_sign: |
+| Plug-And-Play Algorithm Coupled with Low-Rank Quadratic Envelope Regularization for Compressive Spectral Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447145-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447145) | :heavy_minus_sign: |
+| Iteratively Preconditioned Guidance of Denoising (Diffusion) Models For Image Restoration | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446692-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446692) | :heavy_minus_sign: |
+| Image Rest<br/>oration with Generalized L2 Loss and Convergent Plug-and-Play Priors | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446244-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446244) | :heavy_minus_sign: |
+| Deep Plug-and-Play Algorithm for Unsaturated Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446495-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446495) | :heavy_minus_sign: |
