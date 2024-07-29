@@ -33,7 +33,7 @@
 
 ## Computational Imaging
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-35-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-8-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -66,3 +66,9 @@
 | Coordinate-Based Neural Network For Fourier Phase Retrieval | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447474-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447474) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.14925-b31b1b.svg)](https://arxiv.org/abs/2311.14925) | :heavy_minus_sign: |
 | Extended Depth-of-Field Lensless Imaging using an Optimized Radial Mask | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447474-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447474) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2303.11554-b31b1b.svg)](https://arxiv.org/abs/2303.11554) | :heavy_minus_sign: |
 | Deep Learning Based Single-Shot Profilometry by Three-Channel Binary-Defocused Projection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446426-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446426) | :heavy_minus_sign: |
+| A Fast Blind Deblurring Algorithm using Local Gradient Product Prior | [![GitHub](https://img.shields.io/github/stars/JixuanLiang/deblur-LGP?style=flat)](https://github.com/JixuanLiang/deblur-LGP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447359-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447359) | :heavy_minus_sign: |
+| Hybrid Domain Learning towards Light Field Spatial Super-Resolution using Heterogeneous Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446031-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446031) | :heavy_minus_sign: |
+| T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446395-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446395) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2403.13663-b31b1b.svg)](https://arxiv.org/abs/2403.13663) | :heavy_minus_sign: |
+| Self-Supervised Spatially Variant PSF Estimation for Aberration-Aware Depth-from-Defocus | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446689-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446689) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2402.18175-b31b1b.svg)](https://arxiv.org/abs/2402.18175) | :heavy_minus_sign: |
+| Multispectral Filter Array Design by Optimal Sphere Packing | [![GitHub](https://img.shields.io/github/stars/nelson10/DemosaickingMultispectral3DSpherePacking?style=flat)](https://github.com/nelson10/DemosaickingMultispectral3DSpherePacking) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10163979-E4A42C.svg)](https://ieeexplore.ieee.org/document/10163979) | :heavy_minus_sign: |
+| Sandwiched Lo-Res Simulation for Scalable Flood Modeling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447221-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447221) | :heavy_minus_sign: |
