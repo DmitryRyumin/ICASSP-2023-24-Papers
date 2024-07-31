@@ -1607,7 +1607,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
             <td>
                 Medical Image Formation, Reconstruction and Restoration
             </td>
-            <td colspan="4" rowspan="121" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="120" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
