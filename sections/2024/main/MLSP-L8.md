@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Robust Localization of Key Fob Using Channel Impulse Response of Ultra Wide Band Sensors for Keyless Entry Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447854-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447854) | :heavy_minus_sign: |
+| BPDO:Boundary Points Dynamic Optimization for Arbitrary Shape Scene Text Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447371-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447371) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.09997-b31b1b.svg)](https://arxiv.org/abs/2401.09997) | :heavy_minus_sign: |
+| EK-Net:Real-time Scene Text Detection with Expand Kernel Distance | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448354-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448354) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.11704-b31b1b.svg)](https://arxiv.org/abs/2401.11704) | :heavy_minus_sign: |
+| When Training-Free NAS Meets Vision Transformer: A Neural Tangent Kernel Perspective | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447479-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447479) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2405.04536-b31b1b.svg)](https://arxiv.org/abs/2405.04536) | :heavy_minus_sign: |
+| Neural Ordinary Differential Equations with Trainable Solvers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446364-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446364) | :heavy_minus_sign: |
+| Token-Based Spatiotemporal Representation of the Events | [![GitHub](https://img.shields.io/github/stars/NJUVISION/EventTransformer?style=flat)](https://github.com/NJUVISION/EventTransformer) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447951-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447951) | :heavy_minus_sign: |
