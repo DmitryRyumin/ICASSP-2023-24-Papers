@@ -33,7 +33,7 @@
 
 ## Deep Learning Models
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-36-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-9-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -67,3 +67,9 @@
 | Cutransnet: Transformers to Make Strong Encoders for Multi-Task Vision Perception of Autonomous Driving | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445836-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445836) | :heavy_minus_sign: |
 | Efficient Content Reconstruction for High Dynamic Range Imaging | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446217-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446217) | :heavy_minus_sign: |
 | Text Region Multiple Information Perception Network for Scene Text Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447175-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447175) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.10017-b31b1b.svg)](https://arxiv.org/abs/2401.10017) | :heavy_minus_sign: |
+| Power-Aware Task-Based Learning of Neuromorphic ADCs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446371-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446371) | :heavy_minus_sign: |
+| Edge Deployable Distributed Evolutionary Optimization based Calibration method for Neural Quantization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446281-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446281) | :heavy_minus_sign: |
+| 1-D Spatial Attention in Binarized Convolutional Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446358-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446358) | :heavy_minus_sign: |
+| Haformer: Heterogeneous Aggregation Transformer for Single Image Deraining | [![GitHub](https://img.shields.io/github/stars/stephensun11/HAformer?style=flat)](https://github.com/stephensun11/HAformer) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447460-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447460) | :heavy_minus_sign: |
+| Pu-Edgeformer++: An Advanced Hierarchical Edge Transformer for Arbitrary-Scale Point Cloud Upsampling using Distance Fields | [![GitHub](https://img.shields.io/github/stars/dohoon2045/PU-EdgeFormer2?style=flat)](https://github.com/dohoon2045/PU-EdgeFormer2) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446941-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446941) | :heavy_minus_sign: |
+| Motion Latent Diffusion for Stochastic Trajectory Prediction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446145-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446145) | :heavy_minus_sign: |
