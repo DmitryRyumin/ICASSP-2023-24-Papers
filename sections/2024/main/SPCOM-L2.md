@@ -33,8 +33,13 @@
 
 ## Next-Gen Communication Systems
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| A Novel Demodulation and Selection Pilot Power Trade-Off for Codebook-Based IRS with Imperfect Channel Estimates | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445981-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445981) | :heavy_minus_sign: |
+| Blind Beamforming for Intelligent Reflecting Surface: A Reinforcement Learning Approach | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448459-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448459) | :heavy_minus_sign: |
+| RIS Localization and Spatially Wideband Filtering Effects | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445907-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445907) | :heavy_minus_sign: |
+| Globally Optimal Beamforming Design for Integrated Sensing and Communication Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447833-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447833) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.06674-b31b1b.svg)](https://arxiv.org/abs/2309.06674) | :heavy_minus_sign: |
+| An Asymptotically Achievable Rate Bound for Establishing High-Fidelity Entanglements in Quantum Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446728-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446728) | :heavy_minus_sign: |
+| A Binary BP Decoding Using Posterior Adjustment for Quantum LDPC Codes | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446153-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446153) | :heavy_minus_sign: |
