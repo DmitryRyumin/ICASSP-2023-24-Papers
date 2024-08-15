@@ -33,8 +33,16 @@
 
 ## Image Restoration
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-2-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Noisy Image Restoration Based on Conditional Acceleration Score Approximation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446531-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446531) | :heavy_minus_sign: |
+| Multi-Weather Degradation-Aware Transformer for Image Restoration | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448036-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448036) | :heavy_minus_sign: |
+| Self-Supervised Face Image Restoration With A One-Shot Reference | [![GitHub](https://img.shields.io/github/stars/Liamkuo/SAIR?style=flat)](https://github.com/Liamkuo/SAIR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448393-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448393) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2203.03005-b31b1b.svg)](https://arxiv.org/abs/2203.03005) | :heavy_minus_sign: |
+| DiffDub: Person-generic Visual Dubbing Using Inpainting Renderer with Diffusion Auto-encoder | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://liutaocode.github.io/DiffDub) <br/> [![GitHub](https://img.shields.io/github/stars/liutaocode/DiffDub?style=flat)](https://github.com/liutaocode/DiffDub) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446049-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446049) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.01811-b31b1b.svg)](https://arxiv.org/abs/2311.01811) | :heavy_minus_sign: |
+| Diffevent: Event Residual Diffusion for Image Deblurring | [![GitHub](https://img.shields.io/github/stars/Pei233/DIFFEVENT?style=flat)](https://github.com/Pei233/DIFFEVENT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446822-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446822) | :heavy_minus_sign: |
+| Fast and Physically Enriched Deep Network for Joint Low-Light Enhancement and Image Deblurring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446650-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446650) | :heavy_minus_sign: |
+
+
+
