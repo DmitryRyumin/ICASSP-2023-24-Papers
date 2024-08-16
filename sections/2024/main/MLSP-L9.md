@@ -37,4 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Understanding Data Augmentation from a Robustness Perspective | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447081-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447081) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.12800-b31b1b.svg)](https://arxiv.org/abs/2311.12800) | :heavy_minus_sign: |
+| On Estimating Link Prediction Uncertainty using Stochastic Centering | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445967-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445967) | :heavy_minus_sign: |
+| DeepGRE: Global Robustness Evaluation of Deep Neural Networks | [![GitHub](https://img.shields.io/github/stars/TrustAI/DeepGRE?style=flat)](https://github.com/TrustAI/DeepGRE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446884-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446884) | :heavy_minus_sign: |
+| Adversarial Robustness of Convolutional Models Learned in the Frequency Domain | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445961-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445961) | :heavy_minus_sign: |
+| Noise-Resistant Graph Neural Network for Node Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448367-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448367) | :heavy_minus_sign: |
+| The Double-Edged Sword of AI Safety: Balancing Anomaly Detection and OOD Generalization via Model Anchoring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445865-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445865) | :heavy_minus_sign: |
