@@ -33,9 +33,14 @@
 
 ## LIMMITS: Multi-Speaker, Multi-Lingual Indic TTS with Voice Cloning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| LIMMITS’24: Multi-Speaker, Multi-Lingual Indic TTS with Voice Cloning | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/limmits24/) | [![arXiv](https://img.shields.io/badge/arXiv-2406.17801-b31b1b.svg)](https://www.arxiv.org/abs/2406.17801) | :heavy_minus_sign: |
+| Leveraging Effective Language and Speaker Conditioning in Indic TTS for LIMMITS 2024 Challenge | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://sigport.org/sites/default/files/docs/ICASSP%202024.pptx_0.pdf) | :heavy_minus_sign: |
+| Single-Stage TTS with Adapted Vocoder and Cross-Attention: Taltech Systems for the LIMMITS’24 Challenge | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Scaling NVIDIA's Multi-speaker Multi-lingual TTS Systems with Zero-Shot TTS to Indic Languages | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gist.github.com/aroraakshit/fdd23c5fb1ebe7623450df1f498fd77b) | [![arXiv](https://img.shields.io/badge/arXiv-2401.13851-b31b1b.svg)](https://arxiv.org/abs/2401.13851) | :heavy_minus_sign: |
+| The THU-HCSI Multi-Speaker Multi-Lingual Few-Shot Voice Cloning System for LIMMITS'24 Challenge | :heavy_minus_sign: | [![arXiv](https://img.shields.io/badge/arXiv-2404.16619-b31b1b.svg)](https://arxiv.org/abs/2404.16619) | :heavy_minus_sign: |
+| Cross-Lingual Text-To-Speech via Hierarchical Style Transfer | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 
