@@ -73,7 +73,7 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1442/2712 -->
+      <!-- 1448/2712 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/53?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -1758,23 +1758,47 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Compressed Sensing and Machine Learning for Multi-Sensor Systems
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SAM-L3.md">Compressed Sensing and Machine Learning for Multi-Sensor Systems</a>
             </td>
-            <td colspan="4" rowspan="111" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SAM-L3.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SAM-L3.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SAM-L3.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SAM-L3.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>  
         </tr>
         <tr>
             <td>
-                LIMMITS: Multi-Speaker, Multi-Lingual Indic TTS with Voice Cloning
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L4.md">LIMMITS: Multi-Speaker, Multi-Lingual Indic TTS with Voice Cloning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L4.md"><img src="https://img.shields.io/badge/0-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L4.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L4.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/GC-L4.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
                 Natural Language Processing for Speech-to-Text
             </td>
+            <td colspan="4" rowspan="109" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                Resource Constrained Acoustic and Langugage Modeling
+                Resource Constrained Acoustic and Language Modeling
             </td>
         </tr>
         <tr>
