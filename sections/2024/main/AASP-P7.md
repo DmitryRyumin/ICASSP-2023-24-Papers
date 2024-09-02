@@ -33,7 +33,7 @@
 
 ## Dereverberation and RIR Estimation; Speech Enhancement and Restoration
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-25-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-13-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -55,5 +55,12 @@
 | Remixed2Remixed: Domain adaptation for speech enhancement by Noise2Noise learning with Remixing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446056-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446056) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.16836-b31b1b.svg)](https://arxiv.org/abs/2312.16836) | :heavy_minus_sign: |
 | An Empirical Study on the Impact of Positional Encoding in Transformer-based Monaural Speech Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446337-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446337) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.09686-b31b1b.svg)](https://arxiv.org/abs/2401.09686) | :heavy_minus_sign: |
 | Spiking Structured State Space Model for Monaural Speech Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448152-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448152) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.03641-b31b1b.svg)](https://arxiv.org/abs/2309.03641) | :heavy_minus_sign: |
+| Parameter Estimation Procedures for Deep Multi-Frame MVDR Filtering for Single-Microphone Speech Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10224310-E4A42C.svg)](https://ieeexplore.ieee.org/document/10224310) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2011.10345-b31b1b.svg)](https://arxiv.org/abs/2011.10345) | :heavy_minus_sign: |
+| Masked Spectrogram Prediction for Unsupervised Domain Adaptation in Speech Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10360251-E4A42C.svg)](https://ieeexplore.ieee.org/document/10360251) | :heavy_minus_sign: |
+| Microphone Subset Selection for the Weighted Prediction Error Algorithm using a Group Sparsity Penalty | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448463-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448463) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.08486-b31b1b.svg)](https://arxiv.org/abs/2401.08486) | :heavy_minus_sign: |
+| DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446719-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446719) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2107.05429-b31b1b.svg)](https://arxiv.org/abs/2107.05429) | :heavy_minus_sign: |
+| Speech Dereverberation with Frequency Domain Autoregressive Modeling | [![GitHub](https://img.shields.io/github/stars/anurenjan/DFAR?style=flat)](https://github.com/anurenjan/DFAR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10261213-E4A42C.svg)](https://ieeexplore.ieee.org/document/10261213) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.13537-b31b1b.svg)](https://arxiv.org/pdf/2309.13537) | :heavy_minus_sign: |
+| A Flexible Framework for Expectation Maximization-Based MIMO System Identification for Time-Variant Linear Acoustic Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10334061-E4A42C.svg)](https://ieeexplore.ieee.org/document/10334061) | :heavy_minus_sign: |
+| Joint Dereverberation and Beamforming With Blind Estimation of the Shape Parameter of the Desired Source Prior | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10323510-E4A42C.svg)](https://ieeexplore.ieee.org/document/10323510) | :heavy_minus_sign: |
 
 

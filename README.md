@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1480/2712 -->
+      <!-- 1505/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/55?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/56?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1826,14 +1826,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Dereverberation and RIR Estimation; Speech Enhancement and Restoration
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P7.md">Dereverberation and RIR Estimation; Speech Enhancement and Restoration</a>
             </td>
-            <td colspan="4" rowspan="107" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P7.md"><img src="https://img.shields.io/badge/25-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P7.md"><img src="https://img.shields.io/badge/13-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P7.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P7.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 Image/Video Super-Resolution
             </td>
+            <td colspan="4" rowspan="106" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
