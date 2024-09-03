@@ -37,6 +37,11 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Efficient Hierarchical Stripe Attention for Lightweight Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446962-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446962) | :heavy_minus_sign: |
+| Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447585-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447585) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.13317-b31b1b.svg)](https://arxiv.org/abs/2311.13317) | :heavy_minus_sign: |
+| CUTDEM: Depth-Aware Enhanced Multi-View Image Mixing for Light Field Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447888-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447888) | :heavy_minus_sign: |
+| NLSIT: A Non-Local Stereo Interaction Transformer for Stereo Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447088-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447088) | :heavy_minus_sign: |
+| Attention-Based Spatial-Frequency Information Network for Underwater Single Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448241-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448241) | :heavy_minus_sign: |
+| DEGAN: Discrimination Enhanced GAN for Perceptual-Oriented Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446013-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446013) | :heavy_minus_sign: |
 
 
