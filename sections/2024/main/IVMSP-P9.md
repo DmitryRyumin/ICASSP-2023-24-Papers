@@ -33,7 +33,7 @@
 
 ## Image/Video Super-Resolution
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -43,5 +43,11 @@
 | NLSIT: A Non-Local Stereo Interaction Transformer for Stereo Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447088-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447088) | :heavy_minus_sign: |
 | Attention-Based Spatial-Frequency Information Network for Underwater Single Image Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448241-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448241) | :heavy_minus_sign: |
 | DEGAN: Discrimination Enhanced GAN for Perceptual-Oriented Super-Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446013-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446013) | :heavy_minus_sign: |
+| Adaptive Super Resolution For One-Shot Talking-Head Generation | [![GitHub](https://img.shields.io/github/stars/Songluchuan/AdaSR-TalkingHead?style=flat)](https://github.com/Songluchuan/AdaSR-TalkingHead/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446837-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446837) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2403.15944-b31b1b.svg)](https://arxiv.org/abs/2403.15944) | :heavy_minus_sign: |
+| Efficient Fusion of Depth Information for Defocus Deblurring | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448112-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448112) | :heavy_minus_sign: |
+| Single Image Reflection removal Using Feature Difference Enhancement | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446759-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446759) | :heavy_minus_sign: |
+| Panoramic Image Inpainting With Gated Convolution And Contextual Reconstruction Loss | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446469-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446469) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2402.02936-b31b1b.svg)](https://arxiv.org/abs/2402.02936) | :heavy_minus_sign: |
+| Correcting Faulty Road Maps by Image Inpainting | [![GitHub](https://img.shields.io/github/stars/SoojungHong/image_inpainting_model_for_lane_geomery_discovery?style=flat)](https://github.com/SoojungHong/image_inpainting_model_for_lane_geomery_discovery) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446744-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446744) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.06544-b31b1b.svg)](https://arxiv.org/abs/2211.06544) | :heavy_minus_sign: |
+| ESTGN: Enhanced Self-Mined Text Guided Super-Resolution Network for Superior Image Super Resolution | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448088-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448088) | :heavy_minus_sign: |
 
 
