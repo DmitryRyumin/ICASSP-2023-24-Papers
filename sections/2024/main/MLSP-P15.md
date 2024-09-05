@@ -37,6 +37,11 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Delay Embedding for Matrix Graphical Model Learning from Dependent Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447097-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447097) | :heavy_minus_sign: |
+| From Convolutional Sparse Coding To *-NMF Factorization of Time-Frequency Coefficients | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447466-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447466) | :heavy_minus_sign: |
+| On The Equivalence Of Dynamic Mode Decomposition And Complex Nonnegative Matrix Factorization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448067-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448067) | :heavy_minus_sign: |
+| Matrix Factorization In Tropical And Mixed Tropical-Linear Algebras | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446164-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446164) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.13914-b31b1b.svg)](https://arxiv.org/abs/2309.13914) | :heavy_minus_sign: |
+| Accelerating Gradient Descent for Over-Parameterized Asymmetric Low-Rank Matrix Sensing via Preconditioning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446187-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446187) | :heavy_minus_sign: |
+| Sam: A Self-Adaptive Attention Module For Context-Aware Recommendation System | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447147-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447147) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2110.00452-b31b1b.svg)](https://arxiv.org/abs/2110.00452) | :heavy_minus_sign: |
 
 
