@@ -37,6 +37,11 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Directional Gain Based Noise Covariance Matrix Estimation for MVDR Beamforming | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447393-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447393) | :heavy_minus_sign: |
+| Array Geometry Optimization for Region-of-Interest Near-Field Beamforming | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446604-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446604) | :heavy_minus_sign: |
+| Sector-Based Interference Cancellation for Robust Keyword Spotting Applications Using an Informed MPDR Beamformer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447074-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447074) | :heavy_minus_sign: |
+| Differential Beamforming with Null Constraints for Spherical Microphone Arrays | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446768-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446768) | :heavy_minus_sign: |
+| Plug-and-Play MVDR Beamforming for Speech Separation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445739-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445739) | :heavy_minus_sign: |
+| DJCM: A Deep Joint Cascade Model for Singing Voice Separation and Vocal Pitch Estimation | [![GitHub](https://img.shields.io/github/stars/Dream-High/DJCM?style=flat)](https://github.com/Dream-High/DJCM) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446951-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446951) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.03856-b31b1b.svg)](https://arxiv.org/abs/2401.03856) | :heavy_minus_sign: |
 
 
