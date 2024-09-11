@@ -33,7 +33,7 @@
 
 ## Summarization, Retrieval and Language Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -42,6 +42,10 @@
 | Unsupervised Extractive Dialogue Summarization in Hyperdimensional Space | [![GitHub](https://img.shields.io/github/stars/seongminp/hyperseg?style=flat)](https://github.com/seongminp/hyperseg) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446698-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446698) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2405.09765-b31b1b.svg)](https://arxiv.org/abs/2405.09765) | :heavy_minus_sign: |
 | AugSumm: Towards Generalizable Speech Summarization Using Synthetic Labels from Large Language Models | [![GitHub](https://img.shields.io/github/stars/Jungjee/AugSumm?style=flat)](https://github.com/Jungjee/AugSumm) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447328-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447328) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.06806-b31b1b.svg)](https://arxiv.org/abs/2401.06806) | :heavy_minus_sign: |
 | End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10201906-E4A42C.svg)](https://ieeexplore.ieee.org/document/10201906) | :heavy_minus_sign: |
+| Towards End-to-End Spoken Grammatical Error Correction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446782-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446782) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.05550-b31b1b.svg)](https://arxiv.org/abs/2311.05550) | :heavy_minus_sign: |
+| End-To-End Real Time Tracking of Children’s Reading with Pointer Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446486-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446486) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.11486-b31b1b.svg)](https://arxiv.org/abs/2310.11486) | :heavy_minus_sign: |
+| L1-Aware Multilingual Mispronunciation Detection Framework | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448480-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448480) | :heavy_minus_sign: |
+| A Study of Mispronunciation Detection and Diagnosis Based on Meta-Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447007-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447007) | :heavy_minus_sign: |
 
 
 
