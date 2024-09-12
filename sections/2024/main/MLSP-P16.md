@@ -37,6 +37,10 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
-
+| Non-Stationary Bandits with Periodic Behavior: Harnessing Ramanujan Periodicity Transforms to Conquer Time-Varying Challenges | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447590-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447590) | :heavy_minus_sign: |
+| Sequential Acquisition of Features and Experts for Datum–Wise Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447423-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447423) | :heavy_minus_sign: |
+| Rapid Change Localization in Dynamic Graphical Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447619-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447619) | :heavy_minus_sign: |
+| Graph Identification and Upper Confidence Evaluation for Causal Bandits with Linear Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445823-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445823) | :heavy_minus_sign: |
+| Streaming Active Learning for Regression Problems Using Regression via Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448362-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448362) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.01013-b31b1b.svg)](https://arxiv.org/abs/2309.01013) | :heavy_minus_sign: |
+| Filter-Enhanced Hypergraph Transformer for Multi-Behavior Sequential Recommendation | [![GitHub](https://img.shields.io/github/stars/zf-shao/FHT-MB?style=flat)](https://github.com/zf-shao/FHT-MB) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446828-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446828) | :heavy_minus_sign: |
 
