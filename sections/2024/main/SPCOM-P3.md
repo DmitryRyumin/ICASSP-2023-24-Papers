@@ -33,7 +33,7 @@
 
 ## MIMO and Massive MIMO Communication Systems
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -43,3 +43,9 @@
 | LoFi User Scheduling for Multiuser Mimo Wireless Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445898-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445898) | :heavy_minus_sign: |
 | BeamSync: Over-The-Air Synchronization for Distributed Massive MIMO Systems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10336747-E4A42C.svg)](https://ieeexplore.ieee.org/document/10336747) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.11070-b31b1b.svg)](https://arxiv.org/abs/2311.11070) | :heavy_minus_sign: |
 | Optimal Structure of Receive Beamforming for over-The-Air Computation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446858-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446858) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2404.14036-b31b1b.svg)](https://arxiv.org/abs/2404.14036) | :heavy_minus_sign: |
+| Joint Admission Control and Beamformer Design for Mobile Users: Stay Here or Move to a Better Position? | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446783-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446783) | :heavy_minus_sign: |
+| Optimal Beamforming Structure for Rate Splitting Multiple Access | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445829-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445829) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.10342-b31b1b.svg)](https://arxiv.org/abs/2309.10342) | :heavy_minus_sign: |
+| Near-Field MIMO Channel Reconstruction Via Limited Geometry Feedback | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446882-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446882) | :heavy_minus_sign: |
+| One-bit Quantization Robust to Angle-of-Arrivals for Uniform Linear Antenna Array | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447710-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447710) | :heavy_minus_sign: |
+| Hardware Impairments-Aware Design of noncoherent Grassmannian Constellations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447367-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447367) | :heavy_minus_sign: |
+| Robust Near-Field Beamforming for Millimeter Wave Communication System with Aperture Perturbations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447507-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447507) | :heavy_minus_sign: |
