@@ -37,5 +37,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| AttA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/NariFan2002/AttA-NET?style=flat)](https://github.com/NariFan2002/AttA-NET) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447640-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447640) | :heavy_minus_sign: |
+| Fusing Modality-Specific Representations and Decisions for Multimodal Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447035-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447035) | :heavy_minus_sign: |
+| Speaker-Centric Multimodal Fusion Networks for Emotion Recognition in Conversations | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447720-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447720) | :heavy_minus_sign: |
+| CLIP-MSA: Incorporating Inter-Modal Dynamics and Common Knowledge to Multimodal Sentiment Analysis With Clip | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446825-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446825) | :heavy_minus_sign: |
+| Circular Decomposition and Cross-Modal Recombination for Multimodal Sentiment Analysis | [![GitHub](https://img.shields.io/github/stars/nianhua20/GCD-CMR?style=flat)](https://github.com/nianhua20/GCD-CMR) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446166-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446166) | :heavy_minus_sign: |
 
