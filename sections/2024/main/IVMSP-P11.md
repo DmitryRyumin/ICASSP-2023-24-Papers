@@ -37,5 +37,10 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Robust Face Recognition Based on an Angle-Aware Loss and Masked Autoencoder Pre-Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446956) | :heavy_minus_sign: |
+| Fusing Structure and Appearance Features in Facial Expression Recognition Transformer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447031-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447031) | :heavy_minus_sign: |
+| SlowFast Network for Continuous Sign Language Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445841-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445841) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.12304-b31b1b.svg)](http://arxiv.org/abs/2309.12304) | :heavy_minus_sign: |
+| An Explicit Multi-Modal Fusion Method for Sign Language Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446966-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446966) | :heavy_minus_sign: |
+| Attribute-Aware Amplification of Facial Feature Sequences for Facial Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448467-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448467) | :heavy_minus_sign: |
+| Face Recognition Using Lensless Camera | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://gitlab.idiap.ch/biometric/code.face_rec_lensless) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446710-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446710) | :heavy_minus_sign: |
 
