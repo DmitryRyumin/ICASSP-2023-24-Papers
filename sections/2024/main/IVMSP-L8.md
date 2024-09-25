@@ -33,10 +33,16 @@
 
 ## Human Understanding
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-30-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| RDANet: Reject Domain Attention Network For Confused Facial Expression Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446242-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446242) | :heavy_minus_sign: |
+| Child FER: Domain-Agnostic Facial Expression Recognition in Children Using a Secondary Image Diffusion Model | [![GitHub](https://img.shields.io/github/stars/st0421/Child-FER?style=flat)](https://github.com/st0421/Child-FER) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446891-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446891) | :heavy_minus_sign: |
+| MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446699-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446699) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2404.08433-b31b1b.svg)](https://arxiv.org/abs/2404.08433) | :heavy_minus_sign: |
+| REGIR: Refined Geometry for Single-Image Implicit Clothed Human Reconstruction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445816-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445816) | :heavy_minus_sign: |
+| Unsupervised Learning of Facial Optical Flow via Occlusion-Aware Global-Local Matching | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447241-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447241) | :heavy_minus_sign: |
+| Feature-Distribution Perturbation and Calibration for Generalized Reid | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448017-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448017) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2205.11197-b31b1b.svg)](https://arxiv.org/abs/2205.11197) | :heavy_minus_sign: |
 | Robust Face Recognition Based on an Angle-Aware Loss and Masked Autoencoder Pre-Training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446956-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446956) | :heavy_minus_sign: |
 | Fusing Structure and Appearance Features in Facial Expression Recognition Transformer | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447031-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447031) | :heavy_minus_sign: |
 | SlowFast Network for Continuous Sign Language Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445841-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445841) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.12304-b31b1b.svg)](http://arxiv.org/abs/2309.12304) | :heavy_minus_sign: |
