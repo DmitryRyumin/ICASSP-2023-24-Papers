@@ -34,9 +34,17 @@
 
 ## Spatial Audio Recording and Reproduction
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Localizing Acoustic Energy in Sound Field Synthesis by Directionally Weighted Exterior Radiation Suppression | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448224-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448224) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.05809-b31b1b.svg)](https://arxiv.org/abs/2401.05809) | :heavy_minus_sign: |
+| Ambisonics Networks - The Effect of Radial Functions Regularization | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446100-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446100) | :heavy_minus_sign: |
+| Neural Ambisonics Encoding for Compact Irregular Microphone Arrays | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447425-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447425) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.05916-b31b1b.svg)](https://arxiv.org/abs/2401.05916) | :heavy_minus_sign: |
+| On HRTF Notch Frequency Prediction Using Anthropometric Features and Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447610-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447610) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2403.07579-b31b1b.svg)](https://arxiv.org/abs/2403.07579) | :heavy_minus_sign: |
+| Binaural Rendering of Heterogeneous Sound Sources with Extent | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448024-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448024) | :heavy_minus_sign: |
+| NIIRF: Neural IIR Filter Field for HRTF Upsampling and Personalization | [![GitHub](https://img.shields.io/github/stars/merlresearch/neural-IIR-field?style=flat)](https://github.com/merlresearch/neural-IIR-field) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448477-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448477) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2402.17907-b31b1b.svg)](https://arxiv.org/abs/2402.17907) | :heavy_minus_sign: |
+
+
+
 
