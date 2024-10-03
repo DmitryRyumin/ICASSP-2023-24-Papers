@@ -38,5 +38,13 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| CoQ:AN Empirical Framework for Multi-hop Question Answering Empowered by Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447488-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447488) | :heavy_minus_sign: |
+| Pro-HAN: A Heterogeneous Graph Attention Network for Profile-Based Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/AaronTengDeChuan/PRO-HAN?style=flat)](https://github.com/AaronTengDeChuan/PRO-HAN) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446254-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446254) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2402.03900-b31b1b.svg)](https://arxiv.org/abs/2402.03900) | :heavy_minus_sign: |
+| Revise the NLU: A Prompting Strategy for Robust Dialogue System | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446138-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446138) | :heavy_minus_sign: |
+| Task Selection and Assignment for Multi-modal Multi-task Dialogue Act Classification with Non-stationary Multi-armed Bandits | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447862-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447862) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.09832-b31b1b.svg)](https://arxiv.org/abs/2309.09832) | :heavy_minus_sign: |
+| Generating Persona-Aware Empathetic Responses with Retrieval-Augmented Prompt Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447417-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447417) | :heavy_minus_sign: |
+| ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447592-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447592) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2405.03960-b31b1b.svg)](https://arxiv.org/abs/2405.03960) | :heavy_minus_sign: |
+
+
+
 
