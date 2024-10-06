@@ -34,7 +34,7 @@
 
 ## Discourse and Dialog
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-20-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -56,5 +56,7 @@
 | A Generative Adversarial Framework for Dialogue Generation with Neural Architecture Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446133-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446133) | :heavy_minus_sign: |
 | Fact-Aware Summarization with Contrastive Learning for Few-Shot Dialogue State Tracking | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448311-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448311) | :heavy_minus_sign: |
 | Dual Level Intent-Slot Interaction for Improved Multi-Intent Spoken Language Understanding | [![GitHub](https://img.shields.io/github/stars/cola-11/DIF?style=flat)](https://github.com/cola-11/DIF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448206-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448206) | :heavy_minus_sign: |
+| Domain-Slot Aware Contrastive Learning for Improved Dialogue State Tracking | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447440-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447440) | :heavy_minus_sign: |
+| SADE: A Speaker-Aware Dual Encoding Model Based on Diagbert for Medical Triage and Pre-Diagnosis | [![GitHub](https://img.shields.io/github/stars/lhz9999/SADE?style=flat)](https://github.com/lhz9999/SADE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446920-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446920) | :heavy_minus_sign: |
 
 
