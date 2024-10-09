@@ -38,5 +38,10 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Improve Deep Forest with Learnable Layerwise Augmentation Policy Schedule | [![GitHub](https://img.shields.io/github/stars/dbsxfz/AugDF?style=flat)](https://github.com/dbsxfz/AugDF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446501-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446501) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.09030-b31b1b.svg)](https://arxiv.org/abs/2309.09030) | :heavy_minus_sign: |
+| One-Stage Training Generative Paradigm for Generalized Zero-Shot Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448444-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448444) | :heavy_minus_sign: |
+| CENet: Content-Aware Enhanced Network for Practical Scene Parsing | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447046-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447046) | :heavy_minus_sign: |
+| A Multi-Scale Bimodal Fusion Network for Robust and Accurate Online Handwriting Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446390-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446390) | :heavy_minus_sign: |
+| Structure-Aware in-Air Handwritten Text Recognition with Graph-Guided Cross-Modality Translator | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447531-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447531) | :heavy_minus_sign: |
+| DuNet: A Robust End-to-End Deep Neural Network Framework for Imbalanced Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445899-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445899) | :heavy_minus_sign: |
 
