@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1670/2712 -->
+      <!-- 1700/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/62?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/63?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -2098,14 +2098,26 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Pattern Recognition and Classification
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L12.md">Pattern Recognition and Classification</a>
             </td>
-            <td colspan="4" rowspan="91" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L12.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L12.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L12.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L12.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td> 
         </tr>
         <tr>
             <td>
                 Key Word Spotting
             </td>
+            <td colspan="4" rowspan="90" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
