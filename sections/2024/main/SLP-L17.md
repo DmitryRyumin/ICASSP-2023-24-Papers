@@ -34,9 +34,15 @@
 
 ## Speech Analysis - Pitch, Spectrum and Voice Disorders
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-1-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| High-Fidelity and Pitch-Controllable Neural Vocoder Based on Unified Source-Filter Networks | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg?style=flat)](https://chomeyama.github.io/PitchControllableNeuralVocoder-Demo/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10246854-E4A42C.svg)](https://ieeexplore.ieee.org/document/10246854) | :heavy_minus_sign: |
+| Automatic Temporal Alignment for Pitch Estimation Evaluation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446971-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446971) | :heavy_minus_sign: |
+| HAFFormer: A Hierarchical Attention-Free Framework for Alzheimer's Disease Detection From Spontaneous Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446795-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446795) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2405.03952-b31b1b.svg)](https://arxiv.org/abs/2405.03952) | :heavy_minus_sign: |
+| Noise-Robust DSP-Assisted Neural Pitch Estimation With Very Low Complexity | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447962-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447962) | :heavy_minus_sign: |
+| Distilling Distributional Uncertainty from a Gaussian Process | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448172-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448172) | :heavy_minus_sign: |
+| COVID-19 Detection via Fusion of Modulation Spectrum and Linear Prediction Speech Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448172-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448172) | :heavy_minus_sign: |
+
 
