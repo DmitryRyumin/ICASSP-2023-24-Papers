@@ -1,4 +1,4 @@
-# ICASSP-2024-Papers
+**# ICASSP-2024-Papers
 
 <table>
     <tr>
@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| A Study on the Adverse Impact of Synthetic Speech on Speech Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446991-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446991) | :heavy_minus_sign: |
+| Can We Trust Explainable AI Methods on ASR? An Evaluation on Phoneme Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445989-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445989) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2305.18011-b31b1b.svg)](https://arxiv.org/abs/2305.18011) | :heavy_minus_sign: |
+| Unsupervised Multi-Domain Data Selection for ASR Fine-Tuning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446931-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446931) | :heavy_minus_sign: |
+| Text-Only Unsupervised Domain Adaptation for Neural Transducer-Based ASR Personalization Using Synthesized Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446454-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446454) | :heavy_minus_sign: |
+| T-SOT FNT: Streaming Multi-talker ASR with Text-only Domain Adaptation Capability | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447904-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447904) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.08131-b31b1b.svg)](http://arxiv.org/abs/2309.08131) | :heavy_minus_sign: |
+| FastInject: Injecting Unpaired Text Data into CTC-based ASR training | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447838-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447838) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.09100-b31b1b.svg)](https://arxiv.org/abs/2312.09100) | :heavy_minus_sign: |
