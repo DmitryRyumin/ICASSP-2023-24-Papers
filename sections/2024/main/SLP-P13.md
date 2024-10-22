@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder | [![GitHub](https://img.shields.io/github/stars/jason7580/End-to-End-ASR-and-Dementia-detection-system?style=flat)](https://github.com/jason7580/End-to-End-ASR-and-Dementia-detection-system) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447680-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447680) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.03985-b31b1b.svg)](https://arxiv.org/abs/2310.03985) | :heavy_minus_sign: |
+| Spectral Analysis of Vowels and Fricatives at Varied Levels of Dysarthria Severity for Amyotrophic Lateral Sclerosis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448175-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448175) | :heavy_minus_sign: |
+| Addressing Data Scarcity in Voice Disorder Detection with Self-Supervised Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446075-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446075) | :heavy_minus_sign: |
+| Whisper-Based Transfer Learning for Alzheimer Disease Classification: Leveraging Speech Segments with Full Transcripts as Prompts | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448004-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448004) | :heavy_minus_sign: |
+| Promoting Independence of Depression and Speaker Features for Speaker Disentanglement in Speech-Based Depression Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448231-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448231) | :heavy_minus_sign: |
+| Syllable Level Features for Parkinson’s Disease Detection from Speech | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446484-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446484) | :heavy_minus_sign: |
