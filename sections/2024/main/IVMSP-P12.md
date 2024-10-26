@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Time-Interval Visual Saliency Prediction in Mammogram Reading | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446593-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446593) | :heavy_minus_sign: |
+| HADGEO: Image Based 3-DoF Cross-View Geo-Localization with Hard Sample Mining | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445839-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445839) | :heavy_minus_sign: |
+| Extending Implicit Neural Representations for Text-to-Image Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446171-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446171) | :heavy_minus_sign: |
+| SO-Net: Model-Agnostic Sequential Hand Pose Optimization Framework | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445741-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445741) | :heavy_minus_sign: |
+| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446756-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446756) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2403.05924-b31b1b.svg)](https://arxiv.org/abs/2403.05924) | :heavy_minus_sign: |
+| TALDS-Net: Task-Aware Adaptive Local Descriptors Selection for Few-shot Image Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448167-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448167) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.05449-b31b1b.svg)](https://arxiv.org/abs/2312.05449) | :heavy_minus_sign: |
