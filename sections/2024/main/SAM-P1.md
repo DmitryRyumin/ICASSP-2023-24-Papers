@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Multidimensional Scaling-Based TDOA Localization in Modified Polar Representation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446871-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446871) | :heavy_minus_sign: |
+| Identifiability Analysis of Sensor Arrays with Sensors off Half-Wavelength Grid | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447672-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447672) | :heavy_minus_sign: |
+| Three-Dimensional Spatial-Temporal Near-Field Passive Localization Based on an Exact Spatial Propagation Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447005-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447005) | :heavy_minus_sign: |
+| Reduced-Dimensional Decomposition and Eigenspace Reconstruction of Coherent Sources with Arbitrary Rectangle Arrays | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446105-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446105) | :heavy_minus_sign: |
+| Subspace-Based Co-Array Processing For Nested Arrays without Eigendecomposition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446010-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446010) | :heavy_minus_sign: |
+| A Ray-Tracing Based Fingerprinting Method for Passive Localization in Urban NLOS Environment | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447113-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447113) | :heavy_minus_sign: |
