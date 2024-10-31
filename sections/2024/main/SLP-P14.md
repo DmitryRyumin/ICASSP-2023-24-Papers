@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Cooking-Clip: Context-Aware Language-Image Pretraining for Zero-Shot Recipe Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447148-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447148) | :heavy_minus_sign: |
+| Exploring Object-Centered External Knowledge for Fine-Grained Video Paragraph Captioning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448104-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448104) | :heavy_minus_sign: |
+| Relational Graph-Bridged Image-Text Interaction: A Novel Method for Multi-Modal Relation Extraction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448507-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448507) | :heavy_minus_sign: |
+| DialCLIP: Empowering CLIP as Multi-Modal Dialog Retriever | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448111-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448111) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.01076-b31b1b.svg)](https://arxiv.org/abs/2401.01076) | :heavy_minus_sign: |
+| Vector Quantization Knowledge Transfer for End-to-End Text Image Machine Translation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447334-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447334) | :heavy_minus_sign: |
+| EmoRED: A Dataset for Relation Extraction in Texts with Emoticons | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448038-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448038) | :heavy_minus_sign: |
