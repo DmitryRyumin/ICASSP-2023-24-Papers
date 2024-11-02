@@ -20,19 +20,19 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/SLP-P14.md">
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/AASP-P9.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MLSP-L23.md">
+    <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/MMSP-P5.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
 
-## Source separation; Music analysis
+## Machine Learning for Time Series Analysis
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
