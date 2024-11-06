@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Unravel Anomalies: an End-to-End Seasonal-Trend Decomposition Approach for Time Series Anomaly Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446482-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446482) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.00268-b31b1b.svg)](https://arxiv.org/abs/2310.00268) | :heavy_minus_sign: |
+| Multivariate Time Series Forecasting with Causal-Temporal Attention Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448031-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448031) | :heavy_minus_sign: |
+| TreeMIL: A Multi-instance Learning Framework for Time Series Anomaly Detection with Inexact Supervision | [![GitHub](https://img.shields.io/github/stars/fly-orange/TreeMIL?style=flat)](https://github.com/fly-orange/TreeMIL) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447536-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447536) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.11235-b31b1b.svg)](https://arxiv.org/abs/2401.11235) | :heavy_minus_sign: |
+| DCS: Debiased Contrastive Learning with Weak Supervision for Time Series Classification | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446381-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446381) | :heavy_minus_sign: |
+| Skip-Step Contrastive Predictive Coding for Time Series Anomaly Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447104-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447104) | :heavy_minus_sign: |
+| Enhancing Short-and Long-Term Sea Surface Temperature Forecasting with a Static and Dynamic Learnable Personalized Graph Convolution Network | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448135-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448135) | :heavy_minus_sign: |
