@@ -34,7 +34,7 @@
 
 ## Machine Learning for Time Series Analysis
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-30-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-10-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -62,3 +62,9 @@
 | Cross-Camera Human Motion Transfer by Time Series Analysis | [![GitHub](https://img.shields.io/github/stars/IndigoPurple/TSAMT?style=flat)](https://github.com/IndigoPurple/TSAMT) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447077-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447077) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2109.14174-b31b1b.svg)](https://arxiv.org/abs/2109.14174) | :heavy_minus_sign: |
 | Enhancing Event Sequence Modeling with Contrastive Relational Inference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446896-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446896) | :heavy_minus_sign: |
 | Transformer-Inspired Lightweight Model for Efficient Time Series Forecasting | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448163-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448163) | :heavy_minus_sign: |
+| CGN: A Simple Yet Effective Multi-Channel Gated Network for Long-Term Time Series Forecasting | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448209-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448209) | :heavy_minus_sign: |
+| Impact of Sampling Strategies on the Monitoring of Climate Regime Shifts with a Learning Data Assimilation Method | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447041-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447041) | :heavy_minus_sign: |
+| Variational Connectionist Temporal Classification for Order-Preserving Sequence Modeling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447530-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447530) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.11983-b31b1b.svg)](https://arxiv.org/abs/2309.11983) | :heavy_minus_sign: |
+| FDNet: A Novel Multivariate Time Series Classification Model Through Fusing Feature and Difference | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447884-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447884) | :heavy_minus_sign: |
+| Urban Traffic Flow Forecasting Based on Spatial-Temporal Graph Contrastive Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448263-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448263) | :heavy_minus_sign: |
+| EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://huggingface.co/spaces/enclap-team/enclap) <br/> [![GitHub](https://img.shields.io/github/stars/jaeyeonkim99/EnCLAP?style=flat)](https://github.com/jaeyeonkim99/EnCLAP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446672-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446672) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.17690-b31b1b.svg)](https://arxiv.org/abs/2401.17690) | :heavy_minus_sign: |
