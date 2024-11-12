@@ -38,4 +38,8 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Long Term Memory-Enhanced Via Causal Reasoning for Text-To-Video Retrieval | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448201-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448201) | :heavy_minus_sign: |
+| CLIPRerank: An Extremely Simple Method for Improving Ad-hoc Video Search | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446902-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446902) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.08449-b31b1b.svg)](https://arxiv.org/abs/2401.08449) | :heavy_minus_sign: |
+| Adaptive Confidence Multi-View Hashing for Multimedia Retrieval | [![GitHub](https://img.shields.io/github/stars/HackerHyper/ACMVH?style=flat)](https://github.com/HackerHyper/ACMVH) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447517-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447517) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.07327-b31b1b.svg)](https://arxiv.org/abs/2312.07327) | :heavy_minus_sign: |
+| Key Points Centered Sparse Hashing for Cross-Modal Retrieval | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446586-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446586) | :heavy_minus_sign: |
+| Joint-Semantics Multi-Similarity Hashing for Cross-Modal Retrieval | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448261-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448261) | :heavy_minus_sign: |
