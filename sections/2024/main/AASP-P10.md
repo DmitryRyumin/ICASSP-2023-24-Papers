@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| First-Shot Unsupervised Anomalous Sound Detection With Unknown Anomalies Estimated by Metadata-Assisted Audio Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448451-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448451) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.14173-b31b1b.svg)](https://arxiv.org/abs/2310.14173) | :heavy_minus_sign: |
+| Exploring Large Scale Pre-Trained Models for Robust Machine Anomalous Sound Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447183-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447183) | :heavy_minus_sign: |
+| Few-Shot Anomalous Sound Detection Based on Anomaly Map Estimation Using Pseudo Abnormal Data | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446288-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446288) | :heavy_minus_sign: |
+| DP-MAE: A Dual-Path Masked Autoencoder Based Self-Supervised Learning Method for Anomalous Sound Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447859-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447859) | :heavy_minus_sign: |
+| Self-Supervised Learning for Anomalous Sound Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447156-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447156) | :heavy_minus_sign: |
+| Noisy-ArcMix: Additive Noisy Angular Margin Loss Combined With Mixup Anomalous Sound Detection | [![GitHub](https://img.shields.io/github/stars/soonhyeon/Noisy-ArcMix?style=flat)](https://github.com/soonhyeon/Noisy-ArcMix) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447764-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447764) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.06364-b31b1b.svg)](https://arxiv.org/abs/2310.06364) | :heavy_minus_sign: |
