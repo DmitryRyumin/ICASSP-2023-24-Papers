@@ -38,4 +38,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Multi-Speaker Localization in the Circular Harmonic Domain on Small Aperture Microphone Arrays Using Deep Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448198-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448198) | :heavy_minus_sign: |
+| LocSelect: Target Speaker Localization with an Auditory Selective Hearing Mechanism | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447143-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447143) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.10497-b31b1b.svg)](https://arxiv.org/abs/2310.10497) | :heavy_minus_sign: |
+| Auditory Cortex-Inspired Spectral Attention Modulation for Binaural Sound Localization in HRTF Mismatch | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446210-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446210) | :heavy_minus_sign: |
+| Distributed Sensor Selection for Speech Enhancement With Acoustic Sensor Networks | [![GitHub](https://img.shields.io/github/stars/ttslr/DSS-SE?style=flat)](https://github.com/ttslr/DSS-SE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10043687-E4A42C.svg)](https://ieeexplore.ieee.org/document/10043687) | :heavy_minus_sign: |
+| Alternating Least-Squares-Based Microphone Array Parameter Estimation for a Single-Source Reverberant and Noisy Acoustic Scenario | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10229512-E4A42C.svg)](https://ieeexplore.ieee.org/document/10229512) | :heavy_minus_sign: |
+| GCC-PHAT Re-Imagined - A U-Net Filter for Audio TDOA Peak-Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447558-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447558) | :heavy_minus_sign: |
