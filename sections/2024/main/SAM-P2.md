@@ -34,7 +34,7 @@
 
 ## Acoustic Array and Signal Processing
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-13-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-3-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -44,3 +44,10 @@
 | Distributed Sensor Selection for Speech Enhancement With Acoustic Sensor Networks | [![GitHub](https://img.shields.io/github/stars/ttslr/DSS-SE?style=flat)](https://github.com/ttslr/DSS-SE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10043687-E4A42C.svg)](https://ieeexplore.ieee.org/document/10043687) | :heavy_minus_sign: |
 | Alternating Least-Squares-Based Microphone Array Parameter Estimation for a Single-Source Reverberant and Noisy Acoustic Scenario | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10229512-E4A42C.svg)](https://ieeexplore.ieee.org/document/10229512) | :heavy_minus_sign: |
 | GCC-PHAT Re-Imagined - A U-Net Filter for Audio TDOA Peak-Selection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447558-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447558) | :heavy_minus_sign: |
+| All Neural Kronecker Product Beamforming for Speech Extraction with Large-Scale Microphone Arrays | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447292-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447292) | :heavy_minus_sign: |
+| On the Design of Planar Differential Microphone Arrays with Specified Beamwidth or Sidelobe Level | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446803-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446803) | :heavy_minus_sign: |
+| CST-former: Transformer with Channel-Spectro-Temporal Attention for Sound Event Localization and Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447181-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447181) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.12821-b31b1b.svg)](https://arxiv.org/abs/2312.12821) | :heavy_minus_sign: |
+| Batch Substitution Calibration of a Mems Microphone Array : Impact of Sensor Performance Dispersion on Directivity Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446659-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446659) | :heavy_minus_sign: |
+| Binaural Sound Source Localization Using a Hybrid Time and Frequency Domain Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448005-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448005) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2402.03867-b31b1b.svg)](https://arxiv.org/abs/2402.03867) | :heavy_minus_sign: |
+| Distributed Self-Localization for Acoustic Transceiver Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10121621-E4A42C.svg)](https://ieeexplore.ieee.org/document/10121621) | :heavy_minus_sign: |
+| Analytical Performance Assessment of 2-D Tensor ESPRIT in Terms of Physical Parameters | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10334446-E4A42C.svg)](https://ieeexplore.ieee.org/document/10334446) | :heavy_minus_sign: |
