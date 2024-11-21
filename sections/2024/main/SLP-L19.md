@@ -34,8 +34,13 @@
 
 ## Language Understanding and Computational Semantics - Language Models
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Hint-Enhanced In-Context Learning Wakes Large Language Models Up For Knowledge-Intensive Tasks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447527-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447527) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.01949-b31b1b.svg)](https://arxiv.org/abs/2311.01949) | :heavy_minus_sign: |
+| Enabling Device Control Planning Capabilities of Small Language Model | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446064-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446064) | :heavy_minus_sign: |
+| Tree of Uncertain Thoughts Reasoning for Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448355-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448355) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.07694-b31b1b.svg)](https://arxiv.org/abs/2309.07694) | :heavy_minus_sign: |
+| Retrieval-Generation Synergy Augmented Large Language Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448015-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448015) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.05149-b31b1b.svg)](https://arxiv.org/abs/2310.05149) | :heavy_minus_sign: |
+| Leveraging Biases in Large Language Models: "bias-kNN'' for Effective Few-Shot Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447730-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447730) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.09783-b31b1b.svg)](https://arxiv.org/abs/2401.09783) | :heavy_minus_sign: |
+| Robust Self-Supervised Learning with Contrast Samples for Natural Language Understanding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448238-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448238) | :heavy_minus_sign: |
