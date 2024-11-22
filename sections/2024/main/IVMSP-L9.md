@@ -34,8 +34,13 @@
 
 ## Deep Learning Theory
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Dual Rank-1 Tensor Attention Module for Convolutional Neural Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446465-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446465) | :heavy_minus_sign: |
+| Deep Neighbor Layer Aggregation for Lightweight Self-Supervised Monocular Depth Estimation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447168-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447168) | :heavy_minus_sign: |
+| Self-Supervised Multi-Scale Hierarchical Refinement Method for Joint Learning of Optical Flow and Depth | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447321-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447321) | :heavy_minus_sign: |
+| DAMP: Distribution-Aware Magnitude Pruning for Budget-Sensitive Graph Convolutional Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448148-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448148) | :heavy_minus_sign: |
+| Lighting Image/Video Style Transfer Methods by Iterative Channel Pruning | [![GitHub](https://img.shields.io/github/stars/wukx-wukx/ICCP?style=flat)](https://github.com/wukx-wukx/ICCP) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446950-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446950) | :heavy_minus_sign: |
+| The Devil is in Details: Delving Into Lite FFN Design for Vision Transformers | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447756-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447756) | :heavy_minus_sign: |
