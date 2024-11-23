@@ -2370,7 +2370,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
         </tr>
         <tr>
             <td>
-                Deep Learning Theory
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-L9.md">Deep Learning Theory</a>
             </td>
            <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-L9.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
