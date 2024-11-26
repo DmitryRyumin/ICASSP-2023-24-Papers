@@ -34,8 +34,13 @@
 
 ## Sampling Theory, Compressed and Non-Uniform Sampling
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-> Will soon be added
+| Towards Optimized Multi-Channel Modulo-ADCs: Moduli Selection Strategies and Bit Depth Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448478-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448478) | :heavy_minus_sign: |
+| Frequency Estimation via Sub-Nyquist Unlimited Sampling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447003-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447003) | :heavy_minus_sign: |
+| Dual-Channel Unlimited Sampling for Bandpass Signals | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446576-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446576) | :heavy_minus_sign: |
+| Neuromorphic Sensing Meets Unlimited Sampling | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447840-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447840) | :heavy_minus_sign: |
+| On Time-Encoded Sampling for Multigenerator Shift Invariant Spaces | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447648-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447648) | :heavy_minus_sign: |
+| Covariance Matrix Recovery From One-Bit Data With Non-Zero Quantization Thresholds: Algorithm and Performance Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447648-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447648) | :heavy_minus_sign: |
