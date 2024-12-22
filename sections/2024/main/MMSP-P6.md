@@ -34,7 +34,7 @@
 
 ## Human-Centric Multimedia
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-5-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-10-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -43,3 +43,8 @@
 | Modality Dropout for Multimodal Device Directed Speech Detection using Verbal and Non-Verbal Features | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446421-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446421) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.15261-b31b1b.svg)](http://arxiv.org/abs/2310.15261) | :heavy_minus_sign: |
 | Audio-Visual Child-Adult Speaker Classification in Dyadic Interactions | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447515-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447515) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2310.01867-b31b1b.svg)](https://arxiv.org/abs/2310.01867) | :heavy_minus_sign: |
 | Long-Term Social Interaction Context: The Key to Egocentric Addressee Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447323-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447323) | :heavy_minus_sign: |
+| AutoSen: Improving Automatic WiFi Human Sensing through Cross-Modal Autoencoder | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446641-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446641) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.05440-b31b1b.svg)](https://arxiv.org/abs/2401.05440) | :heavy_minus_sign: |
+| Facial Micro-Motion-Aware Mixup for Micro-Expression Recognition | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446492-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446492) | :heavy_minus_sign: |
+| MMBaT: A Multi-task Framework for mmWave-based Human Body Reconstruction and Translation Prediction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448164-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448164) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.10346-b31b1b.svg)](https://arxiv.org/abs/2312.10346) | :heavy_minus_sign: |
+| Exploring Multi-Modal Control in Music-Driven Dance Generation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447825-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447825) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.01382-b31b1b.svg)](https://arxiv.org/abs/2401.01382) | :heavy_minus_sign: |
+| Conversational Co-Speech Gesture Generation via Modeling Dialog Intention, Emotion, and Context with Diffusion Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448208-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448208) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.15567-b31b1b.svg)](https://arxiv.org/abs/2312.15567) | :heavy_minus_sign: |
