@@ -34,7 +34,7 @@
 
 ## Image Recognition and Detection
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-5-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-4-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -50,3 +50,9 @@
 | Ellipse Detection Based On Structure-Preserving Anisotropic Edge Extraction | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447317-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447317) | :heavy_minus_sign: |
 | Online Mouse Behavior Detection by Historical Dependency and Typical Instances | [![GitHub](https://img.shields.io/github/stars/Seabook-Y/OMBD?style=flat)](https://github.com/Seabook-Y/OMBD) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447358-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447358) | :heavy_minus_sign: |
 | Zero-Shot Co-Salient Object Detection Framework | [![GitHub](https://img.shields.io/github/stars/hkxiao/zs-cosod?style=flat)](https://github.com/hkxiao/zs-cosod) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448084-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448084) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.05499-b31b1b.svg)](https://arxiv.org/abs/2309.05499) | :heavy_minus_sign: |
+| Blenda: Domain Adaptive Object Detection Through Diffusion-Based Blending | [![GitHub](https://img.shields.io/github/stars/aiiu-lab/BlenDA?style=flat)](https://github.com/aiiu-lab/BlenDA) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446537-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446537) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.09921-b31b1b.svg)](https://arxiv.org/abs/2401.09921) | :heavy_minus_sign: |
+| HOICS: Zero-Shot Hoi Detection via Compatibility Self-Learning | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446999-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446999) | :heavy_minus_sign: |
+| Local Contrast Prior-Guided Cross Aggregation Model for Effective Infrared Small Target Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446391-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446391) | :heavy_minus_sign: |
+| PFCF-Net: A Network Based on Progressive Feature Interaction and Cross-Scale Feature Fusion for Remote Sensing Change Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448442-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448442) | :heavy_minus_sign: |
+| Real-Oriented Object Detection Driven by Intelligent Stockbreeding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447961-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447961) | :heavy_minus_sign: |
+| EDM: Synthetic Data from Exemplar Diffusion Model Improves Non-Communicable Diseases Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447799-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447799) | :heavy_minus_sign: |
