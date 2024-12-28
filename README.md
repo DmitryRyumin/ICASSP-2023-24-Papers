@@ -73,9 +73,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 2071/2712 -->
+      <!-- 2077/2712 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/76?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/77?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -2662,7 +2662,7 @@ ICASSP 2024 Papers: A complete collection of influential and exciting research p
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P15.md">Image Recognition and Detection</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P15.md"><img src="https://img.shields.io/badge/18-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P15.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers/blob/main/sections/2024/main/IVMSP-P15.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>

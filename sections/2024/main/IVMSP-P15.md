@@ -34,7 +34,7 @@
 
 ## Image Recognition and Detection
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-24-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-5-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -56,3 +56,9 @@
 | PFCF-Net: A Network Based on Progressive Feature Interaction and Cross-Scale Feature Fusion for Remote Sensing Change Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448442-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448442) | :heavy_minus_sign: |
 | Real-Oriented Object Detection Driven by Intelligent Stockbreeding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447961-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447961) | :heavy_minus_sign: |
 | EDM: Synthetic Data from Exemplar Diffusion Model Improves Non-Communicable Diseases Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447799-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447799) | :heavy_minus_sign: |
+| Local Information Guided Global Integration for Infrared Small Target Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446452-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446452) | :heavy_minus_sign: |
+| PseKD: Phase-Shift Encoded Knowledge Distillation for Oriented Object Detection in Remote Sensing Images | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447000-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447000) | :heavy_minus_sign: |
+| SRP-UOD: Multi-Branch Hybrid Network Framework Based on Structural Re-Parameterization for Underwater Small Object Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446617-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446617) | :heavy_minus_sign: |
+| Attention Decoupling for Query-Based Object Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447669-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447669) | :heavy_minus_sign: |
+| Prediction-Correction Line Segment Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447671-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447671) | :heavy_minus_sign: |
+| Glance, Focus and Refinement Network for Remote Sensing Change Detection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447998-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447998) | :heavy_minus_sign: |
