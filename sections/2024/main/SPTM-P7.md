@@ -34,7 +34,7 @@
 
 ## Signal Processing over Graphs and Networks
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-6-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-4-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -44,3 +44,8 @@
 | Bayesian Topology Inference on Partially Known Networks from Input-Output Pairs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447496-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447496) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.06532-b31b1b.svg)](https://arxiv.org/abs/2309.06532) | :heavy_minus_sign: |
 | Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446530-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446530) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2309.07813-b31b1b.svg)](https://arxiv.org/abs/2309.07813) | :heavy_minus_sign: |
 | A Joint Data Compression and Time-Delay Estimation Method For Distributed Systems via Extremum Encoding | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446180-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446180) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2404.09244-b31b1b.svg)](https://arxiv.org/abs/2404.09244) | :heavy_minus_sign: |
+| Cramer-Rao Bound for Admittance Matrix Estimation under Laplacian Constraints | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447538-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447538) | :heavy_minus_sign: |
+| Disentangling the Spectral Properties of the Hodge Laplacian: not all small Eigenvalues are Equal | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446051-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446051) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2311.14427-b31b1b.svg)](https://arxiv.org/abs/2311.14427) | :heavy_minus_sign: |
+| Tensor Graph Decomposition for Temporal Networks | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447234-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447234) | :heavy_minus_sign: |
+| Recovering Missing Node Features with Local Structure-Based Embeddings | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447223-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447223) | :heavy_minus_sign: |
+| A Spectral Analysis of Graph Neural Networks on Dense and Sparse Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448216-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448216) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2211.03231-b31b1b.svg)](https://arxiv.org/abs/2211.03231) | :heavy_minus_sign: |
