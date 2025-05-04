@@ -34,10 +34,11 @@
 
 ## Signal Processing over Graphs and Networks
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-11-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-1-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-12-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| Contrastive Deep Nonnegative Matrix Factorization for Community Detection | [![GitHub](https://img.shields.io/github/stars/6lyc/CDNMF?style=flat)](https://github.com/6lyc/CDNMF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446107-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446107) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.02357-b31b1b.svg)](https://arxiv.org/abs/2311.02357)| :heavy_minus_sign: |
 | Multi-View Interactive Compromise Learning for Group Recommendation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10445991-E4A42C.svg)](https://ieeexplore.ieee.org/document/10445991) | :heavy_minus_sign: |
 | Evolution Backcasting of Edge Flows From Partial Observations Using Simplicial Vector Autoregressive Models | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448180-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448180) | :heavy_minus_sign: |
 | On the Generalization Error of Byzantine-Resilient Decentralized Learning | [![GitHub](https://img.shields.io/github/stars/haoxiangye/BRDSGD-GE?style=flat)](https://github.com/haoxiangye/BRDSGD-GE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447366-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447366) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2407.08632-b31b1b.svg)](https://arxiv.org/abs/2407.08632) | :heavy_minus_sign: |

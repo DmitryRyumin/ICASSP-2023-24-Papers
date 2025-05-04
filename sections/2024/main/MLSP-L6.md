@@ -33,10 +33,11 @@
 
 ## Self-Supervised and Semi-Supervised Learning
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-26-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-7-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-27-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-10-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-8-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| Contrastive Deep Nonnegative Matrix Factorization for Community Detection | [![GitHub](https://img.shields.io/github/stars/6lyc/CDNMF?style=flat)](https://github.com/6lyc/CDNMF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446107-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446107) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.02357-b31b1b.svg)](https://arxiv.org/abs/2311.02357)| :heavy_minus_sign: |
 | J-MAE: Jigsaw Meets Masked Autoencoders in X-Ray Security Inspection | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10448091-E4A42C.svg)](https://ieeexplore.ieee.org/document/10448091) | :heavy_minus_sign: |
 | Adaptive Multi-View Joint Contrastive Learning on Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447431-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447431) | :heavy_minus_sign: |
 | uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures | [![GitHub](https://img.shields.io/github/stars/PLAN-Lab/uamix-MAE?style=flat)](https://github.com/PLAN-Lab/uamix-MAE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446342-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446342) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2403.09579-b31b1b.svg)](https://arxiv.org/abs/2403.09579) | :heavy_minus_sign: |
