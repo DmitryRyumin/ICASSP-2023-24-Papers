@@ -33,10 +33,11 @@
 
 ## Signal and Information Processing over Graphs
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-17-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-8-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-2-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-18-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-9-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| Contrastive Deep Nonnegative Matrix Factorization for Community Detection | [![GitHub](https://img.shields.io/github/stars/6lyc/CDNMF?style=flat)](https://github.com/6lyc/CDNMF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446107-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446107) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.02357-b31b1b.svg)](https://arxiv.org/abs/2311.02357)| :heavy_minus_sign: |
 | A Wasserstein Graph Distance based on Distributions of Probabilistic Node Embeddings | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://git.rwth-aachen.de/netsci/wasserstein-graph-dist-prob-embeddings/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447922-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447922) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2401.03913-b31b1b.svg)](https://arxiv.org/abs/2401.03913) | :heavy_minus_sign: |
 | Privacy Leakage in Graph Signal to Graph Matching Problems | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447364-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447364) | :heavy_minus_sign: |
 | Irregularity-Aware Bandlimited Approximation for Graph Signal Interpolation | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446478-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446478) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.09405-b31b1b.svg)](https://arxiv.org/abs/2312.09405) | :heavy_minus_sign: |
