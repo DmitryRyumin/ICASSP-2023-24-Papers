@@ -33,10 +33,11 @@
 
 ## Graph Neural Networks
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-36-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-9-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-37-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-7-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-10-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| Contrastive Deep Nonnegative Matrix Factorization for Community Detection | [![GitHub](https://img.shields.io/github/stars/6lyc/CDNMF?style=flat)](https://github.com/6lyc/CDNMF) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446107-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446107) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2311.02357-b31b1b.svg)](https://arxiv.org/abs/2311.02357)| :heavy_minus_sign: |
 | DGLP: Incorporating Orientation Information for Enhanced Link Prediction in Directed Graphs | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446078-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446078) | :heavy_minus_sign: |
 | Graph Neural Networks are more Powerful than we Think | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447704-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447704) | :heavy_minus_sign: |
 | Stability of Graph Convolutional Neural Networks through the Lens of Small Perturbation Analysis | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447343-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447343) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.12934-b31b1b.svg)](https://arxiv.org/abs/2312.12934) | :heavy_minus_sign: |
